@@ -1,0 +1,35 @@
+name: la28_heat_risk
+version: "0.1.0"
+config-version: 2
+profile: la28_heat_risk
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # Historical analogue window: same calendar dates +/- this many days, every baseline year
+  analog_window_days: 3
+  baseline_start_year: 2015
+  baseline_end_year: 2025
+
+models:
+  la28_heat_risk:
+    staging:
+      # tables, not views: views would keep relative paths to the parquet files and
+      # break when the warehouse is opened from anywhere but transform/
+      +materialized: table
+      +schema: staging
+    silver:
+      +materialized: table
+      +schema: silver
+    gold:
+      +materialized: table
+      +schema: gold
+
+seeds:
+  la28_heat_risk:
+    +schema: ref

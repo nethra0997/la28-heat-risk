@@ -1,0 +1,208 @@
+{
+ "rose_bowl": {
+  "venue_id": "rose_bowl",
+  "brief": "**Rose Bowl Stadium Heat Safety Brief**\n\nThe Rose Bowl Stadium in Pasadena, California will host the Football (Soccer) - Final Stages from July 21st to July 29th, 2028. As outdoor venue operations staff, it is essential to prioritize heat safety for athletes, spectators, and staff.\n\n**Key Information:**\n\n* The worst-case scenario for athlete WBGT is 29.9\u00b0C (85.8\u00b0F) on July 29th, 12:30-15:30, which is classified as \"yellow\" on the flag scale.\n* The surrounding neighbourhood ranks more vulnerable than 59% of California census tracts.\n* The neighbourhood has a high proportion of households without a car (10.4%) and a significant share of residents aged 65 and above (16.7%).\n\n**Actions:**\n\n* Ensure adequate hydration and rest breaks for athletes and staff during peak heat hours.\n* Provide shade and cooling measures for spectators arriving outdoors, particularly during the riskiest sessions.\n* Monitor weather forecasts and adjust heat safety measures accordingly, taking into account the forecasted peak WBGT temperatures and flags.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Rose Bowl Stadium",
+   "zone": "Pasadena Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Final Stages",
+   "sessions": 5,
+   "games_dates": "2028-07-21 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 74.6,
+   "worst_session_athlete_wbgt_p90_c": 29.9,
+   "worst_session_athlete_wbgt_p90_f": 85.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 59.1,
+   "neighbourhood_share_age_65_plus_pct": 16.7,
+   "neighbourhood_share_households_no_car_pct": 10.4,
+   "surface_temp_anomaly_vs_surroundings_c": 0.4,
+   "ozone_days_over_aqi_100_pct": 22.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-29 00:00:00",
+     "time": "12:30-15:30",
+     "medal_session": "gold",
+     "risk_score": 74.6,
+     "athlete_wbgt_p90_c": 29.9,
+     "athlete_wbgt_p90_f": 85.8,
+     "arrival_wbgt_p90_c": 29.2,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 2.6,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-28 00:00:00",
+     "time": "18:00-21:00",
+     "medal_session": "gold",
+     "risk_score": 64.6,
+     "athlete_wbgt_p90_c": 27.0,
+     "athlete_wbgt_p90_f": 80.6,
+     "arrival_wbgt_p90_c": 28.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-25 00:00:00",
+     "time": "20:30-23:30",
+     "medal_session": NaN,
+     "risk_score": 37.5,
+     "athlete_wbgt_p90_c": 21.3,
+     "athlete_wbgt_p90_f": 70.3,
+     "arrival_wbgt_p90_c": 23.2,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "next_days_forecast": [
+    {
+     "date": "2026-09-29 00:00:00",
+     "peak_wbgt_c": 22.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-09-30 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 28.8,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 31.9,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-09-29T19:02:20.467467+00:00"
+ },
+ "la_coliseum": {
+  "venue_id": "la_coliseum",
+  "brief": "**Heat Safety Brief for Los Angeles Memorial Coliseum**\n\nThe Los Angeles Memorial Coliseum will host Athletics (Track & Field) events, as well as the Opening and Closing Ceremonies, from July 14th to July 30th, 2028. The venue is located in the Exposition Park Zone and will have outdoor exposure.\n\nThe worst-case scenario for athletes is a WBGT of 28.0\u00b0C (82.4\u00b0F) on a p90 day, which is a hot but not extreme day. There are no sessions with red or black flag conditions.\n\n**Actions:**\n\n* Ensure that spectators arriving at the venue are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Provide regular water breaks and encourage athletes to drink plenty of water to stay hydrated.\n* Monitor the weather forecast and adjust operations accordingly, especially on days with yellow or red flag conditions.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Los Angeles Memorial Coliseum",
+   "zone": "Exposition Park Zone",
+   "exposure": "outdoor",
+   "sports": "Athletics (Track & Field), Closing Ceremony, Opening Ceremony - Celebration",
+   "sessions": 19,
+   "games_dates": "2028-07-14 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 57.5,
+   "worst_session_athlete_wbgt_p90_c": 28.0,
+   "worst_session_athlete_wbgt_p90_f": 82.4,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_svi_percentile": 88.4,
+   "neighbourhood_share_age_65_plus_pct": 8.6,
+   "neighbourhood_share_households_no_car_pct": 18.1,
+   "surface_temp_anomaly_vs_surroundings_c": -3.1,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-22 00:00:00",
+     "time": "14:05-18:15",
+     "medal_session": "gold",
+     "risk_score": 57.5,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-23 00:00:00",
+     "time": "15:30-18:10",
+     "medal_session": "gold",
+     "risk_score": 55.8,
+     "athlete_wbgt_p90_c": 26.9,
+     "athlete_wbgt_p90_f": 80.4,
+     "arrival_wbgt_p90_c": 27.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-21 00:00:00",
+     "time": "09:35-12:25",
+     "medal_session": "gold",
+     "risk_score": 54.9,
+     "athlete_wbgt_p90_c": 28.0,
+     "athlete_wbgt_p90_f": 82.4,
+     "arrival_wbgt_p90_c": 25.5,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "next_days_forecast": [
+    {
+     "date": "2026-09-29 00:00:00",
+     "peak_wbgt_c": 23.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-09-30 00:00:00",
+     "peak_wbgt_c": 26.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 28.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.8,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-09-29T19:01:53.667590+00:00"
+ }
+}

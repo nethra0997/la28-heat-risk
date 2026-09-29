@@ -1,0 +1,6 @@
+component,weight,description
+athlete_heat,0.35,Typical-bad-day (p90) peak WBGT during the session at the venue exposure (sun / shade / indoor)
+spectator_heat,0.25,p90 outdoor WBGT in the arrival hour before the session (queues and walking are outdoors even for indoor venues)
+community,0.20,Area-weighted CDC/ATSDR SVI percentile of tracts within 3 km
+surface_heat,0.10,Landsat land-surface temperature anomaly vs the surrounding 10 km (local heat island)
+air_quality,0.10,Share of July-August days with ozone AQI above 100 at nearby monitors

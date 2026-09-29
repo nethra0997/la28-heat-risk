@@ -1,0 +1,1129 @@
+venue_id,venue_name,exposure,hour_local,wbgt_sun_median_c,wbgt_sun_p90_c,temp_median_c
+alamitos_beach,Alamitos Beach Stadium,outdoor,0,17.54133391503372,19.52231122667317,18.8
+alamitos_beach,Alamitos Beach Stadium,outdoor,1,17.415301493799795,19.395281979746247,18.6
+alamitos_beach,Alamitos Beach Stadium,outdoor,2,17.245115529457745,19.357925218475906,18.3
+alamitos_beach,Alamitos Beach Stadium,outdoor,3,17.131084452297358,19.300634566868517,18.1
+alamitos_beach,Alamitos Beach Stadium,outdoor,4,17.015939584978643,19.243764476081353,18.0
+alamitos_beach,Alamitos Beach Stadium,outdoor,5,17.185251518272967,19.14458557012537,18.0
+alamitos_beach,Alamitos Beach Stadium,outdoor,6,17.13356427473775,19.16442988420298,18.1
+alamitos_beach,Alamitos Beach Stadium,outdoor,7,18.34980796040427,20.459447089860095,18.5
+alamitos_beach,Alamitos Beach Stadium,outdoor,8,20.38510347735423,22.745111255842986,19.6
+alamitos_beach,Alamitos Beach Stadium,outdoor,9,22.438376720356644,24.516925297845273,21.2
+alamitos_beach,Alamitos Beach Stadium,outdoor,10,23.53724050667967,25.472858214632495,22.9
+alamitos_beach,Alamitos Beach Stadium,outdoor,11,24.23236539532072,26.2570916339706,24.1
+alamitos_beach,Alamitos Beach Stadium,outdoor,12,24.551246721274264,26.546773614007652,24.7
+alamitos_beach,Alamitos Beach Stadium,outdoor,13,24.600189374289023,26.78072225089278,25.4
+alamitos_beach,Alamitos Beach Stadium,outdoor,14,24.72906173284028,26.542439007724703,25.7
+alamitos_beach,Alamitos Beach Stadium,outdoor,15,24.627694585690058,26.493666248138197,25.6
+alamitos_beach,Alamitos Beach Stadium,outdoor,16,24.158185622745826,25.88297735853933,25.3
+alamitos_beach,Alamitos Beach Stadium,outdoor,17,23.410853218859117,25.223440438203987,24.5
+alamitos_beach,Alamitos Beach Stadium,outdoor,18,22.4931864076418,24.176955701998633,23.4
+alamitos_beach,Alamitos Beach Stadium,outdoor,19,21.211722006370138,22.753559348611173,22.2
+alamitos_beach,Alamitos Beach Stadium,outdoor,20,19.57509764479996,21.262273460353573,20.9
+alamitos_beach,Alamitos Beach Stadium,outdoor,21,18.230128182233546,19.99965218738265,20.0
+alamitos_beach,Alamitos Beach Stadium,outdoor,22,17.985772106140363,19.705322621070543,19.6
+alamitos_beach,Alamitos Beach Stadium,outdoor,23,17.81923831343081,19.599234190785552,19.2
+belmont_shore,Belmont Shore,outdoor,0,17.862214100289748,19.655056196593186,19.3
+belmont_shore,Belmont Shore,outdoor,1,17.65402433936483,19.54060399649258,19.0
+belmont_shore,Belmont Shore,outdoor,2,17.495747544674646,19.43278094123612,18.8
+belmont_shore,Belmont Shore,outdoor,3,17.354609825642875,19.345039087819845,18.5
+belmont_shore,Belmont Shore,outdoor,4,17.239581505576034,19.300301134076243,18.2
+belmont_shore,Belmont Shore,outdoor,5,17.371731414134324,19.282217535509897,18.3
+belmont_shore,Belmont Shore,outdoor,6,17.34599923624976,19.19963066360533,18.4
+belmont_shore,Belmont Shore,outdoor,7,18.46566749526749,20.494654663158144,18.8
+belmont_shore,Belmont Shore,outdoor,8,20.518295305409815,22.686600510888375,19.9
+belmont_shore,Belmont Shore,outdoor,9,22.47542418432904,24.662629147723308,21.2
+belmont_shore,Belmont Shore,outdoor,10,23.627699113925605,25.63553599351971,22.9
+belmont_shore,Belmont Shore,outdoor,11,24.317128480321895,26.120073206940923,24.2
+belmont_shore,Belmont Shore,outdoor,12,24.547302343514726,26.46385545390421,25.0
+belmont_shore,Belmont Shore,outdoor,13,24.57700345383378,26.712407554108168,25.6
+belmont_shore,Belmont Shore,outdoor,14,24.787644616813598,26.592999472704477,26.1
+belmont_shore,Belmont Shore,outdoor,15,24.70993406125711,26.76695972717223,26.1
+belmont_shore,Belmont Shore,outdoor,16,24.383619724339116,26.461345657734075,26.0
+belmont_shore,Belmont Shore,outdoor,17,23.740292347978084,25.49348107004808,25.2
+belmont_shore,Belmont Shore,outdoor,18,22.772700954011448,24.44573676396222,24.2
+belmont_shore,Belmont Shore,outdoor,19,21.50428056997633,23.129602872817593,22.9
+belmont_shore,Belmont Shore,outdoor,20,19.86454056983984,21.511865061621616,21.5
+belmont_shore,Belmont Shore,outdoor,21,18.563360293690934,20.203546489826042,20.6
+belmont_shore,Belmont Shore,outdoor,22,18.331499887464805,19.94550700686866,20.2
+belmont_shore,Belmont Shore,outdoor,23,18.124065337482655,19.889175841911225,19.8
+bmo_stadium,BMO Stadium,outdoor,0,17.704685821754317,19.50253978191404,19.7
+bmo_stadium,BMO Stadium,outdoor,1,17.525298396627107,19.38001060686684,19.3
+bmo_stadium,BMO Stadium,outdoor,2,17.322576086515625,19.126533244137967,19.0
+bmo_stadium,BMO Stadium,outdoor,3,17.137272683462538,18.979651552569514,18.7
+bmo_stadium,BMO Stadium,outdoor,4,16.98545808127778,18.885214509858425,18.5
+bmo_stadium,BMO Stadium,outdoor,5,17.062520779295397,18.95577271544807,18.5
+bmo_stadium,BMO Stadium,outdoor,6,17.156421705936346,19.006580433134623,18.5
+bmo_stadium,BMO Stadium,outdoor,7,18.371684956431892,20.54900848805165,18.9
+bmo_stadium,BMO Stadium,outdoor,8,20.670888341745687,22.85585238724973,20.0
+bmo_stadium,BMO Stadium,outdoor,9,23.049814734920506,25.302574442682,22.0
+bmo_stadium,BMO Stadium,outdoor,10,24.732226976852257,26.723791759683028,24.3
+bmo_stadium,BMO Stadium,outdoor,11,25.735920992982557,27.623598007738565,26.5
+bmo_stadium,BMO Stadium,outdoor,12,26.191830251705003,27.928387245167126,27.7
+bmo_stadium,BMO Stadium,outdoor,13,25.759129339169696,27.634184673195925,28.3
+bmo_stadium,BMO Stadium,outdoor,14,25.307356431513657,27.183963276887113,28.1
+bmo_stadium,BMO Stadium,outdoor,15,24.90394457665271,26.81890394469328,27.5
+bmo_stadium,BMO Stadium,outdoor,16,24.24455349916343,26.179207971093028,26.7
+bmo_stadium,BMO Stadium,outdoor,17,23.42817410951094,25.738758271527665,25.5
+bmo_stadium,BMO Stadium,outdoor,18,22.372604381385635,24.330641132197513,24.4
+bmo_stadium,BMO Stadium,outdoor,19,21.15510484835899,23.167406774813486,22.8
+bmo_stadium,BMO Stadium,outdoor,20,19.64330787828563,21.571537521165833,21.3
+bmo_stadium,BMO Stadium,outdoor,21,18.416296340931222,20.204526333152028,20.7
+bmo_stadium,BMO Stadium,outdoor,22,18.17230753323197,20.011247663795483,20.4
+bmo_stadium,BMO Stadium,outdoor,23,17.96672743746297,19.791737047421467,20.0
+carson_field,Carson Field (hockey),outdoor,0,17.745117612270416,19.43468562970799,19.4
+carson_field,Carson Field (hockey),outdoor,1,17.536046771673522,19.23305807857127,19.0
+carson_field,Carson Field (hockey),outdoor,2,17.364715273355795,19.107249469386776,18.7
+carson_field,Carson Field (hockey),outdoor,3,17.28534400938481,19.044919219811607,18.6
+carson_field,Carson Field (hockey),outdoor,4,17.172279252567282,18.9297581710708,18.5
+carson_field,Carson Field (hockey),outdoor,5,17.286577018939067,19.082504606746287,18.4
+carson_field,Carson Field (hockey),outdoor,6,17.278805701244988,19.0406135212338,18.4
+carson_field,Carson Field (hockey),outdoor,7,18.416057447934083,20.387187346955233,18.8
+carson_field,Carson Field (hockey),outdoor,8,20.580726405013753,22.802385822049963,20.1
+carson_field,Carson Field (hockey),outdoor,9,22.89460200555804,25.22388054875947,22.1
+carson_field,Carson Field (hockey),outdoor,10,24.487082054097087,26.852535916189623,24.1
+carson_field,Carson Field (hockey),outdoor,11,25.46302086968678,27.466228675106926,26.1
+carson_field,Carson Field (hockey),outdoor,12,25.936047401379533,27.61629751016856,27.0
+carson_field,Carson Field (hockey),outdoor,13,25.8374122759673,27.82156020350064,27.9
+carson_field,Carson Field (hockey),outdoor,14,25.71166613128883,27.516059475648436,28.0
+carson_field,Carson Field (hockey),outdoor,15,25.334207270315222,27.044690384644937,27.6
+carson_field,Carson Field (hockey),outdoor,16,24.73237787815977,26.481300697915238,26.9
+carson_field,Carson Field (hockey),outdoor,17,23.951904936738153,25.68765901462582,25.9
+carson_field,Carson Field (hockey),outdoor,18,22.812110874689385,24.614197857069108,24.7
+carson_field,Carson Field (hockey),outdoor,19,21.4358493936133,22.996705785140286,23.3
+carson_field,Carson Field (hockey),outdoor,20,19.74781473099022,21.39055805070718,21.5
+carson_field,Carson Field (hockey),outdoor,21,18.500947897955406,20.252609491915983,20.7
+carson_field,Carson Field (hockey),outdoor,22,18.24742107685661,19.98276080260605,20.2
+carson_field,Carson Field (hockey),outdoor,23,17.959667871574567,19.694623960367498,19.7
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,0,17.745117612270416,19.43468562970799,19.4
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,1,17.536046771673522,19.23305807857127,19.0
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,2,17.364715273355795,19.107249469386776,18.7
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,3,17.28534400938481,19.044919219811607,18.6
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,4,17.172279252567282,18.9297581710708,18.5
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,5,17.286577018939067,19.082504606746287,18.4
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,6,17.278805701244988,19.0406135212338,18.4
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,7,18.416057447934083,20.387187346955233,18.8
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,8,20.580726405013753,22.802385822049963,20.1
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,9,22.89460200555804,25.22388054875947,22.1
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,10,24.487082054097087,26.852535916189623,24.1
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,11,25.46302086968678,27.466228675106926,26.1
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,12,25.936047401379533,27.61629751016856,27.0
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,13,25.8374122759673,27.82156020350064,27.9
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,14,25.71166613128883,27.516059475648436,28.0
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,15,25.334207270315222,27.044690384644937,27.6
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,16,24.73237787815977,26.481300697915238,26.9
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,17,23.951904936738153,25.68765901462582,25.9
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,18,22.812110874689385,24.614197857069108,24.7
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,19,21.4358493936133,22.996705785140286,23.3
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,20,19.74781473099022,21.39055805070718,21.5
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,21,18.500947897955406,20.252609491915983,20.7
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,22,18.24742107685661,19.98276080260605,20.2
+carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,23,17.959667871574567,19.694623960367498,19.7
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,0,17.745117612270416,19.43468562970799,19.4
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,1,17.536046771673522,19.23305807857127,19.0
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,2,17.364715273355795,19.107249469386776,18.7
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,3,17.28534400938481,19.044919219811607,18.6
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,4,17.172279252567282,18.9297581710708,18.5
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,5,17.286577018939067,19.082504606746287,18.4
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,6,17.278805701244988,19.0406135212338,18.4
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,7,18.416057447934083,20.387187346955233,18.8
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,8,20.580726405013753,22.802385822049963,20.1
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,9,22.89460200555804,25.22388054875947,22.1
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,10,24.487082054097087,26.852535916189623,24.1
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,11,25.46302086968678,27.466228675106926,26.1
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,12,25.936047401379533,27.61629751016856,27.0
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,13,25.8374122759673,27.82156020350064,27.9
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,14,25.71166613128883,27.516059475648436,28.0
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,15,25.334207270315222,27.044690384644937,27.6
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,16,24.73237787815977,26.481300697915238,26.9
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,17,23.951904936738153,25.68765901462582,25.9
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,18,22.812110874689385,24.614197857069108,24.7
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,19,21.4358493936133,22.996705785140286,23.3
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,20,19.74781473099022,21.39055805070718,21.5
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,21,18.500947897955406,20.252609491915983,20.7
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,22,18.24742107685661,19.98276080260605,20.2
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,23,17.959667871574567,19.694623960367498,19.7
+carson_velodrome,VELO Sports Center,indoor,0,17.74481915732438,19.434338578575385,19.4
+carson_velodrome,VELO Sports Center,indoor,1,17.535813175367828,19.232921470106874,19.0
+carson_velodrome,VELO Sports Center,indoor,2,17.364368987968746,19.107045372744754,18.7
+carson_velodrome,VELO Sports Center,indoor,3,17.285197572015143,19.044763376020086,18.6
+carson_velodrome,VELO Sports Center,indoor,4,17.172383317364062,18.929587395933748,18.5
+carson_velodrome,VELO Sports Center,indoor,5,17.2863993683746,19.08229264950385,18.4
+carson_velodrome,VELO Sports Center,indoor,6,17.278693723237932,19.04014529380517,18.4
+carson_velodrome,VELO Sports Center,indoor,7,18.415898950901774,20.386832741963826,18.8
+carson_velodrome,VELO Sports Center,indoor,8,20.58056201395031,22.8019974633897,20.1
+carson_velodrome,VELO Sports Center,indoor,9,22.894530790682747,25.22356267401653,22.1
+carson_velodrome,VELO Sports Center,indoor,10,24.486812049690784,26.852295333732066,24.1
+carson_velodrome,VELO Sports Center,indoor,11,25.46279302593383,27.465990962466783,26.1
+carson_velodrome,VELO Sports Center,indoor,12,25.935749844313484,27.616024542871422,27.0
+carson_velodrome,VELO Sports Center,indoor,13,25.83713437322943,27.82111063588203,27.9
+carson_velodrome,VELO Sports Center,indoor,14,25.71121310433883,27.515503894898888,28.0
+carson_velodrome,VELO Sports Center,indoor,15,25.333807738104404,27.044509242549296,27.6
+carson_velodrome,VELO Sports Center,indoor,16,24.73218238135123,26.48103746502406,26.9
+carson_velodrome,VELO Sports Center,indoor,17,23.951618312285632,25.687485846069386,25.9
+carson_velodrome,VELO Sports Center,indoor,18,22.8119840841019,24.6138218134863,24.7
+carson_velodrome,VELO Sports Center,indoor,19,21.435625324676483,22.996367357092225,23.3
+carson_velodrome,VELO Sports Center,indoor,20,19.747930172671772,21.39032535524625,21.5
+carson_velodrome,VELO Sports Center,indoor,21,18.50063531954483,20.2520767974041,20.7
+carson_velodrome,VELO Sports Center,indoor,22,18.247033433624434,19.98258307092016,20.2
+carson_velodrome,VELO Sports Center,indoor,23,17.95926064297539,19.69421756473729,19.7
+columbus_stadium,Columbus Stadium (city-level location),outdoor,0,19.45226606720757,22.477689708653923,20.7
+columbus_stadium,Columbus Stadium (city-level location),outdoor,1,19.216489167798635,22.32645929206426,20.3
+columbus_stadium,Columbus Stadium (city-level location),outdoor,2,18.91662460053569,22.238565560981414,20.1
+columbus_stadium,Columbus Stadium (city-level location),outdoor,3,18.92746996377988,22.035277191687424,19.9
+columbus_stadium,Columbus Stadium (city-level location),outdoor,4,19.626071394084835,22.278681597903244,20.1
+columbus_stadium,Columbus Stadium (city-level location),outdoor,5,21.699260554913387,24.09482403853536,21.6
+columbus_stadium,Columbus Stadium (city-level location),outdoor,6,23.470060401427727,26.142379609600567,22.9
+columbus_stadium,Columbus Stadium (city-level location),outdoor,7,25.13806156131558,27.773628564130924,24.3
+columbus_stadium,Columbus Stadium (city-level location),outdoor,8,26.2391327150586,29.13955569040392,25.7
+columbus_stadium,Columbus Stadium (city-level location),outdoor,9,26.95290594465611,30.051270633620454,26.9
+columbus_stadium,Columbus Stadium (city-level location),outdoor,10,27.408207799228094,30.273691181390205,27.7
+columbus_stadium,Columbus Stadium (city-level location),outdoor,11,27.61963979577253,30.562141153744093,28.4
+columbus_stadium,Columbus Stadium (city-level location),outdoor,12,27.334906075902808,30.402386019464856,28.8
+columbus_stadium,Columbus Stadium (city-level location),outdoor,13,27.337720397482848,29.862722020442202,28.8
+columbus_stadium,Columbus Stadium (city-level location),outdoor,14,26.789637124957647,29.21514798587329,28.5
+columbus_stadium,Columbus Stadium (city-level location),outdoor,15,26.289851772875277,28.667389353150885,28.1
+columbus_stadium,Columbus Stadium (city-level location),outdoor,16,25.369345112091903,27.999711137155575,27.4
+columbus_stadium,Columbus Stadium (city-level location),outdoor,17,24.448567740331843,26.987722860415516,26.3
+columbus_stadium,Columbus Stadium (city-level location),outdoor,18,22.471457850559386,25.08580827642759,24.4
+columbus_stadium,Columbus Stadium (city-level location),outdoor,19,21.30150885347827,23.946420811868876,23.3
+columbus_stadium,Columbus Stadium (city-level location),outdoor,20,20.741431029097974,23.640615745940714,22.6
+columbus_stadium,Columbus Stadium (city-level location),outdoor,21,20.427263966648,23.251581190027398,22.0
+columbus_stadium,Columbus Stadium (city-level location),outdoor,22,20.153016105895283,22.97406925860253,21.6
+columbus_stadium,Columbus Stadium (city-level location),outdoor,23,19.797713234056197,22.716015054864684,21.2
+crypto_arena,Crypto.com Arena,indoor,0,17.541804882893135,19.350803823441083,19.6
+crypto_arena,Crypto.com Arena,indoor,1,17.294799131558992,19.177442792072984,19.2
+crypto_arena,Crypto.com Arena,indoor,2,17.06760793235059,19.025757577624745,18.9
+crypto_arena,Crypto.com Arena,indoor,3,16.934993141112823,18.778443006977824,18.5
+crypto_arena,Crypto.com Arena,indoor,4,16.817789280695017,18.582359622005228,18.2
+crypto_arena,Crypto.com Arena,indoor,5,16.857982397308525,18.731446735717604,18.3
+crypto_arena,Crypto.com Arena,indoor,6,16.840036489421472,18.696059748358742,18.2
+crypto_arena,Crypto.com Arena,indoor,7,18.19114008925565,20.363031333787426,18.5
+crypto_arena,Crypto.com Arena,indoor,8,20.57700271071275,22.991056552159865,20.0
+crypto_arena,Crypto.com Arena,indoor,9,22.6986896684649,25.09957043369684,21.9
+crypto_arena,Crypto.com Arena,indoor,10,24.62937398192226,26.711920265768384,24.5
+crypto_arena,Crypto.com Arena,indoor,11,25.95398907131618,27.777429733613907,27.1
+crypto_arena,Crypto.com Arena,indoor,12,26.814059192955863,28.635434714142896,29.3
+crypto_arena,Crypto.com Arena,indoor,13,27.08016177061242,28.87353324687562,30.6
+crypto_arena,Crypto.com Arena,indoor,14,26.648978164699457,28.468286325184817,30.6
+crypto_arena,Crypto.com Arena,indoor,15,26.1888745665305,27.93163886446273,30.3
+crypto_arena,Crypto.com Arena,indoor,16,25.475784458870066,27.274727583457704,29.4
+crypto_arena,Crypto.com Arena,indoor,17,24.73893395114186,26.42590988204261,28.2
+crypto_arena,Crypto.com Arena,indoor,18,23.460192608661043,25.210006161633242,26.7
+crypto_arena,Crypto.com Arena,indoor,19,22.034518689002777,23.709549487105583,24.8
+crypto_arena,Crypto.com Arena,indoor,20,20.1595805884403,21.87388802948304,22.7
+crypto_arena,Crypto.com Arena,indoor,21,18.594146146414698,20.380719810328756,21.4
+crypto_arena,Crypto.com Arena,indoor,22,18.241003546147205,19.93563310829216,20.6
+crypto_arena,Crypto.com Arena,indoor,23,17.94945851561339,19.654151089396287,20.1
+dodger_stadium,Dodger Stadium,outdoor,0,16.917836612958197,18.96813766713839,19.0
+dodger_stadium,Dodger Stadium,outdoor,1,16.642379627688534,18.699406029416178,18.6
+dodger_stadium,Dodger Stadium,outdoor,2,16.454356992730773,18.419635610359855,18.3
+dodger_stadium,Dodger Stadium,outdoor,3,16.212838432204745,18.188198894233565,17.9
+dodger_stadium,Dodger Stadium,outdoor,4,16.0804273843594,18.081660638792012,17.6
+dodger_stadium,Dodger Stadium,outdoor,5,16.161024712336246,18.185664694225196,17.6
+dodger_stadium,Dodger Stadium,outdoor,6,16.127037616725584,18.0022459829914,17.6
+dodger_stadium,Dodger Stadium,outdoor,7,17.49634907895637,19.817966585491522,18.0
+dodger_stadium,Dodger Stadium,outdoor,8,20.07334101764519,22.693017992225943,19.6
+dodger_stadium,Dodger Stadium,outdoor,9,22.31986570919148,24.65861462593248,21.7
+dodger_stadium,Dodger Stadium,outdoor,10,24.170835729808267,26.18112028991677,24.3
+dodger_stadium,Dodger Stadium,outdoor,11,25.491133948666366,27.346414765190165,26.9
+dodger_stadium,Dodger Stadium,outdoor,12,26.421826215347952,28.170348147267262,28.9
+dodger_stadium,Dodger Stadium,outdoor,13,26.648850897232762,28.40843568733324,30.1
+dodger_stadium,Dodger Stadium,outdoor,14,26.20932585721856,28.14017841949357,30.3
+dodger_stadium,Dodger Stadium,outdoor,15,25.775714231718617,27.581130138262424,30.0
+dodger_stadium,Dodger Stadium,outdoor,16,25.070639627841025,26.9892042489139,29.1
+dodger_stadium,Dodger Stadium,outdoor,17,24.238478510758256,26.075253755669195,27.9
+dodger_stadium,Dodger Stadium,outdoor,18,23.10517446533667,25.025790099827592,26.5
+dodger_stadium,Dodger Stadium,outdoor,19,21.58689310902674,23.43285688570653,24.5
+dodger_stadium,Dodger Stadium,outdoor,20,19.63878248299045,21.561801583515447,22.5
+dodger_stadium,Dodger Stadium,outdoor,21,17.997242123558582,19.970381265063896,21.0
+dodger_stadium,Dodger Stadium,outdoor,22,17.59319873043099,19.459683881561507,20.1
+dodger_stadium,Dodger Stadium,outdoor,23,17.269348390685906,19.210876308130274,19.5
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,0,17.54557711020248,19.222759284859297,19.7
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,1,17.272707692473038,18.970769494998976,19.2
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,2,16.995101218280894,18.69092337597684,18.7
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,3,16.714069773227067,18.465414428561264,18.4
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,4,16.47754065853393,18.22441320910927,18.0
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,5,16.4840872861399,18.338752778393918,17.9
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,6,16.45486081308817,18.3327354519764,17.8
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,7,18.11851668457922,19.972734847427404,18.5
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,8,20.681133934497343,23.101924896868052,20.6
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,9,23.13358590386166,25.60830315909529,23.2
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,10,24.944535755664006,27.11848351058778,26.1
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,11,26.39040462227039,28.199151051897314,28.7
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,12,27.25600537934233,28.806588220270154,30.6
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,13,27.726039103267127,29.40645241943588,32.1
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,14,27.7843816339652,29.361736887922575,33.0
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,15,27.361201706276837,28.95788123522245,33.0
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,16,26.67919470709004,28.27412887957685,32.2
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,17,25.641449245363702,27.415522028910694,30.9
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,18,24.473562132565313,25.94829586127227,29.3
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,19,22.65561015509721,24.204699469403327,27.1
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,20,20.59614032260557,22.168384286414803,24.4
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,21,18.911969094002256,20.513562937424997,22.4
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,22,18.322005584782158,19.93566742791843,21.0
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,23,17.907291819152878,19.551091045349285,20.3
+galen_center,Galen Center,indoor,0,17.6976501108196,19.40368247446695,19.7
+galen_center,Galen Center,indoor,1,17.50909532416825,19.261435047786126,19.3
+galen_center,Galen Center,indoor,2,17.321113866261182,19.081198987318487,19.0
+galen_center,Galen Center,indoor,3,17.135728472756515,18.95800475319032,18.7
+galen_center,Galen Center,indoor,4,16.984389819028234,18.781227967819163,18.5
+galen_center,Galen Center,indoor,5,17.06089592277823,18.949253084330223,18.5
+galen_center,Galen Center,indoor,6,17.15565493336651,18.941759215937328,18.5
+galen_center,Galen Center,indoor,7,18.363148301741315,20.46400693054561,18.9
+galen_center,Galen Center,indoor,8,20.64159417155734,22.834398896546656,20.0
+galen_center,Galen Center,indoor,9,23.044308553944578,25.301690807976936,22.0
+galen_center,Galen Center,indoor,10,24.69228152686424,26.72174513853435,24.2
+galen_center,Galen Center,indoor,11,25.72707485189686,27.622934820070526,26.5
+galen_center,Galen Center,indoor,12,26.12224959942097,27.901775177301054,27.7
+galen_center,Galen Center,indoor,13,25.74867052883654,27.623051675133357,28.3
+galen_center,Galen Center,indoor,14,25.303749664814063,27.103388976409615,28.0
+galen_center,Galen Center,indoor,15,24.85112183596622,26.809591857673755,27.5
+galen_center,Galen Center,indoor,16,24.24378192179823,26.177940873863548,26.7
+galen_center,Galen Center,indoor,17,23.42638939973716,25.657375544119716,25.5
+galen_center,Galen Center,indoor,18,22.369381245231903,24.329455950885382,24.4
+galen_center,Galen Center,indoor,19,21.154167446997004,23.09691269597822,22.8
+galen_center,Galen Center,indoor,20,19.624052238290876,21.416177660736167,21.3
+galen_center,Galen Center,indoor,21,18.407024191576244,20.131957679232883,20.7
+galen_center,Galen Center,indoor,22,18.13960015428893,19.943586874567035,20.3
+galen_center,Galen Center,indoor,23,17.965361698630222,19.742689939820444,20.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,0,17.501806017719538,19.039168470279876,20.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,1,17.189160181243455,18.799535235127777,19.6
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,2,16.960993052718152,18.696133017929515,19.3
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,3,16.73123741131649,18.538491789986704,19.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,4,16.623657882688377,18.54378569087771,19.1
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,5,16.45306992303245,18.376777851791264,18.5
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,6,16.290004819437797,18.197083461140288,18.4
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,7,18.514323122591627,20.564753649769727,19.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,8,20.978466222027503,23.299530571764638,20.9
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,9,22.88574611904118,25.13673256834181,23.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,10,24.418932289514412,26.548445567964492,25.3
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,11,25.59216905546947,27.402717932643178,27.5
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,12,26.394039302442856,28.07968922363791,29.2
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,13,26.924135512572832,28.868738508524242,30.4
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,14,27.13971697043277,28.930016513901183,31.1
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,15,26.86715004888153,28.624031034605053,31.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,16,26.32627517008998,28.111664779905595,30.5
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,17,25.483929409170464,27.33219503955467,29.4
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,18,24.363014204719416,26.35464256014905,28.1
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,19,22.555446033820655,24.694818435734526,26.0
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,20,20.376886965047113,21.907711384356116,23.9
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,21,18.551150371280336,20.045936557869613,22.6
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,22,18.231901974407013,19.655300763451084,21.6
+griffith_observatory,Griffith Observatory (road cycling finish),outdoor,23,17.84244104816065,19.283459681280817,20.7
+honda_center,Honda Center,indoor,0,17.58313815922929,19.480766633083693,19.1
+honda_center,Honda Center,indoor,1,17.342312225322893,19.328730626697308,18.6
+honda_center,Honda Center,indoor,2,17.110002930846136,19.101840523878842,18.3
+honda_center,Honda Center,indoor,3,16.932876781073173,18.996901367562387,17.9
+honda_center,Honda Center,indoor,4,16.803079958749123,18.864838588021655,17.7
+honda_center,Honda Center,indoor,5,16.807543293245534,18.95434480424483,17.7
+honda_center,Honda Center,indoor,6,16.75739710883716,18.927302950190473,17.6
+honda_center,Honda Center,indoor,7,18.07174050411048,20.31153406500492,18.2
+honda_center,Honda Center,indoor,8,20.2271522919608,22.97649589172137,19.5
+honda_center,Honda Center,indoor,9,22.20901851766434,24.534401423227497,21.5
+honda_center,Honda Center,indoor,10,24.036765885194566,26.07512855375812,23.8
+honda_center,Honda Center,indoor,11,25.529334928485113,26.96915194859826,26.1
+honda_center,Honda Center,indoor,12,26.159004915050854,27.733672117503975,27.4
+honda_center,Honda Center,indoor,13,26.1863413265201,27.959267354926812,28.3
+honda_center,Honda Center,indoor,14,26.06303249203436,27.817178675653373,28.6
+honda_center,Honda Center,indoor,15,25.71645744094772,27.43693564707286,28.4
+honda_center,Honda Center,indoor,16,25.243093583680825,26.84881356589734,27.7
+honda_center,Honda Center,indoor,17,24.393349756767954,26.004872870737067,26.6
+honda_center,Honda Center,indoor,18,23.350007567513167,24.870785922295255,25.3
+honda_center,Honda Center,indoor,19,21.760286370560003,23.2766399368064,23.6
+honda_center,Honda Center,indoor,20,19.838521577499055,21.32295053835892,21.8
+honda_center,Honda Center,indoor,21,18.400247769256872,20.118002726989516,20.7
+honda_center,Honda Center,indoor,22,18.08074618451655,19.84096450009855,20.0
+honda_center,Honda Center,indoor,23,17.80144270402089,19.67356948537781,19.5
+industry_hills,Industry Hills MTB Course,outdoor,0,17.53972053935138,19.32792757022846,19.6
+industry_hills,Industry Hills MTB Course,outdoor,1,17.21715749781037,19.020949529945142,19.0
+industry_hills,Industry Hills MTB Course,outdoor,2,16.876455215641936,18.930339410710836,18.5
+industry_hills,Industry Hills MTB Course,outdoor,3,16.622011341748276,18.732160079889656,18.1
+industry_hills,Industry Hills MTB Course,outdoor,4,16.435933787873704,18.484752673214047,17.8
+industry_hills,Industry Hills MTB Course,outdoor,5,16.401678819780624,18.52301803295729,17.6
+industry_hills,Industry Hills MTB Course,outdoor,6,16.426866286384783,18.489018090397455,17.6
+industry_hills,Industry Hills MTB Course,outdoor,7,17.983421607172566,20.16455604386255,18.3
+industry_hills,Industry Hills MTB Course,outdoor,8,20.59141918074256,22.91274265289187,20.3
+industry_hills,Industry Hills MTB Course,outdoor,9,23.121470350525605,25.49460674813075,22.8
+industry_hills,Industry Hills MTB Course,outdoor,10,25.282171917838966,27.345139032019716,25.6
+industry_hills,Industry Hills MTB Course,outdoor,11,26.637339867889338,28.476234405785206,28.4
+industry_hills,Industry Hills MTB Course,outdoor,12,27.519500698215314,29.24889961760764,30.5
+industry_hills,Industry Hills MTB Course,outdoor,13,27.901987425889903,29.4755358489631,32.1
+industry_hills,Industry Hills MTB Course,outdoor,14,27.892165393777912,29.48494286730738,32.9
+industry_hills,Industry Hills MTB Course,outdoor,15,27.52351471165925,29.172714689134608,32.8
+industry_hills,Industry Hills MTB Course,outdoor,16,26.80024995746873,28.399355104577964,32.1
+industry_hills,Industry Hills MTB Course,outdoor,17,25.834601437907246,27.409680819931904,30.9
+industry_hills,Industry Hills MTB Course,outdoor,18,24.516668983417986,25.96751807319493,29.2
+industry_hills,Industry Hills MTB Course,outdoor,19,22.73596212774122,24.24668036210606,26.8
+industry_hills,Industry Hills MTB Course,outdoor,20,20.80295158681448,22.255399715327616,24.3
+industry_hills,Industry Hills MTB Course,outdoor,21,18.94962539893993,20.6503841107384,22.4
+industry_hills,Industry Hills MTB Course,outdoor,22,18.40568191909022,20.02367707656803,21.2
+industry_hills,Industry Hills MTB Course,outdoor,23,17.987695756438566,19.7003568267216,20.3
+intuit_dome,Intuit Dome,indoor,0,17.717440083719556,19.567493497366254,19.5
+intuit_dome,Intuit Dome,indoor,1,17.550489489452875,19.381265263724217,19.3
+intuit_dome,Intuit Dome,indoor,2,17.369204580582174,19.129013838986495,19.0
+intuit_dome,Intuit Dome,indoor,3,17.227556563571195,18.98111348751943,18.7
+intuit_dome,Intuit Dome,indoor,4,17.049055985006166,18.8947640962318,18.5
+intuit_dome,Intuit Dome,indoor,5,17.109727475336154,18.954611736114998,18.5
+intuit_dome,Intuit Dome,indoor,6,17.180099667357414,18.947071910214753,18.5
+intuit_dome,Intuit Dome,indoor,7,18.441467211506158,20.60698061694139,18.8
+intuit_dome,Intuit Dome,indoor,8,20.717570800859814,22.89610138756908,20.0
+intuit_dome,Intuit Dome,indoor,9,23.052956875700982,25.30741753422026,22.0
+intuit_dome,Intuit Dome,indoor,10,24.734489095401425,26.728390444911806,24.1
+intuit_dome,Intuit Dome,indoor,11,25.73140265429621,27.625611614865164,26.4
+intuit_dome,Intuit Dome,indoor,12,26.194122431637513,27.928282040035313,27.6
+intuit_dome,Intuit Dome,indoor,13,25.76317278395041,27.635773276123935,28.1
+intuit_dome,Intuit Dome,indoor,14,25.28743464640636,27.042423011856247,27.8
+intuit_dome,Intuit Dome,indoor,15,24.82852215188987,26.80465968942452,27.3
+intuit_dome,Intuit Dome,indoor,16,24.222923328720313,26.167664317582055,26.6
+intuit_dome,Intuit Dome,indoor,17,23.42408991895169,25.443691516691565,25.5
+intuit_dome,Intuit Dome,indoor,18,22.36143742751442,24.39684654413724,24.3
+intuit_dome,Intuit Dome,indoor,19,21.154793597058305,23.080125799109833,22.8
+intuit_dome,Intuit Dome,indoor,20,19.615663054325143,21.416431995290342,21.3
+intuit_dome,Intuit Dome,indoor,21,18.421867972040847,20.20794530991959,20.7
+intuit_dome,Intuit Dome,indoor,22,18.18303137240472,20.013515543057622,20.3
+intuit_dome,Intuit Dome,indoor,23,18.056555069897122,19.794245223394586,20.0
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,0,17.716372265110248,19.566555370905295,19.7
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,1,17.526105757567255,19.380657420835576,19.3
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,2,17.32347524268202,19.136927393992075,19.0
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,3,17.138221680118154,19.011481453330664,18.7
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,4,17.028453535096794,18.91151689439401,18.5
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,5,17.063519333509053,18.979491642757818,18.5
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,6,17.156942142265592,19.007273867311874,18.5
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,7,18.372241239725838,20.55062415963751,18.9
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,8,20.71177181257707,22.912626219541295,20.0
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,9,23.0504771505119,25.30320885204156,22.0
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,10,24.73303212144383,26.725182874955067,24.3
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,11,25.76859198911177,27.62416440943693,26.5
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,12,26.21669244964013,27.933580218706677,27.7
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,13,25.787734138684936,27.67068684962919,28.3
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,14,25.31513511865568,27.26304512895151,28.1
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,15,24.936340892311375,26.83444938399436,27.5
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,16,24.24503639484376,26.191934801439334,26.7
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,17,23.429270559921907,25.8081443926174,25.6
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,18,22.37458024351712,24.40472942265761,24.4
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,19,21.155560397864324,23.17667063953286,22.8
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,20,19.65630831655442,21.571602389950325,21.3
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,21,18.419180550328157,20.213205339266175,20.7
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,22,18.177205063156553,20.021258339891517,20.4
+la_coliseum,Los Angeles Memorial Coliseum,outdoor,23,17.998766432861686,19.792991994116925,20.0
+la_convention_center,Los Angeles Convention Center,indoor,0,17.543166167600923,19.447752802527493,19.6
+la_convention_center,Los Angeles Convention Center,indoor,1,17.29908395819845,19.199318962019213,19.2
+la_convention_center,Los Angeles Convention Center,indoor,2,17.06885236911764,19.03548839276708,18.9
+la_convention_center,Los Angeles Convention Center,indoor,3,16.936083787706252,18.796114816598614,18.5
+la_convention_center,Los Angeles Convention Center,indoor,4,16.824099577383105,18.622874309259007,18.2
+la_convention_center,Los Angeles Convention Center,indoor,5,16.859870768561724,18.75967066106066,18.3
+la_convention_center,Los Angeles Convention Center,indoor,6,16.84019779786817,18.69746359280495,18.2
+la_convention_center,Los Angeles Convention Center,indoor,7,18.224422688314583,20.465811994857845,18.6
+la_convention_center,Los Angeles Convention Center,indoor,8,20.605735567809607,23.067238145988085,20.0
+la_convention_center,Los Angeles Convention Center,indoor,9,22.734931050525123,25.100024931356486,21.9
+la_convention_center,Los Angeles Convention Center,indoor,10,24.67969654470422,26.71376359194153,24.5
+la_convention_center,Los Angeles Convention Center,indoor,11,25.955560977229858,27.78199510398759,27.2
+la_convention_center,Los Angeles Convention Center,indoor,12,26.816113756543633,28.641824836887483,29.3
+la_convention_center,Los Angeles Convention Center,indoor,13,27.094324351069588,28.914772490225587,30.7
+la_convention_center,Los Angeles Convention Center,indoor,14,26.669445419604795,28.472286128161873,30.6
+la_convention_center,Los Angeles Convention Center,indoor,15,26.203833679433103,27.959495712018207,30.3
+la_convention_center,Los Angeles Convention Center,indoor,16,25.50668387342074,27.288638678143236,29.4
+la_convention_center,Los Angeles Convention Center,indoor,17,24.77988954200957,26.49738903908349,28.2
+la_convention_center,Los Angeles Convention Center,indoor,18,23.464786416529787,25.23843766021789,26.7
+la_convention_center,Los Angeles Convention Center,indoor,19,22.03780905603539,23.71271244847769,24.9
+la_convention_center,Los Angeles Convention Center,indoor,20,20.167414978982773,21.96407861355236,22.7
+la_convention_center,Los Angeles Convention Center,indoor,21,18.595686016161654,20.428747275995548,21.4
+la_convention_center,Los Angeles Convention Center,indoor,22,18.24317436116256,19.994958342665402,20.6
+la_convention_center,Los Angeles Convention Center,indoor,23,17.950904820992815,19.67550829177483,20.1
+la_zoo,Los Angeles Zoo (time trial start),outdoor,0,17.573597176748336,19.219114842087983,19.6
+la_zoo,Los Angeles Zoo (time trial start),outdoor,1,17.213824524208505,18.9634133054446,19.2
+la_zoo,Los Angeles Zoo (time trial start),outdoor,2,17.07292664400264,18.895339412223777,18.8
+la_zoo,Los Angeles Zoo (time trial start),outdoor,3,16.745304131433755,18.697103687809722,18.5
+la_zoo,Los Angeles Zoo (time trial start),outdoor,4,16.58891128999946,18.50544014373861,18.2
+la_zoo,Los Angeles Zoo (time trial start),outdoor,5,16.62022749160936,18.649384661798678,18.0
+la_zoo,Los Angeles Zoo (time trial start),outdoor,6,16.75343975829737,18.599359741725472,17.9
+la_zoo,Los Angeles Zoo (time trial start),outdoor,7,18.355010385352923,20.31821217851499,18.5
+la_zoo,Los Angeles Zoo (time trial start),outdoor,8,20.84336285775078,23.34348561003157,20.3
+la_zoo,Los Angeles Zoo (time trial start),outdoor,9,23.115597721907164,25.508129719219678,22.6
+la_zoo,Los Angeles Zoo (time trial start),outdoor,10,24.919609206630625,27.02869069125336,25.2
+la_zoo,Los Angeles Zoo (time trial start),outdoor,11,26.2244437470646,28.028739490418822,27.9
+la_zoo,Los Angeles Zoo (time trial start),outdoor,12,27.10420171975043,28.924908182850217,29.6
+la_zoo,Los Angeles Zoo (time trial start),outdoor,13,27.61270802417986,29.427067082393954,31.1
+la_zoo,Los Angeles Zoo (time trial start),outdoor,14,27.421402935083233,29.36761091765709,31.4
+la_zoo,Los Angeles Zoo (time trial start),outdoor,15,27.012824995606195,28.89809201907592,31.0
+la_zoo,Los Angeles Zoo (time trial start),outdoor,16,26.379048276220793,28.143556804819468,30.5
+la_zoo,Los Angeles Zoo (time trial start),outdoor,17,25.520520958764976,27.21723397588478,29.2
+la_zoo,Los Angeles Zoo (time trial start),outdoor,18,24.452973405405857,26.055226842512624,27.9
+la_zoo,Los Angeles Zoo (time trial start),outdoor,19,22.66380117195593,24.326476450264696,25.7
+la_zoo,Los Angeles Zoo (time trial start),outdoor,20,20.42932564498658,22.1808815005783,23.3
+la_zoo,Los Angeles Zoo (time trial start),outdoor,21,18.623225237500478,20.30756861647306,21.8
+la_zoo,Los Angeles Zoo (time trial start),outdoor,22,18.346464490433323,19.944318169841967,20.8
+la_zoo,Los Angeles Zoo (time trial start),outdoor,23,17.9808760144899,19.599724195220716,20.2
+lb_aquatics,Long Beach Aquatics Center,outdoor,0,17.54114533965266,19.440693916123998,18.8
+lb_aquatics,Long Beach Aquatics Center,outdoor,1,17.393459133762995,19.33507749721004,18.6
+lb_aquatics,Long Beach Aquatics Center,outdoor,2,17.24487914852519,19.268400822220013,18.3
+lb_aquatics,Long Beach Aquatics Center,outdoor,3,17.129627123059485,19.298415646241637,18.1
+lb_aquatics,Long Beach Aquatics Center,outdoor,4,17.0133768433309,19.24348608456811,17.9
+lb_aquatics,Long Beach Aquatics Center,outdoor,5,17.18519614835541,19.144376602749794,18.0
+lb_aquatics,Long Beach Aquatics Center,outdoor,6,17.133516356428125,19.0768034615159,18.1
+lb_aquatics,Long Beach Aquatics Center,outdoor,7,18.33675915828741,20.413771813547907,18.5
+lb_aquatics,Long Beach Aquatics Center,outdoor,8,20.385259537384677,22.66862558686811,19.6
+lb_aquatics,Long Beach Aquatics Center,outdoor,9,22.43856320305062,24.517490170832087,21.2
+lb_aquatics,Long Beach Aquatics Center,outdoor,10,23.537441754011017,25.4731330297571,22.9
+lb_aquatics,Long Beach Aquatics Center,outdoor,11,24.2323146554096,26.195459591934046,24.1
+lb_aquatics,Long Beach Aquatics Center,outdoor,12,24.551212173271423,26.512351035996467,24.7
+lb_aquatics,Long Beach Aquatics Center,outdoor,13,24.600022077528912,26.78005231794046,25.4
+lb_aquatics,Long Beach Aquatics Center,outdoor,14,24.719808134291977,26.534826958621913,25.7
+lb_aquatics,Long Beach Aquatics Center,outdoor,15,24.627224982851384,26.46794026537037,25.6
+lb_aquatics,Long Beach Aquatics Center,outdoor,16,24.11912119429208,25.7978291887668,25.3
+lb_aquatics,Long Beach Aquatics Center,outdoor,17,23.38766758516669,25.22264653585113,24.5
+lb_aquatics,Long Beach Aquatics Center,outdoor,18,22.486799912037796,24.15620867627633,23.4
+lb_aquatics,Long Beach Aquatics Center,outdoor,19,21.166299269681502,22.743986480621935,22.2
+lb_aquatics,Long Beach Aquatics Center,outdoor,20,19.567658016561776,21.230801631794275,20.9
+lb_aquatics,Long Beach Aquatics Center,outdoor,21,18.229306026730068,19.999383420498198,20.0
+lb_aquatics,Long Beach Aquatics Center,outdoor,22,17.97963814861095,19.705103040623403,19.6
+lb_aquatics,Long Beach Aquatics Center,outdoor,23,17.78225227598994,19.59382344029916,19.2
+lb_arena,Long Beach Arena,indoor,0,17.540983604206314,19.440259251093085,18.8
+lb_arena,Long Beach Arena,indoor,1,17.393325787718574,19.33485634427936,18.6
+lb_arena,Long Beach Arena,indoor,2,17.2446763445294,19.26829404647476,18.3
+lb_arena,Long Beach Arena,indoor,3,17.129464253302586,19.29824505579925,18.1
+lb_arena,Long Beach Arena,indoor,4,17.013139391480355,19.24324730434597,17.9
+lb_arena,Long Beach Arena,indoor,5,17.185148641516957,19.1441973859526,18.0
+lb_arena,Long Beach Arena,indoor,6,17.13347529169718,19.076696900724777,18.1
+lb_arena,Long Beach Arena,indoor,7,18.336629179167264,20.41369368239499,18.5
+lb_arena,Long Beach Arena,indoor,8,20.385093448937354,22.66855232512105,19.6
+lb_arena,Long Beach Arena,indoor,9,22.43854878058649,24.517447237459645,21.2
+lb_arena,Long Beach Arena,indoor,10,23.537322315646456,25.47300947890826,22.9
+lb_arena,Long Beach Arena,indoor,11,24.23215776733492,26.194960092844408,24.1
+lb_arena,Long Beach Arena,indoor,12,24.551079579416022,26.511902942660676,24.7
+lb_arena,Long Beach Arena,indoor,13,24.59983389600199,26.779437991736778,25.4
+lb_arena,Long Beach Arena,indoor,14,24.71958272882218,26.534354475308426,25.7
+lb_arena,Long Beach Arena,indoor,15,24.62694095553486,26.46787324027333,25.6
+lb_arena,Long Beach Arena,indoor,16,24.118659913949028,25.797412251711652,25.3
+lb_arena,Long Beach Arena,indoor,17,23.387183969866747,25.22220422379891,24.5
+lb_arena,Long Beach Arena,indoor,18,22.48654023960085,24.15597008510673,23.4
+lb_arena,Long Beach Arena,indoor,19,21.16551286270801,22.743466284101167,22.2
+lb_arena,Long Beach Arena,indoor,20,19.567456891870208,21.230156777553116,20.9
+lb_arena,Long Beach Arena,indoor,21,18.228852917033414,19.99915290636692,20.0
+lb_arena,Long Beach Arena,indoor,22,17.97935095212189,19.704914709855565,19.6
+lb_arena,Long Beach Arena,indoor,23,17.78201454446576,19.59349661077055,19.2
+lb_climbing,Long Beach Climbing Theater,outdoor,0,17.54114533965266,19.440693916123998,18.8
+lb_climbing,Long Beach Climbing Theater,outdoor,1,17.393459133762995,19.33507749721004,18.6
+lb_climbing,Long Beach Climbing Theater,outdoor,2,17.24487914852519,19.268400822220013,18.3
+lb_climbing,Long Beach Climbing Theater,outdoor,3,17.129627123059485,19.298415646241637,18.1
+lb_climbing,Long Beach Climbing Theater,outdoor,4,17.0133768433309,19.24348608456811,17.9
+lb_climbing,Long Beach Climbing Theater,outdoor,5,17.18519614835541,19.144376602749794,18.0
+lb_climbing,Long Beach Climbing Theater,outdoor,6,17.133516356428125,19.0768034615159,18.1
+lb_climbing,Long Beach Climbing Theater,outdoor,7,18.33675915828741,20.413771813547907,18.5
+lb_climbing,Long Beach Climbing Theater,outdoor,8,20.385259537384677,22.66862558686811,19.6
+lb_climbing,Long Beach Climbing Theater,outdoor,9,22.43856320305062,24.517490170832087,21.2
+lb_climbing,Long Beach Climbing Theater,outdoor,10,23.537441754011017,25.4731330297571,22.9
+lb_climbing,Long Beach Climbing Theater,outdoor,11,24.2323146554096,26.195459591934046,24.1
+lb_climbing,Long Beach Climbing Theater,outdoor,12,24.551212173271423,26.512351035996467,24.7
+lb_climbing,Long Beach Climbing Theater,outdoor,13,24.600022077528912,26.78005231794046,25.4
+lb_climbing,Long Beach Climbing Theater,outdoor,14,24.719808134291977,26.534826958621913,25.7
+lb_climbing,Long Beach Climbing Theater,outdoor,15,24.627224982851384,26.46794026537037,25.6
+lb_climbing,Long Beach Climbing Theater,outdoor,16,24.11912119429208,25.7978291887668,25.3
+lb_climbing,Long Beach Climbing Theater,outdoor,17,23.38766758516669,25.22264653585113,24.5
+lb_climbing,Long Beach Climbing Theater,outdoor,18,22.486799912037796,24.15620867627633,23.4
+lb_climbing,Long Beach Climbing Theater,outdoor,19,21.166299269681502,22.743986480621935,22.2
+lb_climbing,Long Beach Climbing Theater,outdoor,20,19.567658016561776,21.230801631794275,20.9
+lb_climbing,Long Beach Climbing Theater,outdoor,21,18.229306026730068,19.999383420498198,20.0
+lb_climbing,Long Beach Climbing Theater,outdoor,22,17.97963814861095,19.705103040623403,19.6
+lb_climbing,Long Beach Climbing Theater,outdoor,23,17.78225227598994,19.59382344029916,19.2
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,0,17.540767814028698,19.439679437739336,18.8
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,1,17.393147925833603,19.29541549308595,18.6
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,2,17.217014772418114,19.26266462830885,18.3
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,3,17.111569080978267,19.29801746651309,18.1
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,4,17.012824235248416,19.228381853085647,17.9
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,5,17.185085231333403,19.085277343426014,18.0
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,6,17.133420550468685,19.076554793549732,18.1
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,7,18.31456725034527,20.41400810705698,18.5
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,8,20.36552883339397,22.66864319865082,19.6
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,9,22.438580201155993,24.51754317011264,21.2
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,10,23.537244208729156,25.433540327957243,22.9
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,11,24.231978355132632,26.194340217573778,24.0
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,12,24.55092521626622,26.511330640789183,24.7
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,13,24.56437713227671,26.77861994527216,25.4
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,14,24.70556943752746,26.533701723515218,25.7
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,15,24.621652775456013,26.46775636030275,25.6
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,16,24.11798054666835,25.79679643857537,25.3
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,17,23.382561874526832,25.218205748226676,24.5
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,18,22.483908888598982,24.15557950395733,23.4
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,19,21.153506437310746,22.724359927290127,22.2
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,20,19.557925052598936,21.20018944408245,20.9
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,21,18.171363427258274,19.97815108419851,20.0
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,22,17.978967847737376,19.704663431285184,19.6
+lb_shooting_hall,Long Beach Target Shooting Hall,indoor,23,17.7816973505412,19.59306064062708,19.2
+marine_stadium,Marine Stadium,outdoor,0,17.87067377220049,19.6768341920569,19.4
+marine_stadium,Marine Stadium,outdoor,1,17.67463114862297,19.540896740635603,19.0
+marine_stadium,Marine Stadium,outdoor,2,17.49585450813004,19.453973834728654,18.8
+marine_stadium,Marine Stadium,outdoor,3,17.37091970204786,19.34525294106237,18.5
+marine_stadium,Marine Stadium,outdoor,4,17.23980680669958,19.30871404478256,18.2
+marine_stadium,Marine Stadium,outdoor,5,17.371906552153767,19.297337163326144,18.3
+marine_stadium,Marine Stadium,outdoor,6,17.35346028897532,19.20338526628861,18.4
+marine_stadium,Marine Stadium,outdoor,7,18.466972675911894,20.493642332230063,18.8
+marine_stadium,Marine Stadium,outdoor,8,20.52420971977284,22.685137408388382,19.9
+marine_stadium,Marine Stadium,outdoor,9,22.475335191855976,24.662076516723936,21.2
+marine_stadium,Marine Stadium,outdoor,10,23.627489078885986,25.635368296459745,22.9
+marine_stadium,Marine Stadium,outdoor,11,24.31712663934292,26.146847494136026,24.2
+marine_stadium,Marine Stadium,outdoor,12,24.548309304288914,26.46996100495997,25.0
+marine_stadium,Marine Stadium,outdoor,13,24.60324884479345,26.712851648490073,25.6
+marine_stadium,Marine Stadium,outdoor,14,24.799781580934518,26.628574262131366,26.1
+marine_stadium,Marine Stadium,outdoor,15,24.73271304182971,26.769956825811388,26.2
+marine_stadium,Marine Stadium,outdoor,16,24.413866461765526,26.46208745861304,26.0
+marine_stadium,Marine Stadium,outdoor,17,23.741072758655008,25.566605642546346,25.2
+marine_stadium,Marine Stadium,outdoor,18,22.773342720058828,24.446338272558325,24.2
+marine_stadium,Marine Stadium,outdoor,19,21.505239288545425,23.130154937517176,22.9
+marine_stadium,Marine Stadium,outdoor,20,19.86556317000502,21.516442364635473,21.5
+marine_stadium,Marine Stadium,outdoor,21,18.632661163861357,20.20400955237899,20.7
+marine_stadium,Marine Stadium,outdoor,22,18.375753987628233,19.9595802918414,20.2
+marine_stadium,Marine Stadium,outdoor,23,18.12435452805376,19.93280465106879,19.8
+nashville_stadium,Nashville Stadium (city-level location),outdoor,0,22.731045552092876,24.460795899750163,23.8
+nashville_stadium,Nashville Stadium (city-level location),outdoor,1,22.44127780215688,24.208449386536234,23.5
+nashville_stadium,Nashville Stadium (city-level location),outdoor,2,22.328142628964844,24.067566804171484,23.3
+nashville_stadium,Nashville Stadium (city-level location),outdoor,3,22.095489123726477,23.91198251692822,23.1
+nashville_stadium,Nashville Stadium (city-level location),outdoor,4,22.113550236165104,23.830432007784317,23.0
+nashville_stadium,Nashville Stadium (city-level location),outdoor,5,23.896389188018894,25.73130154685123,24.0
+nashville_stadium,Nashville Stadium (city-level location),outdoor,6,25.895248246899143,28.130614950836105,25.0
+nashville_stadium,Nashville Stadium (city-level location),outdoor,7,27.716617693461433,30.331675614099243,26.5
+nashville_stadium,Nashville Stadium (city-level location),outdoor,8,29.212222280644664,32.0792183745186,28.1
+nashville_stadium,Nashville Stadium (city-level location),outdoor,9,29.958015535201127,32.47548931490486,29.3
+nashville_stadium,Nashville Stadium (city-level location),outdoor,10,30.587811957345217,33.22947561480786,30.4
+nashville_stadium,Nashville Stadium (city-level location),outdoor,11,30.777882099649805,33.565682352482504,31.0
+nashville_stadium,Nashville Stadium (city-level location),outdoor,12,30.672087157219433,33.412361957067766,31.3
+nashville_stadium,Nashville Stadium (city-level location),outdoor,13,30.33411260535216,33.10872201048572,31.5
+nashville_stadium,Nashville Stadium (city-level location),outdoor,14,30.03076324764854,32.45771690956709,31.3
+nashville_stadium,Nashville Stadium (city-level location),outdoor,15,29.23924611629625,31.304876043355584,31.1
+nashville_stadium,Nashville Stadium (city-level location),outdoor,16,28.356234738593017,30.323580362444346,30.5
+nashville_stadium,Nashville Stadium (city-level location),outdoor,17,27.052535695802096,29.07966578113412,28.5
+nashville_stadium,Nashville Stadium (city-level location),outdoor,18,25.173797411985923,27.182459490778793,26.9
+nashville_stadium,Nashville Stadium (city-level location),outdoor,19,24.13230554551511,25.985040043758556,26.1
+nashville_stadium,Nashville Stadium (city-level location),outdoor,20,23.712615329901826,25.66737919442387,25.3
+nashville_stadium,Nashville Stadium (city-level location),outdoor,21,23.37612414770084,25.3670310322989,24.7
+nashville_stadium,Nashville Stadium (city-level location),outdoor,22,23.20237256080735,25.060510188314918,24.4
+nashville_stadium,Nashville Stadium (city-level location),outdoor,23,22.941929506727575,24.83853090565345,24.1
+ny_stadium,New York Stadium (city-level location),outdoor,0,20.338705474555287,22.708987023297773,21.5
+ny_stadium,New York Stadium (city-level location),outdoor,1,20.102099328047018,22.575953399643662,21.2
+ny_stadium,New York Stadium (city-level location),outdoor,2,19.788589624009752,22.48994812663262,21.0
+ny_stadium,New York Stadium (city-level location),outdoor,3,19.515671805284498,22.239060422889143,20.8
+ny_stadium,New York Stadium (city-level location),outdoor,4,21.405231235706417,23.692272230926868,21.7
+ny_stadium,New York Stadium (city-level location),outdoor,5,23.549299464034945,26.147731779366445,23.3
+ny_stadium,New York Stadium (city-level location),outdoor,6,25.123232981685632,28.340920998517184,24.6
+ny_stadium,New York Stadium (city-level location),outdoor,7,26.389236112680194,29.59030180642741,26.1
+ny_stadium,New York Stadium (city-level location),outdoor,8,27.153998716761446,30.519949737990164,27.5
+ny_stadium,New York Stadium (city-level location),outdoor,9,27.66978708254647,30.70489848192837,28.4
+ny_stadium,New York Stadium (city-level location),outdoor,10,27.66358771276333,30.797071834042768,28.9
+ny_stadium,New York Stadium (city-level location),outdoor,11,27.68667756242306,30.373956201677927,29.2
+ny_stadium,New York Stadium (city-level location),outdoor,12,27.357135721929424,29.919578811347243,29.2
+ny_stadium,New York Stadium (city-level location),outdoor,13,27.092188292898385,29.484676809153637,29.1
+ny_stadium,New York Stadium (city-level location),outdoor,14,26.50730302305566,28.967608699167833,28.6
+ny_stadium,New York Stadium (city-level location),outdoor,15,25.73962168536343,28.41871652842185,27.9
+ny_stadium,New York Stadium (city-level location),outdoor,16,24.822711766416926,27.503848262114428,26.8
+ny_stadium,New York Stadium (city-level location),outdoor,17,23.49252603316887,25.888090013226055,25.4
+ny_stadium,New York Stadium (city-level location),outdoor,18,22.153279397918443,24.539682524631154,24.4
+ny_stadium,New York Stadium (city-level location),outdoor,19,21.79872699535267,24.206407488258712,23.8
+ny_stadium,New York Stadium (city-level location),outdoor,20,21.497506865091264,23.8523187370318,23.2
+ny_stadium,New York Stadium (city-level location),outdoor,21,21.200284075100825,23.50823870709722,22.8
+ny_stadium,New York Stadium (city-level location),outdoor,22,20.934496873625193,23.32631155096162,22.5
+ny_stadium,New York Stadium (city-level location),outdoor,23,20.54955158419647,22.892418188728243,22.0
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,0,23.28832516573086,24.426040568857594,26.3
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,1,23.06644947496457,24.15944454189804,25.9
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,2,22.773288347613335,23.91539398571234,25.5
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,3,22.618572066112094,23.75304429997094,25.2
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,4,22.478774823073483,23.58959003797292,24.8
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,5,22.475622105244398,23.88508161065619,25.0
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,6,24.262694793534493,25.50265273198997,25.9
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,7,26.02949785267814,27.264838188922038,27.4
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,8,27.366669322025288,28.9355580524672,29.1
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,9,28.590863402184528,30.12998767020457,30.7
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,10,29.466085303842846,31.010241620432925,32.0
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,11,30.05036935060118,31.589726629353656,33.1
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,12,30.312164276730872,31.875063387922307,33.9
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,13,30.195028392436264,31.798321827742996,34.4
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,14,29.983474802928438,31.788941665661113,34.6
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,15,29.60251309970996,31.2127994698084,34.5
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,16,28.8812925954694,30.480197748333385,34.0
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,17,28.000639749486012,29.43054136860141,33.1
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,18,26.743441720921425,28.17888652305826,31.6
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,19,25.383101612039855,26.694875932073977,30.1
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,20,24.460122598486087,25.587204847686404,29.2
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,21,24.083208660175792,25.163331277843675,28.4
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,22,23.802642207755927,24.922985044485387,27.8
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,23,23.53658034693403,24.592662261660305,27.1
+okc_whitewater,Riversport OKC,outdoor,0,23.124668092240523,24.30079681722061,26.1
+okc_whitewater,Riversport OKC,outdoor,1,22.923650845377203,24.02186500586928,25.7
+okc_whitewater,Riversport OKC,outdoor,2,22.639370566180357,23.8349285019575,25.3
+okc_whitewater,Riversport OKC,outdoor,3,22.477725305452296,23.66160072073828,25.0
+okc_whitewater,Riversport OKC,outdoor,4,22.336564495184778,23.466127281802603,24.6
+okc_whitewater,Riversport OKC,outdoor,5,22.432401436045403,23.694407437520816,24.7
+okc_whitewater,Riversport OKC,outdoor,6,24.210754789862506,25.426605833704418,25.8
+okc_whitewater,Riversport OKC,outdoor,7,25.912663690309767,27.173043779218233,27.2
+okc_whitewater,Riversport OKC,outdoor,8,27.25352796854264,28.871719540459303,28.9
+okc_whitewater,Riversport OKC,outdoor,9,28.428208908725296,30.022436474367783,30.5
+okc_whitewater,Riversport OKC,outdoor,10,29.393103214972786,30.830129077335567,31.8
+okc_whitewater,Riversport OKC,outdoor,11,29.941039804352396,31.552835584914263,32.9
+okc_whitewater,Riversport OKC,outdoor,12,30.18513071417418,31.770502820908305,33.7
+okc_whitewater,Riversport OKC,outdoor,13,30.126881190163104,31.721348915136616,34.3
+okc_whitewater,Riversport OKC,outdoor,14,29.858988576513127,31.60291266261142,34.4
+okc_whitewater,Riversport OKC,outdoor,15,29.39241168105628,31.003111216652975,34.4
+okc_whitewater,Riversport OKC,outdoor,16,28.765764166292037,30.32184735110853,33.9
+okc_whitewater,Riversport OKC,outdoor,17,27.864834504646986,29.329651905655304,33.0
+okc_whitewater,Riversport OKC,outdoor,18,26.62265507430284,28.09493871909491,31.4
+okc_whitewater,Riversport OKC,outdoor,19,25.28652623570731,26.550775744797377,29.9
+okc_whitewater,Riversport OKC,outdoor,20,24.366307840636438,25.458511843101185,29.1
+okc_whitewater,Riversport OKC,outdoor,21,23.953084915036452,25.0826127563295,28.2
+okc_whitewater,Riversport OKC,outdoor,22,23.637278032441902,24.73228735641353,27.6
+okc_whitewater,Riversport OKC,outdoor,23,23.386037093480187,24.530960923569932,26.9
+peacock_theater,Peacock Theater,indoor,0,17.542752076920806,19.447122319215055,19.6
+peacock_theater,Peacock Theater,indoor,1,17.29876219648437,19.198573036467458,19.2
+peacock_theater,Peacock Theater,indoor,2,17.06847382260736,19.043920805455347,18.9
+peacock_theater,Peacock Theater,indoor,3,16.935720528863015,18.795560924230376,18.5
+peacock_theater,Peacock Theater,indoor,4,16.8185181189227,18.622388497313352,18.2
+peacock_theater,Peacock Theater,indoor,5,16.859320300914,18.75909704152416,18.3
+peacock_theater,Peacock Theater,indoor,6,16.840150680280814,18.69671077253643,18.2
+peacock_theater,Peacock Theater,indoor,7,18.224128082677115,20.419559448577775,18.5
+peacock_theater,Peacock Theater,indoor,8,20.596851982845216,23.066424918533773,20.0
+peacock_theater,Peacock Theater,indoor,9,22.69901242815311,25.099817346282272,21.9
+peacock_theater,Peacock Theater,indoor,10,24.67901730943686,26.713150394134473,24.5
+peacock_theater,Peacock Theater,indoor,11,25.955070011992362,27.780735385093926,27.1
+peacock_theater,Peacock Theater,indoor,12,26.815785004650007,28.641024274708446,29.3
+peacock_theater,Peacock Theater,indoor,13,27.093826780444196,28.913387009637873,30.7
+peacock_theater,Peacock Theater,indoor,14,26.651405070288014,28.4710499418334,30.6
+peacock_theater,Peacock Theater,indoor,15,26.190891384567635,27.95842146023884,30.3
+peacock_theater,Peacock Theater,indoor,16,25.50597315089733,27.287916641699354,29.4
+peacock_theater,Peacock Theater,indoor,17,24.740371115146168,26.448665174480375,28.2
+peacock_theater,Peacock Theater,indoor,18,23.463565019403507,25.224700606838088,26.7
+peacock_theater,Peacock Theater,indoor,19,22.036844638483352,23.71178141380933,24.9
+peacock_theater,Peacock Theater,indoor,20,20.16687028874522,21.96353363517955,22.7
+peacock_theater,Peacock Theater,indoor,21,18.595217578520412,20.42783563428814,21.4
+peacock_theater,Peacock Theater,indoor,22,18.24251343536854,19.97363509972055,20.6
+peacock_theater,Peacock Theater,indoor,23,17.950466922928435,19.655596043414135,20.1
+port_of_la,Port of Los Angeles (sailing),outdoor,0,17.573473822352412,19.337328527405614,18.8
+port_of_la,Port of Los Angeles (sailing),outdoor,1,17.403737179904514,19.20164292293951,18.6
+port_of_la,Port of Los Angeles (sailing),outdoor,2,17.278633423994126,19.132641272019804,18.3
+port_of_la,Port of Los Angeles (sailing),outdoor,3,17.080679445830167,19.04623677208779,18.1
+port_of_la,Port of Los Angeles (sailing),outdoor,4,17.013006621989387,19.03955935949842,18.0
+port_of_la,Port of Los Angeles (sailing),outdoor,5,17.172623155116774,19.116571423656143,18.1
+port_of_la,Port of Los Angeles (sailing),outdoor,6,17.154687026431834,19.077279532202276,18.2
+port_of_la,Port of Los Angeles (sailing),outdoor,7,18.634802989921052,20.425965213146167,18.7
+port_of_la,Port of Los Angeles (sailing),outdoor,8,20.60683492906423,22.85415787039154,19.9
+port_of_la,Port of Los Angeles (sailing),outdoor,9,22.5660980167929,24.77161280944269,21.5
+port_of_la,Port of Los Angeles (sailing),outdoor,10,23.73899706046242,25.557784602750427,22.9
+port_of_la,Port of Los Angeles (sailing),outdoor,11,24.51395246217778,26.193641234386245,24.1
+port_of_la,Port of Los Angeles (sailing),outdoor,12,24.75276069787664,26.196687449547838,24.5
+port_of_la,Port of Los Angeles (sailing),outdoor,13,24.732436957503808,26.32098623529119,25.0
+port_of_la,Port of Los Angeles (sailing),outdoor,14,24.609426264002128,26.39946950684153,25.1
+port_of_la,Port of Los Angeles (sailing),outdoor,15,24.35342683947892,26.00821261098492,24.7
+port_of_la,Port of Los Angeles (sailing),outdoor,16,23.884496848543993,25.491970531289468,24.2
+port_of_la,Port of Los Angeles (sailing),outdoor,17,23.180374096012653,24.743372157914838,23.2
+port_of_la,Port of Los Angeles (sailing),outdoor,18,22.3041583294379,23.885513672428075,22.5
+port_of_la,Port of Los Angeles (sailing),outdoor,19,20.971141244694454,22.618309663574124,21.4
+port_of_la,Port of Los Angeles (sailing),outdoor,20,19.42002432284803,21.163811509365473,20.3
+port_of_la,Port of Los Angeles (sailing),outdoor,21,18.168699207710635,19.910045759540942,19.8
+port_of_la,Port of Los Angeles (sailing),outdoor,22,18.00006794380802,19.743807908551666,19.4
+port_of_la,Port of Los Angeles (sailing),outdoor,23,17.75765977727217,19.60701952084917,19.1
+riviera_cc,Riviera Country Club,outdoor,0,17.099700812192815,19.0920034193238,18.6
+riviera_cc,Riviera Country Club,outdoor,1,16.871538637103924,18.866554066091624,18.3
+riviera_cc,Riviera Country Club,outdoor,2,16.6621281902387,18.735119808989182,18.1
+riviera_cc,Riviera Country Club,outdoor,3,16.47925603685211,18.454286805236496,17.8
+riviera_cc,Riviera Country Club,outdoor,4,16.317352178366356,18.483378720980788,17.6
+riviera_cc,Riviera Country Club,outdoor,5,16.21133210221738,18.616820686305676,17.6
+riviera_cc,Riviera Country Club,outdoor,6,16.307035710673134,18.52765517041488,17.6
+riviera_cc,Riviera Country Club,outdoor,7,18.050460702838144,20.08703153069125,18.3
+riviera_cc,Riviera Country Club,outdoor,8,20.85429141260363,23.352693851624636,20.1
+riviera_cc,Riviera Country Club,outdoor,9,23.327627069506136,25.955820093537575,22.5
+riviera_cc,Riviera Country Club,outdoor,10,24.82243064667316,26.765292828452807,24.7
+riviera_cc,Riviera Country Club,outdoor,11,25.641502352393708,27.402977899466215,26.3
+riviera_cc,Riviera Country Club,outdoor,12,25.973881783798067,27.818994534143926,27.2
+riviera_cc,Riviera Country Club,outdoor,13,25.679999624659665,27.820018982407234,27.3
+riviera_cc,Riviera Country Club,outdoor,14,25.24892881132581,27.49429795396287,27.2
+riviera_cc,Riviera Country Club,outdoor,15,24.996108970937502,27.47223961095927,26.9
+riviera_cc,Riviera Country Club,outdoor,16,24.51638960488827,27.155988745435874,26.7
+riviera_cc,Riviera Country Club,outdoor,17,23.67904529440496,26.0385362473732,25.0
+riviera_cc,Riviera Country Club,outdoor,18,22.896152566521927,25.131250026557,24.1
+riviera_cc,Riviera Country Club,outdoor,19,21.522149455199603,23.62312827121802,22.3
+riviera_cc,Riviera Country Club,outdoor,20,19.363327482767435,21.821227007283007,20.4
+riviera_cc,Riviera Country Club,outdoor,21,17.79336737723789,19.772000606015926,19.4
+riviera_cc,Riviera Country Club,outdoor,22,17.542420678446955,19.54254952678436,19.0
+riviera_cc,Riviera Country Club,outdoor,23,17.369997313839605,19.330188122066644,18.8
+rose_bowl,Rose Bowl Stadium,outdoor,0,17.63869450799004,19.705202769633967,19.8
+rose_bowl,Rose Bowl Stadium,outdoor,1,17.454333031960633,19.517976068484014,19.3
+rose_bowl,Rose Bowl Stadium,outdoor,2,17.205223321269067,19.244672968046466,19.2
+rose_bowl,Rose Bowl Stadium,outdoor,3,17.03796547776054,19.071337422788,18.9
+rose_bowl,Rose Bowl Stadium,outdoor,4,16.741164214728784,18.92260564063985,18.7
+rose_bowl,Rose Bowl Stadium,outdoor,5,16.70236796782296,18.833347499936263,18.3
+rose_bowl,Rose Bowl Stadium,outdoor,6,16.61511561793359,18.662328722783382,18.4
+rose_bowl,Rose Bowl Stadium,outdoor,7,18.80689019934165,20.940808811621373,19.3
+rose_bowl,Rose Bowl Stadium,outdoor,8,21.599036990401498,23.920334618656515,21.4
+rose_bowl,Rose Bowl Stadium,outdoor,9,23.692873297816135,25.6821276466713,23.6
+rose_bowl,Rose Bowl Stadium,outdoor,10,25.211980391760196,27.138585573805436,26.0
+rose_bowl,Rose Bowl Stadium,outdoor,11,26.426859645449678,28.301017549861715,28.2
+rose_bowl,Rose Bowl Stadium,outdoor,12,27.200671615506366,28.9196537328388,30.0
+rose_bowl,Rose Bowl Stadium,outdoor,13,27.634428227546742,29.417704243065344,31.1
+rose_bowl,Rose Bowl Stadium,outdoor,14,27.545064031346442,29.513154379614885,31.8
+rose_bowl,Rose Bowl Stadium,outdoor,15,27.18810983342806,29.096541998682078,31.6
+rose_bowl,Rose Bowl Stadium,outdoor,16,26.457829983426365,28.358117646252673,30.9
+rose_bowl,Rose Bowl Stadium,outdoor,17,25.664897495802546,27.4704966320488,29.5
+rose_bowl,Rose Bowl Stadium,outdoor,18,24.524149847923866,26.451257203461715,28.0
+rose_bowl,Rose Bowl Stadium,outdoor,19,22.839072840369205,24.66199270881366,25.9
+rose_bowl,Rose Bowl Stadium,outdoor,20,20.535691439025072,22.64741186874877,23.5
+rose_bowl,Rose Bowl Stadium,outdoor,21,18.57570474194339,20.797061868563922,22.0
+rose_bowl,Rose Bowl Stadium,outdoor,22,18.17014560995776,20.439852164668707,21.0
+rose_bowl,Rose Bowl Stadium,outdoor,23,17.844030081929894,19.833463012823906,20.4
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,0,17.63943798689394,19.70584610167984,19.9
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,1,17.47879739335888,19.532396977311617,19.4
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,2,17.22060107901521,19.245325221951234,19.2
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,3,17.039580475261648,19.119219629227025,18.9
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,4,16.742599692632187,18.925586624330315,18.7
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,5,16.713063763111222,18.90929262742165,18.3
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,6,16.615720808984292,18.73860308325117,18.4
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,7,18.80741217980343,20.984517505642263,19.3
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,8,21.63423651573429,23.920835096523536,21.5
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,9,23.69341168959237,25.728872663233084,23.7
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,10,25.213400266285472,27.220762296451532,26.0
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,11,26.432291333558492,28.301995648589493,28.2
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,12,27.20983881007849,28.921713515697608,30.0
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,13,27.635536789857092,29.4195686831823,31.2
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,14,27.552240836229167,29.51522760079932,31.9
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,15,27.20684676758126,29.098595328703794,31.6
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,16,26.4931469246491,28.36047671577531,30.9
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,17,25.684313905146105,27.47363871421826,29.5
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,18,24.557601546646886,26.453589284502346,28.1
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,19,22.854424490934257,24.730986057579237,25.9
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,20,20.53795114936547,22.650926166115397,23.5
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,21,18.577727118046415,20.798145126811903,22.0
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,22,18.179969603184837,20.45836023294659,21.0
+rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,23,17.898580601401783,19.83478352126806,20.4
+santa_anita,Santa Anita Park,outdoor,0,17.717212564460095,19.397799209264022,20.0
+santa_anita,Santa Anita Park,outdoor,1,17.587926292377226,19.20026519303191,19.6
+santa_anita,Santa Anita Park,outdoor,2,17.364476784862518,18.975668210216984,19.1
+santa_anita,Santa Anita Park,outdoor,3,17.117524054919734,18.809532194582083,18.9
+santa_anita,Santa Anita Park,outdoor,4,16.879956693537164,18.648054496856606,18.6
+santa_anita,Santa Anita Park,outdoor,5,16.727736286212522,18.560265699316226,18.4
+santa_anita,Santa Anita Park,outdoor,6,16.673858408507016,18.659587814903954,18.3
+santa_anita,Santa Anita Park,outdoor,7,18.835552930451886,20.84399446633063,19.3
+santa_anita,Santa Anita Park,outdoor,8,21.477161159269127,23.87744704779388,21.3
+santa_anita,Santa Anita Park,outdoor,9,23.616251761517294,25.77647995462878,23.5
+santa_anita,Santa Anita Park,outdoor,10,25.329535764281488,27.425366950920296,25.9
+santa_anita,Santa Anita Park,outdoor,11,26.524085168570668,28.288368786927613,28.0
+santa_anita,Santa Anita Park,outdoor,12,27.36831966934357,29.056426972534236,29.7
+santa_anita,Santa Anita Park,outdoor,13,27.815117440814582,29.540826342484607,31.2
+santa_anita,Santa Anita Park,outdoor,14,27.82605639174894,29.461405030688336,32.0
+santa_anita,Santa Anita Park,outdoor,15,27.438780765315656,29.10551613401769,31.9
+santa_anita,Santa Anita Park,outdoor,16,26.777010804776324,28.318645604015476,31.5
+santa_anita,Santa Anita Park,outdoor,17,25.80528496631336,27.449460903731996,30.1
+santa_anita,Santa Anita Park,outdoor,18,24.539208829839996,26.164566278616118,28.5
+santa_anita,Santa Anita Park,outdoor,19,22.673164412696746,24.270718537697928,26.2
+santa_anita,Santa Anita Park,outdoor,20,20.506069849856143,22.134838420991855,23.7
+santa_anita,Santa Anita Park,outdoor,21,18.711063457095044,20.415126751021358,22.3
+santa_anita,Santa Anita Park,outdoor,22,18.206934887543632,19.96938635148223,21.4
+santa_anita,Santa Anita Park,outdoor,23,18.014482975219966,19.619926135866844,20.6
+sd_stadium,San Diego Stadium (city-level location),outdoor,0,18.19078562074715,19.869533381420403,19.6
+sd_stadium,San Diego Stadium (city-level location),outdoor,1,18.075923420399455,19.73383798670429,19.3
+sd_stadium,San Diego Stadium (city-level location),outdoor,2,17.99452250504858,19.610971642198624,19.2
+sd_stadium,San Diego Stadium (city-level location),outdoor,3,17.92581966744939,19.512816945918313,19.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,4,17.8644218133063,19.452080865544094,18.9
+sd_stadium,San Diego Stadium (city-level location),outdoor,5,17.875591256381107,19.464250611724832,19.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,6,17.91057771971857,19.56393878734083,19.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,7,18.89776424696396,20.91969529623289,19.3
+sd_stadium,San Diego Stadium (city-level location),outdoor,8,20.710965129873575,23.175776681966244,20.2
+sd_stadium,San Diego Stadium (city-level location),outdoor,9,22.245323743158195,24.416571740896195,21.3
+sd_stadium,San Diego Stadium (city-level location),outdoor,10,23.35912196618781,25.35659769857844,22.7
+sd_stadium,San Diego Stadium (city-level location),outdoor,11,24.02925811584912,25.780247458391074,23.6
+sd_stadium,San Diego Stadium (city-level location),outdoor,12,24.20855012945244,25.87045976999183,24.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,13,24.243676317533783,25.928255907951325,24.2
+sd_stadium,San Diego Stadium (city-level location),outdoor,14,24.161821101296287,25.785810928440874,24.3
+sd_stadium,San Diego Stadium (city-level location),outdoor,15,24.005008559566743,25.55310380413182,24.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,16,23.688758933767154,25.21898260068615,23.7
+sd_stadium,San Diego Stadium (city-level location),outdoor,17,22.9814000981526,24.67812949257376,23.0
+sd_stadium,San Diego Stadium (city-level location),outdoor,18,21.95345230897484,23.759439170119762,22.2
+sd_stadium,San Diego Stadium (city-level location),outdoor,19,20.861256675850342,22.465141709715848,21.4
+sd_stadium,San Diego Stadium (city-level location),outdoor,20,19.44541044012942,21.119154357330817,20.7
+sd_stadium,San Diego Stadium (city-level location),outdoor,21,18.55840765875015,20.097866767588,20.3
+sd_stadium,San Diego Stadium (city-level location),outdoor,22,18.445674028040077,20.072525060208203,20.1
+sd_stadium,San Diego Stadium (city-level location),outdoor,23,18.327221337298315,19.934344916645816,19.9
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,0,16.836949949358228,18.697985904494967,18.7
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,1,16.755801030599237,18.43482508544328,18.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,2,16.530388990040432,18.252851631240393,18.1
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,3,16.304988769205885,18.03902474019618,17.9
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,4,15.923596003010397,18.015594180881298,17.7
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,5,15.853993077386429,18.03859889000379,17.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,6,15.999863317798162,18.20882187953507,17.6
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,7,18.162632253274204,20.27029390967362,18.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,8,21.49967006472043,24.0960963641462,20.5
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,9,23.82094575494103,26.64311891974003,23.1
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,10,25.4009356916478,27.43896140670111,25.9
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,11,26.438744159806344,28.184349344445614,28.1
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,12,27.014669909377275,28.94103931503685,29.3
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,13,27.114113692387207,29.26576401289169,30.1
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,14,26.799695223239304,29.064664698327334,30.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,15,26.669717666267324,28.859408697467792,30.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,16,26.227191669316237,28.631252142199706,30.0
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,17,25.337455922758554,27.62485762718053,28.3
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,18,24.374209035618996,26.679634801219237,27.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,19,22.81953358698197,25.215387655673556,25.4
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,20,20.561049430058972,22.808374430702802,22.7
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,21,18.287114509832165,20.38803968920185,20.9
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,22,17.732219076441435,19.940084599486752,20.0
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,23,17.34924592899,19.417674197429143,19.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,0,16.836949949358228,18.697985904494967,18.7
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,1,16.755801030599237,18.43482508544328,18.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,2,16.530388990040432,18.252851631240393,18.1
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,3,16.304988769205885,18.03902474019618,17.9
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,4,15.923596003010397,18.015594180881298,17.7
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,5,15.853993077386429,18.03859889000379,17.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,6,15.999863317798162,18.20882187953507,17.6
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,7,18.162632253274204,20.27029390967362,18.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,8,21.49967006472043,24.0960963641462,20.5
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,9,23.82094575494103,26.64311891974003,23.1
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,10,25.4009356916478,27.43896140670111,25.9
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,11,26.438744159806344,28.184349344445614,28.1
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,12,27.014669909377275,28.94103931503685,29.3
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,13,27.114113692387207,29.26576401289169,30.1
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,14,26.799695223239304,29.064664698327334,30.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,15,26.669717666267324,28.859408697467792,30.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,16,26.227191669316237,28.631252142199706,30.0
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,17,25.337455922758554,27.62485762718053,28.3
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,18,24.374209035618996,26.679634801219237,27.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,19,22.81953358698197,25.215387655673556,25.4
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,20,20.561049430058972,22.808374430702802,22.7
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,21,18.287114509832165,20.38803968920185,20.9
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,22,17.732219076441435,19.940084599486752,20.0
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,23,17.34924592899,19.417674197429143,19.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,0,16.836949949358228,18.697985904494967,18.7
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,1,16.755801030599237,18.43482508544328,18.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,2,16.530388990040432,18.252851631240393,18.1
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,3,16.304988769205885,18.03902474019618,17.9
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,4,15.923596003010397,18.015594180881298,17.7
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,5,15.853993077386429,18.03859889000379,17.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,6,15.999863317798162,18.20882187953507,17.6
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,7,18.162632253274204,20.27029390967362,18.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,8,21.49967006472043,24.0960963641462,20.5
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,9,23.82094575494103,26.64311891974003,23.1
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,10,25.4009356916478,27.43896140670111,25.9
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,11,26.438744159806344,28.184349344445614,28.1
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,12,27.014669909377275,28.94103931503685,29.3
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,13,27.114113692387207,29.26576401289169,30.1
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,14,26.799695223239304,29.064664698327334,30.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,15,26.669717666267324,28.859408697467792,30.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,16,26.227191669316237,28.631252142199706,30.0
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,17,25.337455922758554,27.62485762718053,28.3
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,18,24.374209035618996,26.679634801219237,27.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,19,22.81953358698197,25.215387655673556,25.4
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,20,20.561049430058972,22.808374430702802,22.7
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,21,18.287114509832165,20.38803968920185,20.9
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,22,17.732219076441435,19.940084599486752,20.0
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,23,17.34924592899,19.417674197429143,19.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,0,16.836949949358228,18.697985904494967,18.7
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,1,16.755801030599237,18.43482508544328,18.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,2,16.530388990040432,18.252851631240393,18.1
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,3,16.304988769205885,18.03902474019618,17.9
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,4,15.923596003010397,18.015594180881298,17.7
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,5,15.853993077386429,18.03859889000379,17.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,6,15.999863317798162,18.20882187953507,17.6
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,7,18.162632253274204,20.27029390967362,18.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,8,21.49967006472043,24.0960963641462,20.5
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,9,23.82094575494103,26.64311891974003,23.1
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,10,25.4009356916478,27.43896140670111,25.9
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,11,26.438744159806344,28.184349344445614,28.1
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,12,27.014669909377275,28.94103931503685,29.3
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,13,27.114113692387207,29.26576401289169,30.1
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,14,26.799695223239304,29.064664698327334,30.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,15,26.669717666267324,28.859408697467792,30.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,16,26.227191669316237,28.631252142199706,30.0
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,17,25.337455922758554,27.62485762718053,28.3
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,18,24.374209035618996,26.679634801219237,27.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,19,22.81953358698197,25.215387655673556,25.4
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,20,20.561049430058972,22.808374430702802,22.7
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,21,18.287114509832165,20.38803968920185,20.9
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,22,17.732219076441435,19.940084599486752,20.0
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,23,17.34924592899,19.417674197429143,19.4
+sj_stadium,San José Stadium (city-level location),outdoor,0,14.587452627016875,16.7405305392846,17.4
+sj_stadium,San José Stadium (city-level location),outdoor,1,14.268653691285419,16.200123393553483,16.8
+sj_stadium,San José Stadium (city-level location),outdoor,2,13.916659430805536,15.886823144491899,16.3
+sj_stadium,San José Stadium (city-level location),outdoor,3,13.735697113168778,15.460218265564402,16.0
+sj_stadium,San José Stadium (city-level location),outdoor,4,13.515141702553484,15.170108133830745,15.5
+sj_stadium,San José Stadium (city-level location),outdoor,5,13.46638006397788,15.490723168045763,15.1
+sj_stadium,San José Stadium (city-level location),outdoor,6,13.315780288776644,15.306552819183832,15.0
+sj_stadium,San José Stadium (city-level location),outdoor,7,15.07627760693444,17.22921011303141,15.1
+sj_stadium,San José Stadium (city-level location),outdoor,8,17.361905471246587,19.98704159768448,16.0
+sj_stadium,San José Stadium (city-level location),outdoor,9,19.63247315219787,22.48622593329781,17.8
+sj_stadium,San José Stadium (city-level location),outdoor,10,21.523678939760355,24.204643151816114,20.2
+sj_stadium,San José Stadium (city-level location),outdoor,11,22.930426775739654,25.480517399050168,22.8
+sj_stadium,San José Stadium (city-level location),outdoor,12,23.742286755927907,26.393943114307117,25.3
+sj_stadium,San José Stadium (city-level location),outdoor,13,24.27584338934198,26.840576416236907,27.1
+sj_stadium,San José Stadium (city-level location),outdoor,14,24.331343952678914,27.091349395053395,28.3
+sj_stadium,San José Stadium (city-level location),outdoor,15,24.14083880667311,27.061417763124886,28.5
+sj_stadium,San José Stadium (city-level location),outdoor,16,23.72427106719408,26.56705430602593,27.9
+sj_stadium,San José Stadium (city-level location),outdoor,17,23.499366266296825,26.023061931868355,27.3
+sj_stadium,San José Stadium (city-level location),outdoor,18,22.368284087742598,24.893302476815734,25.8
+sj_stadium,San José Stadium (city-level location),outdoor,19,20.73702280033446,23.25061624109816,23.8
+sj_stadium,San José Stadium (city-level location),outdoor,20,18.667504032644878,20.88525645651806,21.5
+sj_stadium,San José Stadium (city-level location),outdoor,21,16.259633428005973,18.29700334430208,19.9
+sj_stadium,San José Stadium (city-level location),outdoor,22,15.598449420038712,17.59020732007165,18.8
+sj_stadium,San José Stadium (city-level location),outdoor,23,15.028110750193285,16.97815658305972,17.9
+sofi_stadium,SoFi Stadium,covered,0,17.707850244572292,19.566438035648254,19.7
+sofi_stadium,SoFi Stadium,covered,1,17.526055321688236,19.380581377554837,19.3
+sofi_stadium,SoFi Stadium,covered,2,17.323419072479947,19.127356591778742,19.0
+sofi_stadium,SoFi Stadium,covered,3,17.13816239649979,18.980717801225815,18.7
+sofi_stadium,SoFi Stadium,covered,4,17.015368651063163,18.885648834637948,18.5
+sofi_stadium,SoFi Stadium,covered,5,17.06345695411963,18.956994604322606,18.5
+sofi_stadium,SoFi Stadium,covered,6,17.156911550013326,19.00723055879884,18.5
+sofi_stadium,SoFi Stadium,covered,7,18.377817852340023,20.564018727258627,18.9
+sofi_stadium,SoFi Stadium,covered,8,20.676834233416695,22.8607898023817,20.0
+sofi_stadium,SoFi Stadium,covered,9,23.052256782597212,25.306739849705167,22.0
+sofi_stadium,SoFi Stadium,covered,10,24.733964336127023,26.726974114668533,24.3
+sofi_stadium,SoFi Stadium,covered,11,25.737350180647855,27.62517627976203,26.5
+sofi_stadium,SoFi Stadium,covered,12,26.21669219122307,27.933700199773,27.7
+sofi_stadium,SoFi Stadium,covered,13,25.76086152108632,27.669953766090345,28.3
+sofi_stadium,SoFi Stadium,covered,14,25.308719868783857,27.248103776112984,28.1
+sofi_stadium,SoFi Stadium,covered,15,24.9352914896855,26.81965886600342,27.5
+sofi_stadium,SoFi Stadium,covered,16,24.24364483514839,26.19079732131349,26.7
+sofi_stadium,SoFi Stadium,covered,17,23.427612122801897,25.80677517514258,25.6
+sofi_stadium,SoFi Stadium,covered,18,22.373096085512177,24.402738076095893,24.4
+sofi_stadium,SoFi Stadium,covered,19,21.15414295272919,23.1750007056678,22.8
+sofi_stadium,SoFi Stadium,covered,20,19.654041425669888,21.569177578859758,21.3
+sofi_stadium,SoFi Stadium,covered,21,18.419097424111413,20.21316113305616,20.7
+sofi_stadium,SoFi Stadium,covered,22,18.173134012704033,20.021180480651434,20.4
+sofi_stadium,SoFi Stadium,covered,23,17.99873070851388,19.79291362472793,20.0
+stl_stadium,St. Louis Stadium (city-level location),outdoor,0,22.053705525532415,24.504919821776063,23.5
+stl_stadium,St. Louis Stadium (city-level location),outdoor,1,21.855747328105483,24.234490688176134,23.2
+stl_stadium,St. Louis Stadium (city-level location),outdoor,2,21.604545084000193,23.974200368762187,23.0
+stl_stadium,St. Louis Stadium (city-level location),outdoor,3,21.396027546442127,23.762899409307902,22.6
+stl_stadium,St. Louis Stadium (city-level location),outdoor,4,21.1460981734155,23.628113063400956,22.3
+stl_stadium,St. Louis Stadium (city-level location),outdoor,5,22.72112798679873,25.196789404434902,23.2
+stl_stadium,St. Louis Stadium (city-level location),outdoor,6,24.264912286646034,27.18753655295123,24.2
+stl_stadium,St. Louis Stadium (city-level location),outdoor,7,25.908021187150627,28.99753175652736,25.6
+stl_stadium,St. Louis Stadium (city-level location),outdoor,8,27.339295316206005,30.58706492048136,27.0
+stl_stadium,St. Louis Stadium (city-level location),outdoor,9,28.518217058292123,31.453467016424636,28.4
+stl_stadium,St. Louis Stadium (city-level location),outdoor,10,29.14997044689869,32.15942069684442,29.3
+stl_stadium,St. Louis Stadium (city-level location),outdoor,11,29.60918678607362,32.48546124822154,30.1
+stl_stadium,St. Louis Stadium (city-level location),outdoor,12,29.70421420058359,32.544408989567685,30.5
+stl_stadium,St. Louis Stadium (city-level location),outdoor,13,29.856802803432245,32.29401131552509,30.9
+stl_stadium,St. Louis Stadium (city-level location),outdoor,14,29.410170883065785,32.00492456002373,31.1
+stl_stadium,St. Louis Stadium (city-level location),outdoor,15,28.836537120135922,31.200799520774886,30.9
+stl_stadium,St. Louis Stadium (city-level location),outdoor,16,27.987186856881504,30.43388604162527,30.5
+stl_stadium,St. Louis Stadium (city-level location),outdoor,17,27.04404286912051,29.43059490980159,28.9
+stl_stadium,St. Louis Stadium (city-level location),outdoor,18,25.3269577858155,27.8968065326291,27.2
+stl_stadium,St. Louis Stadium (city-level location),outdoor,19,23.622841384730403,26.214285086079222,26.1
+stl_stadium,St. Louis Stadium (city-level location),outdoor,20,23.22648018832451,25.86090356889715,25.3
+stl_stadium,St. Louis Stadium (city-level location),outdoor,21,22.84707028789746,25.609866735329057,24.6
+stl_stadium,St. Louis Stadium (city-level location),outdoor,22,22.593293826614968,25.231796064065694,24.2
+stl_stadium,St. Louis Stadium (city-level location),outdoor,23,22.225696239908682,24.913836067945056,23.8
+trestles,Trestles State Beach,outdoor,0,17.94980981550367,20.011775055113677,18.9
+trestles,Trestles State Beach,outdoor,1,17.81653350771285,19.910809259771565,18.8
+trestles,Trestles State Beach,outdoor,2,17.63747288334872,19.907010055126246,18.6
+trestles,Trestles State Beach,outdoor,3,17.433433923074205,19.69661457740197,18.5
+trestles,Trestles State Beach,outdoor,4,17.358637992597068,19.413808024174642,18.4
+trestles,Trestles State Beach,outdoor,5,17.50193746918176,19.573619852069452,18.4
+trestles,Trestles State Beach,outdoor,6,17.43959401853338,19.619763612314017,18.4
+trestles,Trestles State Beach,outdoor,7,18.880856241566534,21.129610274037628,18.8
+trestles,Trestles State Beach,outdoor,8,20.590151147088118,22.98655063031079,19.8
+trestles,Trestles State Beach,outdoor,9,22.15541751517322,24.430760975658725,20.9
+trestles,Trestles State Beach,outdoor,10,23.527834306308957,25.47777883626953,22.1
+trestles,Trestles State Beach,outdoor,11,24.29784988812312,26.273976350820796,23.1
+trestles,Trestles State Beach,outdoor,12,24.588405164181754,26.413834376154846,23.7
+trestles,Trestles State Beach,outdoor,13,24.69630764149992,26.59650806857633,24.0
+trestles,Trestles State Beach,outdoor,14,24.743190827455805,26.492572778185604,24.2
+trestles,Trestles State Beach,outdoor,15,24.579511436829584,26.469928721112204,24.1
+trestles,Trestles State Beach,outdoor,16,24.200472594093647,26.066789076673142,23.9
+trestles,Trestles State Beach,outdoor,17,23.687001417478545,25.468725845728322,23.1
+trestles,Trestles State Beach,outdoor,18,22.659543615226585,24.567885376590432,22.5
+trestles,Trestles State Beach,outdoor,19,21.364509407592788,23.262084175417964,21.6
+trestles,Trestles State Beach,outdoor,20,19.78725652048827,21.60474578037583,20.7
+trestles,Trestles State Beach,outdoor,21,18.47778761349537,20.37466447092992,20.2
+trestles,Trestles State Beach,outdoor,22,18.271634875631175,20.253576635510086,19.7
+trestles,Trestles State Beach,outdoor,23,18.13083666709639,20.210961817021733,19.4
+universal_squash,Comcast Squash Center at Universal Studios,indoor,0,16.98002432689101,18.615177814278717,18.7
+universal_squash,Comcast Squash Center at Universal Studios,indoor,1,16.652640423081255,18.344835229656383,18.2
+universal_squash,Comcast Squash Center at Universal Studios,indoor,2,16.350305410841127,18.269447514944233,17.9
+universal_squash,Comcast Squash Center at Universal Studios,indoor,3,16.11880547142091,18.015235061595124,17.5
+universal_squash,Comcast Squash Center at Universal Studios,indoor,4,15.956891580000462,17.786319020498382,17.3
+universal_squash,Comcast Squash Center at Universal Studios,indoor,5,15.900572980246896,18.107994898269883,17.3
+universal_squash,Comcast Squash Center at Universal Studios,indoor,6,15.90471605098274,17.866468850915908,17.2
+universal_squash,Comcast Squash Center at Universal Studios,indoor,7,17.932812461534336,19.884595033971895,18.0
+universal_squash,Comcast Squash Center at Universal Studios,indoor,8,20.870517067605494,23.329476959886687,19.9
+universal_squash,Comcast Squash Center at Universal Studios,indoor,9,23.3094734445212,25.68491856090314,22.3
+universal_squash,Comcast Squash Center at Universal Studios,indoor,10,25.20817428830248,27.217321804298148,25.4
+universal_squash,Comcast Squash Center at Universal Studios,indoor,11,26.41152146531335,28.381813706919566,28.0
+universal_squash,Comcast Squash Center at Universal Studios,indoor,12,27.24674817742045,29.164585675950548,29.5
+universal_squash,Comcast Squash Center at Universal Studios,indoor,13,27.51139875507098,29.52762297805548,30.5
+universal_squash,Comcast Squash Center at Universal Studios,indoor,14,27.130081091194704,29.338870386990674,30.9
+universal_squash,Comcast Squash Center at Universal Studios,indoor,15,26.767881572196313,28.68144761644899,30.5
+universal_squash,Comcast Squash Center at Universal Studios,indoor,16,26.29862848470663,28.05284441158803,29.9
+universal_squash,Comcast Squash Center at Universal Studios,indoor,17,25.265843923820483,27.186313987539314,28.6
+universal_squash,Comcast Squash Center at Universal Studios,indoor,18,24.159609101312913,25.94530620039677,27.3
+universal_squash,Comcast Squash Center at Universal Studios,indoor,19,22.389195010585105,24.270716797697936,25.2
+universal_squash,Comcast Squash Center at Universal Studios,indoor,20,20.047059604279053,21.89743501727425,22.4
+universal_squash,Comcast Squash Center at Universal Studios,indoor,21,18.000577542948974,19.8642068238332,20.9
+universal_squash,Comcast Squash Center at Universal Studios,indoor,22,17.59461458112432,19.407758662771787,20.1
+universal_squash,Comcast Squash Center at Universal Studios,indoor,23,17.28761580049899,19.043604183010416,19.2
+venice_beach,Venice Beach,outdoor,0,17.662981594551812,19.54940198225389,19.3
+venice_beach,Venice Beach,outdoor,1,17.540764556709547,19.407415475590653,19.2
+venice_beach,Venice Beach,outdoor,2,17.29844918348438,19.225215998172246,18.9
+venice_beach,Venice Beach,outdoor,3,17.18452126430923,19.10488957816806,18.6
+venice_beach,Venice Beach,outdoor,4,17.05115337254935,19.010917302542197,18.4
+venice_beach,Venice Beach,outdoor,5,17.150988340121085,19.122991679962084,18.5
+venice_beach,Venice Beach,outdoor,6,17.096609205750223,19.052247405324547,18.4
+venice_beach,Venice Beach,outdoor,7,18.383251007637767,20.415092921075004,19.0
+venice_beach,Venice Beach,outdoor,8,20.50703818694329,22.735125810020687,19.9
+venice_beach,Venice Beach,outdoor,9,22.715770638711348,25.053233257834925,21.7
+venice_beach,Venice Beach,outdoor,10,24.03289823180638,26.158075044376343,23.6
+venice_beach,Venice Beach,outdoor,11,24.5827427463379,26.45407307661785,24.7
+venice_beach,Venice Beach,outdoor,12,24.540293092562926,26.48444831023848,24.8
+venice_beach,Venice Beach,outdoor,13,23.907597950128462,26.3453272038302,24.6
+venice_beach,Venice Beach,outdoor,14,23.59219882842104,26.052600462828753,24.2
+venice_beach,Venice Beach,outdoor,15,23.218890122067403,26.103022203304217,23.7
+venice_beach,Venice Beach,outdoor,16,22.759267279143604,25.611160638253587,23.3
+venice_beach,Venice Beach,outdoor,17,22.131545237516622,24.9896903685694,22.3
+venice_beach,Venice Beach,outdoor,18,21.327776802800635,24.04851034887244,21.6
+venice_beach,Venice Beach,outdoor,19,20.329285811581066,22.759701342874408,20.7
+venice_beach,Venice Beach,outdoor,20,19.024969121493005,21.2470579100175,19.7
+venice_beach,Venice Beach,outdoor,21,17.962547595832042,19.975538796521228,19.6
+venice_beach,Venice Beach,outdoor,22,17.936281110945583,19.971666958826734,19.5
+venice_beach,Venice Beach,outdoor,23,17.833047199061934,19.682245842341576,19.5
+venice_boardwalk,Venice Beach Boardwalk,outdoor,0,17.662904341180862,19.549365449338545,19.3
+venice_boardwalk,Venice Beach Boardwalk,outdoor,1,17.540719624745513,19.407387001137764,19.2
+venice_boardwalk,Venice Beach Boardwalk,outdoor,2,17.29839772685828,19.225188940540793,18.9
+venice_boardwalk,Venice Beach Boardwalk,outdoor,3,17.18447851656424,19.104867397041982,18.6
+venice_boardwalk,Venice Beach Boardwalk,outdoor,4,17.05109905972544,19.01089273659855,18.4
+venice_boardwalk,Venice Beach Boardwalk,outdoor,5,17.150934756977698,19.122957524001215,18.5
+venice_boardwalk,Venice Beach Boardwalk,outdoor,6,17.09656047890055,19.05219121336743,18.4
+venice_boardwalk,Venice Beach Boardwalk,outdoor,7,18.383469108992227,20.415225685420868,19.0
+venice_boardwalk,Venice Beach Boardwalk,outdoor,8,20.50714102375956,22.735477747936592,19.9
+venice_boardwalk,Venice Beach Boardwalk,outdoor,9,22.715973835588976,25.053350484259532,21.7
+venice_boardwalk,Venice Beach Boardwalk,outdoor,10,24.033084616460247,26.15821411818958,23.6
+venice_boardwalk,Venice Beach Boardwalk,outdoor,11,24.582817959441922,26.454081777655762,24.7
+venice_boardwalk,Venice Beach Boardwalk,outdoor,12,24.54036378985436,26.484534644889248,24.8
+venice_boardwalk,Venice Beach Boardwalk,outdoor,13,23.9076722602124,26.345359386244468,24.6
+venice_boardwalk,Venice Beach Boardwalk,outdoor,14,23.59222330098875,26.052587170054057,24.2
+venice_boardwalk,Venice Beach Boardwalk,outdoor,15,23.21889540525038,26.10285523530845,23.7
+venice_boardwalk,Venice Beach Boardwalk,outdoor,16,22.759175186604296,25.61097124280799,23.3
+venice_boardwalk,Venice Beach Boardwalk,outdoor,17,22.1313986299647,24.989432658136074,22.3
+venice_boardwalk,Venice Beach Boardwalk,outdoor,18,21.327592754795596,24.048217644722353,21.6
+venice_boardwalk,Venice Beach Boardwalk,outdoor,19,20.328891025356334,22.75928295771358,20.7
+venice_boardwalk,Venice Beach Boardwalk,outdoor,20,19.024136637808677,21.24607758964232,19.7
+venice_boardwalk,Venice Beach Boardwalk,outdoor,21,17.962419451052924,19.975347504148978,19.6
+venice_boardwalk,Venice Beach Boardwalk,outdoor,22,17.936204567465534,19.971594904191342,19.5
+venice_boardwalk,Venice Beach Boardwalk,outdoor,23,17.832970492205057,19.682212252229938,19.5
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,0,17.596429610842108,19.32296064210238,19.9
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,1,17.331851900583636,19.067876407717268,19.3
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,2,17.051892315456364,18.821575029283977,18.8
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,3,16.760720730998948,18.630202765012374,18.4
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,4,16.65243038267777,18.57059005867523,18.1
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,5,16.511480711952846,18.484650041722606,17.9
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,6,16.549978041279218,18.46514779570502,17.9
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,7,18.197956820490354,20.246963983883276,18.5
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,8,20.650667320607788,23.07416473661754,20.1
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,9,23.099550874083633,25.383524093701524,22.4
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,10,25.09342041796608,27.231773440170823,25.0
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,11,26.24283826906242,28.218025425678096,27.6
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,12,27.13323418320723,28.787203933221473,29.7
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,13,27.5340721719026,29.252062521076947,31.4
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,14,27.55063926236437,29.141991148265255,32.0
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,15,26.99222874260586,28.721789180391184,31.8
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,16,26.289871238717346,27.887797401378965,31.2
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,17,25.49347126028391,26.93117344955476,30.0
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,18,24.21820479595126,25.660631484763627,28.3
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,19,22.548357419965356,23.97777495939782,26.2
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,20,20.5775930786753,22.01067956530235,23.9
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,21,18.800489119232388,20.48574222501761,22.3
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,22,18.31461965309867,20.0527025900866,21.2
+whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,23,18.02051912210321,19.740612096832173,20.5

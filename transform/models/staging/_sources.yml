@@ -1,0 +1,26 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: Parquet files landed by the Python extractors in data/bronze/.
+    meta:
+      external_location: "{{ env_var('LA28_BRONZE', '../data/bronze') }}/{name}.parquet"
+    tables:
+      - name: schedule_sessions
+        description: One row per session parsed from the LA28 "Competition Schedule by Session" PDF.
+      - name: venues
+        description: venue_reference seed joined to Nominatim geocodes.
+      - name: weather_hourly_history
+        description: Open-Meteo archive (ERA5) hourly weather, July 1 - Aug 15 of each baseline year.
+      - name: weather_locations
+      - name: nws_forecast_hourly
+        description: NWS hourly forecast snapshot (next ~7 days).
+      - name: landsat_lst
+        description: Landsat 8/9 summer land surface temperature around each venue, one row per scene.
+      - name: aq_daily_history
+        description: EPA AirData daily ozone / PM2.5 at monitors within 25 km of a venue, Jul-Aug.
+      - name: svi_tracts
+      - name: acs_tracts
+      - name: tracts
+      - name: venue_tracts
+        description: Census tracts intersecting a 3 km buffer around each venue, with overlap area.

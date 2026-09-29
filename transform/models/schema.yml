@@ -1,0 +1,72 @@
+version: 2
+
+models:
+  - name: stg_schedule_sessions
+    description: Parsed LA28 sessions with Pacific-time start/end converted to timestamptz.
+    columns:
+      - name: session_id
+        tests: [unique, not_null]
+      - name: status
+        tests:
+          - accepted_values:
+              values: [scheduled, tbd, contingency]
+      - name: medal
+        tests:
+          - accepted_values:
+              values: [gold, bronze]
+
+  - name: stg_venues
+    columns:
+      - name: venue_label
+        tests: [unique, not_null]
+      - name: lat
+        tests: [not_null]
+      - name: exposure
+        tests:
+          - accepted_values:
+              values: [outdoor, covered, indoor]
+
+  - name: slv_sessions
+    description: Sessions joined to venue reference; is_scorable = known location and time.
+    columns:
+      - name: session_id
+        tests: [unique, not_null]
+      - name: venue_id
+        description: Null only for venues the schedule itself lists as TBD.
+
+  - name: slv_weather_wbgt
+    description: Hourly Liljegren WBGT (sun and shade) for every venue location and baseline hour.
+    columns:
+      - name: wbgt_sun_c
+        tests:
+          - not_null
+          - dbt_utils_free_range:
+              min_value: -5
+              max_value: 40
+
+  - name: gold_session_heat
+    columns:
+      - name: session_id
+        tests:
+          - unique
+          - relationships:
+              to: ref('slv_sessions')
+              field: session_id
+
+  - name: gold_session_risk
+    description: >
+      One row per session. risk_score (0-100) combines athlete heat, spectator arrival heat,
+      community vulnerability, surface heat and air quality using seeds/risk_weights.csv.
+    columns:
+      - name: session_id
+        tests: [unique, not_null]
+      - name: risk_score
+        tests:
+          - dbt_utils_free_range:
+              min_value: 0
+              max_value: 100
+
+  - name: gold_venue_summary
+    columns:
+      - name: venue_id
+        tests: [unique, not_null]

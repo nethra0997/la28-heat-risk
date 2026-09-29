@@ -1,0 +1,12 @@
+la28_heat_risk:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      # Run dbt from the transform/ directory (the Makefile and Airflow DAG do this).
+      path: "{{ env_var('LA28_WAREHOUSE', '../data/warehouse.duckdb') }}"
+      extensions: [spatial, parquet]
+      # repo root on sys.path so Python models can `import heatrisk` (no reliance on the
+      # editable-install .pth, which iCloud-synced folders mark hidden and Python skips)
+      module_paths: ["{{ env_var('LA28_ROOT', '..') }}"]
+      threads: 4
