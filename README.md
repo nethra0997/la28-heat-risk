@@ -68,9 +68,13 @@ flowchart LR
    centre their labels vertically. Oklahoma City sessions are printed in both OKC and LA time;
    the parser keeps the rows labelled "LA Time".
 2. **Place the venues.** The schedule uses internal names ("2028 Stadium", "DTLA Arena"), so a
-   reviewed seed maps each one to a real place and to `outdoor` / `covered` / `indoor`. The
-   places are geocoded with OpenStreetMap Nominatim, and two wrong hits are fixed by
-   documented overrides.
+   seed maps each one to a real place and to `outdoor` / `covered` / `indoor`. The seed was
+   compiled by an AI assistant and checked against LA28's venue pages in September 2026: all
+   49 names match the official list, and the six football stadiums use the venues announced
+   in February 2026. LA28 does not publish indoor/outdoor for every venue, so some exposure
+   labels (and SoFi as `covered`) remain judgement calls, and the exact sites of Valley
+   Complexes 2-4 are not public. The places are geocoded with OpenStreetMap Nominatim, and
+   two wrong hits are fixed by documented overrides.
 3. **Hourly WBGT.** For each venue grid cell and each hour of 11 summers, a dbt Python model
    runs the Liljegren model (globe and natural wet-bulb energy balance). It uses the sun
    position at mid-hour, Open-Meteo's measured direct/diffuse split, and wind adjusted from

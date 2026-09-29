@@ -1,23 +1,23 @@
 venue_label,venue_id,venue_name,exposure,geocode_query,region,notes
 2028 Stadium,sofi_stadium,SoFi Stadium,covered,"SoFi Stadium, Inglewood, CA",la_metro,Translucent roof with open sides; temporary pool for swimming
-LA Memorial Coliseum,la_coliseum,Los Angeles Memorial Coliseum,outdoor,"Los Angeles Memorial Coliseum",la_metro,
+LA Memorial Coliseum,la_coliseum,Los Angeles Memorial Coliseum,outdoor,Los Angeles Memorial Coliseum,la_metro,
 DTLA Arena,crypto_arena,Crypto.com Arena,indoor,"Crypto.com Arena, Los Angeles",la_metro,
 Dodger Stadium,dodger_stadium,Dodger Stadium,outdoor,"Dodger Stadium, Los Angeles",la_metro,
-LA Convention Center Hall 1,la_convention_center,Los Angeles Convention Center,indoor,"Los Angeles Convention Center",la_metro,
-LA Convention Center Hall 2,la_convention_center,Los Angeles Convention Center,indoor,"Los Angeles Convention Center",la_metro,
-LA Convention Center Hall 3,la_convention_center,Los Angeles Convention Center,indoor,"Los Angeles Convention Center",la_metro,
+LA Convention Center Hall 1,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
+LA Convention Center Hall 2,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
+LA Convention Center Hall 3,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
 Peacock Theater,peacock_theater,Peacock Theater,indoor,"Peacock Theater, Los Angeles",la_metro,
 Exposition Park Stadium,bmo_stadium,BMO Stadium,outdoor,"BMO Stadium, Los Angeles",la_metro,
 Galen Center,galen_center,Galen Center,indoor,"Galen Center, Los Angeles",la_metro,
 Griffith Observatory,griffith_observatory,Griffith Observatory (road cycling finish),outdoor,"Griffith Observatory, Los Angeles",la_metro,Road course; point is the finish
-LA Zoo,la_zoo,Los Angeles Zoo (time trial start),outdoor,"Los Angeles Zoo",la_metro,Road course; point is the start
+LA Zoo,la_zoo,Los Angeles Zoo (time trial start),outdoor,Los Angeles Zoo,la_metro,Road course; point is the start
 Intuit Dome,intuit_dome,Intuit Dome,indoor,"Intuit Dome, Inglewood",la_metro,
 Alamitos Beach Stadium,alamitos_beach,Alamitos Beach Stadium,outdoor,"Alamitos Beach, Long Beach, CA",la_metro,Temporary beach stadium
 Belmont Shore,belmont_shore,Belmont Shore,outdoor,"Belmont Shore, Long Beach, CA",la_metro,Open water course
-Long Beach Aquatics Center,lb_aquatics,Long Beach Aquatics Center,outdoor,"Rainbow Lagoon Park, Long Beach",la_metro,Temporary pool; location approximate (waterfront)
-Long Beach Arena,lb_arena,Long Beach Arena,indoor,"Long Beach Arena",la_metro,
-Long Beach Climbing Theater,lb_climbing,Long Beach Climbing Theater,outdoor,"Rainbow Lagoon Park, Long Beach",la_metro,Temporary venue; location approximate (waterfront)
-Long Beach Target Shooting Hall,lb_shooting_hall,Long Beach Target Shooting Hall,indoor,"Long Beach Convention Center",la_metro,
+Long Beach Aquatics Center,lb_aquatics,Long Beach Aquatics Center,outdoor,Long Beach Convention Center,la_metro,Temporary open-air venue in the Long Beach Convention Center lot (LA28 venue page)
+Long Beach Arena,lb_arena,Long Beach Arena,indoor,Long Beach Arena,la_metro,
+Long Beach Climbing Theater,lb_climbing,Long Beach Climbing Theater,outdoor,Long Beach Convention Center,la_metro,Temporary open-air venue in the Long Beach Convention Center lot (LA28 venue page)
+Long Beach Target Shooting Hall,lb_shooting_hall,Long Beach Target Shooting Hall,indoor,Long Beach Convention Center,la_metro,Inside the Long Beach Convention Center (LA28 venue page)
 Marine Stadium,marine_stadium,Marine Stadium,outdoor,"Marine Stadium, Long Beach",la_metro,
 Port of Los Angeles,port_of_la,Port of Los Angeles (sailing),outdoor,"Cabrillo Beach, San Pedro, Los Angeles",la_metro,Open water course; point is the shore
 Rose Bowl Aquatics Center,rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,"Rose Bowl Aquatics Center, Pasadena",la_metro,
@@ -32,7 +32,7 @@ Carson Velodrome,carson_velodrome,VELO Sports Center,indoor,"VELO Sports Center,
 Fairgrounds Cricket Stadium,fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,"Fairplex, Pomona",la_metro,
 Riviera Country Club,riviera_cc,Riviera Country Club,outdoor,"Riviera Country Club, Pacific Palisades",la_metro,
 Trestles State Beach,trestles,Trestles State Beach,outdoor,"Trestles Beach, San Clemente",socal,
-Comcast Squash Center at Universal Studios,universal_squash,Comcast Squash Center at Universal Studios,indoor,"Universal Studios Hollywood",la_metro,Temporary venue
+Comcast Squash Center at Universal Studios,universal_squash,Comcast Squash Center at Universal Studios,indoor,Universal Studios Hollywood,la_metro,Temporary venue
 Valley Complex 1,sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
 Valley Complex 2,sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
 Valley Complex 3,sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
@@ -42,9 +42,9 @@ Venice Beach Boardwalk,venice_boardwalk,Venice Beach Boardwalk,outdoor,"Venice B
 Whittier Narrows Clay Shooting Center,whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,"Whittier Narrows Recreation Area, South El Monte",la_metro,
 OKC Softball Park,okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,"Devon Park, Oklahoma City",remote,
 OKC Whitewater Center,okc_whitewater,Riversport OKC,outdoor,"Riversport OKC, Oklahoma City",remote,
-New York Stadium,ny_stadium,New York Stadium (city-level location),outdoor,"East Rutherford, NJ",remote,Stadium not named in schedule; city-level point
-Columbus Stadium,columbus_stadium,Columbus Stadium (city-level location),outdoor,"Columbus, Ohio",remote,Stadium not named in schedule; city-level point
-Nashville Stadium,nashville_stadium,Nashville Stadium (city-level location),outdoor,"Nashville, Tennessee",remote,Stadium not named in schedule; city-level point
-St. Louis Stadium,stl_stadium,St. Louis Stadium (city-level location),outdoor,"St. Louis, Missouri",remote,Stadium not named in schedule; city-level point
-San José Stadium,sj_stadium,San José Stadium (city-level location),outdoor,"San Jose, California",remote,Stadium not named in schedule; city-level point
-San Diego Stadium,sd_stadium,San Diego Stadium (city-level location),outdoor,"San Diego, California",remote,Stadium not named in schedule; city-level point
+New York Stadium,ny_stadium,Etihad Park,outdoor,"Etihad Park, Queens, New York",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+Columbus Stadium,columbus_stadium,ScottsMiracle-Gro Field,outdoor,"ScottsMiracle-Gro Field, Columbus, Ohio",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+Nashville Stadium,nashville_stadium,GEODIS Park,outdoor,"Geodis Park, Nashville",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+St. Louis Stadium,stl_stadium,Energizer Park,outdoor,"Energizer Park, St. Louis",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+San José Stadium,sj_stadium,PayPal Park,outdoor,"PayPal Park, San Jose",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+San Diego Stadium,sd_stadium,Snapdragon Stadium,outdoor,"Snapdragon Stadium, San Diego",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
