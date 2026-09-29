@@ -1,0 +1,50 @@
+venue_label,venue_id,venue_name,exposure,geocode_query,region,notes
+2028 Stadium,sofi_stadium,SoFi Stadium,covered,"SoFi Stadium, Inglewood, CA",la_metro,Translucent roof with open sides; temporary pool for swimming
+LA Memorial Coliseum,la_coliseum,Los Angeles Memorial Coliseum,outdoor,Los Angeles Memorial Coliseum,la_metro,
+DTLA Arena,crypto_arena,Crypto.com Arena,indoor,"Crypto.com Arena, Los Angeles",la_metro,
+Dodger Stadium,dodger_stadium,Dodger Stadium,outdoor,"Dodger Stadium, Los Angeles",la_metro,
+LA Convention Center Hall 1,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
+LA Convention Center Hall 2,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
+LA Convention Center Hall 3,la_convention_center,Los Angeles Convention Center,indoor,Los Angeles Convention Center,la_metro,
+Peacock Theater,peacock_theater,Peacock Theater,indoor,"Peacock Theater, Los Angeles",la_metro,
+Exposition Park Stadium,bmo_stadium,BMO Stadium,outdoor,"BMO Stadium, Los Angeles",la_metro,
+Galen Center,galen_center,Galen Center,indoor,"Galen Center, Los Angeles",la_metro,
+Griffith Observatory,griffith_observatory,Griffith Observatory (road cycling finish),outdoor,"Griffith Observatory, Los Angeles",la_metro,Road course; point is the finish
+LA Zoo,la_zoo,Los Angeles Zoo (time trial start),outdoor,Los Angeles Zoo,la_metro,Road course; point is the start
+Intuit Dome,intuit_dome,Intuit Dome,indoor,"Intuit Dome, Inglewood",la_metro,
+Alamitos Beach Stadium,alamitos_beach,Alamitos Beach Stadium,outdoor,"Alamitos Beach, Long Beach, CA",la_metro,Temporary beach stadium
+Belmont Shore,belmont_shore,Belmont Shore,outdoor,"Belmont Shore, Long Beach, CA",la_metro,Open water course
+Long Beach Aquatics Center,lb_aquatics,Long Beach Aquatics Center,outdoor,Long Beach Convention Center,la_metro,Temporary open-air venue in the Long Beach Convention Center lot (LA28 venue page)
+Long Beach Arena,lb_arena,Long Beach Arena,indoor,Long Beach Arena,la_metro,
+Long Beach Climbing Theater,lb_climbing,Long Beach Climbing Theater,outdoor,Long Beach Convention Center,la_metro,Temporary open-air venue in the Long Beach Convention Center lot (LA28 venue page)
+Long Beach Target Shooting Hall,lb_shooting_hall,Long Beach Target Shooting Hall,indoor,Long Beach Convention Center,la_metro,Inside the Long Beach Convention Center (LA28 venue page)
+Marine Stadium,marine_stadium,Marine Stadium,outdoor,"Marine Stadium, Long Beach",la_metro,
+Port of Los Angeles,port_of_la,Port of Los Angeles (sailing),outdoor,"Cabrillo Beach, San Pedro, Los Angeles",la_metro,Open water course; point is the shore
+Rose Bowl Aquatics Center,rose_bowl_aquatics,Rose Bowl Aquatics Center,outdoor,"Rose Bowl Aquatics Center, Pasadena",la_metro,
+Rose Bowl Stadium,rose_bowl,Rose Bowl Stadium,outdoor,"Rose Bowl, Pasadena",la_metro,
+Honda Center,honda_center,Honda Center,indoor,"Honda Center, Anaheim",la_metro,
+Santa Anita Park,santa_anita,Santa Anita Park,outdoor,"Santa Anita Park, Arcadia",la_metro,
+Industry Hills MTB Course,industry_hills,Industry Hills MTB Course,outdoor,"Industry Hills Expo Center, City of Industry",la_metro,
+Carson Center Court Carson Court 1 Carson Court 2 Carson Courts 3-11,carson_tennis,Carson Tennis Center (Dignity Health Sports Park),outdoor,"Dignity Health Sports Park, Carson",la_metro,All tennis courts at one site
+Carson Field,carson_field,Carson Field (hockey),outdoor,"Dignity Health Sports Park, Carson",la_metro,
+Carson Stadium,carson_stadium,Carson Stadium (Dignity Health Sports Park),outdoor,"Dignity Health Sports Park, Carson",la_metro,
+Carson Velodrome,carson_velodrome,VELO Sports Center,indoor,"VELO Sports Center, Carson",la_metro,
+Fairgrounds Cricket Stadium,fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),outdoor,"Fairplex, Pomona",la_metro,
+Riviera Country Club,riviera_cc,Riviera Country Club,outdoor,"Riviera Country Club, Pacific Palisades",la_metro,
+Trestles State Beach,trestles,Trestles State Beach,outdoor,"Trestles Beach, San Clemente",socal,
+Comcast Squash Center at Universal Studios,universal_squash,Comcast Squash Center at Universal Studios,indoor,Universal Studios Hollywood,la_metro,Temporary venue
+Valley Complex 1,sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
+Valley Complex 2,sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
+Valley Complex 3,sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
+Valley Complex 4,sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),outdoor,"Sepulveda Basin Recreation Area, Los Angeles",la_metro,Temporary; exact placement within basin not public
+Venice Beach,venice_beach,Venice Beach,outdoor,"Venice Beach, Los Angeles",la_metro,
+Venice Beach Boardwalk,venice_boardwalk,Venice Beach Boardwalk,outdoor,"Venice Beach Boardwalk, Los Angeles",la_metro,Road course start
+Whittier Narrows Clay Shooting Center,whittier_narrows,Whittier Narrows Clay Shooting Center,outdoor,"Whittier Narrows Recreation Area, South El Monte",la_metro,
+OKC Softball Park,okc_softball,Devon Park (USA Softball Hall of Fame Stadium),outdoor,"Devon Park, Oklahoma City",remote,
+OKC Whitewater Center,okc_whitewater,Riversport OKC,outdoor,"Riversport OKC, Oklahoma City",remote,
+New York Stadium,ny_stadium,Etihad Park,outdoor,"Etihad Park, Queens, New York",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+Columbus Stadium,columbus_stadium,ScottsMiracle-Gro Field,outdoor,"ScottsMiracle-Gro Field, Columbus, Ohio",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+Nashville Stadium,nashville_stadium,GEODIS Park,outdoor,"Geodis Park, Nashville",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+St. Louis Stadium,stl_stadium,Energizer Park,outdoor,"Energizer Park, St. Louis",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+San José Stadium,sj_stadium,PayPal Park,outdoor,"PayPal Park, San Jose",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
+San Diego Stadium,sd_stadium,Snapdragon Stadium,outdoor,"Snapdragon Stadium, San Diego",remote,LA28 named venues Feb 3 2026; stadium per MLS/club announcements
