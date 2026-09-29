@@ -10,7 +10,7 @@ project lives on the [`reference`](../../tree/reference) branch.
 ## Stages
 
 - [x] **0. Setup:** Python environment with `uv`, `pyproject.toml`, `uv.lock`
-- [ ] **1. First API pull:** one week of weather for one venue, saved as Parquet
+- [x] **1. First API pull:** one week of weather for one venue, saved as Parquet
 - [ ] **2. Scale up:** all venues, 11 summers (the bronze layer)
 - [ ] **3. The metric:** WBGT physics and unit tests
 - [ ] **4. Warehouse:** DuckDB and SQL on Parquet
