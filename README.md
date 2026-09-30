@@ -13,7 +13,7 @@ project lives on the [`reference`](../../tree/reference) branch.
 - [x] **1. First API pull:** one week of weather for one venue, saved as Parquet
 - [x] **2. Scale up:** all venues, 11 summers (the bronze layer)
 - [x] **3. The metric:** WBGT physics and unit tests
-- [ ] **4. Warehouse:** DuckDB and SQL on Parquet
+- [x] **4. Warehouse:** DuckDB and SQL on Parquet
 - [ ] **5. dbt:** staging, silver and gold models, seeds and tests
 - [ ] **6. First Tableau view:** peak WBGT by venue
 - [ ] **7. Other data types:** schedule PDF, Landsat raster, EPA air quality, census/SVI
