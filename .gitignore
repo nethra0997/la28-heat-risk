@@ -28,3 +28,6 @@ __pycache__/
 .ruff_cache/
 .ipynb_checkpoints/
 .DS_Store
+
+# dbt anonymous user id
+transform/.user.yml

@@ -1,0 +1,16 @@
+version: 2
+
+# Sources: the raw bronze files dbt reads from. dbt never writes to these.
+sources:
+  - name: bronze
+    description: Parquet files landed by the Python extractors in data/bronze/.
+    meta:
+      # dbt-duckdb reads each source table straight from its Parquet file.
+      external_location: "{{ env_var('LA28_BRONZE', '../data/bronze') }}/{name}.parquet"
+    tables:
+      - name: venues
+        description: venue_reference seed joined to Nominatim geocodes.
+      - name: weather_hourly_history
+        description: Open-Meteo archive hourly weather, July 1 - Aug 15 of each baseline year.
+      - name: weather_locations
+        description: The unique places the weather was pulled for, with their loc_id.

@@ -1,0 +1,20 @@
+name: la28_heat_risk
+version: "0.1.0"
+config-version: 2
+profile: la28_heat_risk   # which connection in profiles.yml to use
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  la28_heat_risk:
+    # Each folder becomes a schema (a named section) inside the warehouse.
+    staging:
+      # tables, not views: views would keep relative paths to the parquet files and
+      # break when the warehouse is opened from anywhere but transform/
+      +materialized: table
+      +schema: staging

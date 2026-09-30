@@ -1,0 +1,8 @@
+la28_heat_risk:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      # Run dbt from the transform/ directory, so the warehouse is one level up.
+      path: "{{ env_var('LA28_WAREHOUSE', '../data/warehouse.duckdb') }}"
+      threads: 4
