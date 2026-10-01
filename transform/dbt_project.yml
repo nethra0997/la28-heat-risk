@@ -18,3 +18,11 @@ models:
       # break when the warehouse is opened from anywhere but transform/
       +materialized: table
       +schema: staging
+    silver:
+      +materialized: table
+      +schema: silver
+
+seeds:
+  la28_heat_risk:
+    # Hand-made reference tables (the CSVs in seeds/) are loaded into a schema called ref.
+    +schema: ref

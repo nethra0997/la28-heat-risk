@@ -1,0 +1,6 @@
+flag,flag_rank,min_wbgt_c,max_wbgt_c,min_wbgt_f,max_wbgt_f,hex_color,guidance
+none,0,-100,26.7,-148,80,#9e9e9e,Normal precautions
+green,1,26.7,29.4,80,85,#2e7d32,Heavy exercise for unacclimatized people with caution; hydrate
+yellow,2,29.4,31.1,85,88,#f9a825,Strenuous exercise curtailed for unacclimatized; increase rest and fluids
+red,3,31.1,32.2,88,90,#c62828,Limit intense activity; mandatory rest breaks; shade and cooling on site
+black,4,32.2,100,90,212,#212121,Suspend strenuous outdoor activity (flag conditions per US Army TB MED 507)

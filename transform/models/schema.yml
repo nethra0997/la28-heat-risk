@@ -1,0 +1,55 @@
+version: 2
+
+# Descriptions and data tests for each model. `dbt build` runs every test right after
+# the table it checks is built; if a test fails, the tables that depend on it are skipped.
+
+models:
+  - name: stg_venues
+    description: The 49 schedule venue labels with coordinates, exposure and the loc_id join key.
+    columns:
+      - name: venue_label
+        data_tests: [unique, not_null]
+      - name: lat
+        data_tests: [not_null]
+      - name: exposure
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [outdoor, covered, indoor]
+
+  - name: stg_weather_hourly
+    description: Bronze hourly weather with tidy names and LA local time.
+    columns:
+      - name: loc_id
+        data_tests:
+          - not_null
+          - relationships:          # every weather place must be a known venue location
+              arguments:
+                to: ref('stg_venues')
+                field: loc_id
+      - name: temp_c
+        data_tests:
+          - in_range:
+              arguments: {min_value: -10, max_value: 55}
+      - name: rh_pct
+        data_tests:
+          - in_range:
+              arguments: {min_value: 0, max_value: 100}
+
+  - name: slv_weather_wbgt
+    description: Hourly Liljegren WBGT (sun and shade) for every venue location and baseline hour.
+    columns:
+      - name: wbgt_sun_c
+        data_tests:
+          - not_null
+          - in_range:
+              arguments: {min_value: -5, max_value: 40}
+      - name: wbgt_shade_c
+        data_tests: [not_null]
+
+seeds:
+  - name: wbgt_flag_thresholds
+    description: US Army TB MED 507 heat flags, WBGT bands in °C and °F.
+    columns:
+      - name: flag
+        data_tests: [unique, not_null]

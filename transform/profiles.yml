@@ -5,4 +5,6 @@ la28_heat_risk:
       type: duckdb
       # Run dbt from the transform/ directory, so the warehouse is one level up.
       path: "{{ env_var('LA28_WAREHOUSE', '../data/warehouse.duckdb') }}"
+      # The project root, so Python models can `import heatrisk` (the WBGT calculator).
+      module_paths: ["{{ env_var('LA28_ROOT', '..') }}"]
       threads: 4

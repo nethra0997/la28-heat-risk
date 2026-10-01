@@ -14,12 +14,12 @@ project lives on the [`reference`](../../tree/reference) branch.
 - [x] **2. Scale up:** all venues, 11 summers (the bronze layer)
 - [x] **3. The metric:** WBGT physics and unit tests
 - [x] **4. Warehouse:** DuckDB and SQL on Parquet
-- [ ] **5. dbt:** staging, silver and gold models, seeds and tests
-- [ ] **6. First Tableau view:** peak WBGT by venue
-- [ ] **7. Other data types:** schedule PDF, Landsat raster, EPA air quality, census/SVI
+- [x] **5. dbt (part 1):** staging models, WBGT as a silver model, seeds and data tests
+- [ ] **6. Other data sources:** schedule PDF, NWS forecast, Landsat raster, EPA air quality, census/SVI
+- [ ] **7. dbt (part 2):** silver and gold models across all sources, session risk score
 - [ ] **8. Airflow:** orchestrating the pipeline as a DAG
 - [ ] **9. AI:** LLM-written venue briefs with a grounding check
-- [ ] **10. Final Tableau dashboard**
+- [ ] **10. Tableau dashboard**
 
 ## Run it
 
