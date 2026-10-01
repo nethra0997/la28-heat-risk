@@ -10,7 +10,10 @@ dependencies = [
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "pdfplumber>=0.11.10",
+    "planetary-computer>=1.0.0",
     "pyarrow>=25.0.1",
+    "pystac-client>=0.9.0",
+    "rasterio>=1.5.2",
     "requests>=2.34.2",
 ]
 
