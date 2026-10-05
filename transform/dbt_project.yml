@@ -10,6 +10,13 @@ macro-paths: ["macros"]
 target-path: "target"
 clean-targets: ["target", "dbt_packages"]
 
+vars:
+  # Settings any model can read with {{ var('name') }}.
+  # Historical "analog days": same calendar dates +/- this many days, in every baseline year.
+  analog_window_days: 3
+  baseline_start_year: 2015
+  baseline_end_year: 2025
+
 models:
   la28_heat_risk:
     # Each folder becomes a schema (a named section) inside the warehouse.

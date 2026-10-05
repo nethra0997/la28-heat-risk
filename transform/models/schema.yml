@@ -96,6 +96,49 @@ models:
       - name: wbgt_shade_c
         data_tests: [not_null]
 
+  - name: slv_sessions
+    description: Scheduled and TBD sessions joined to venue attributes; is_scorable = known venue and start time.
+    columns:
+      - name: session_id
+        data_tests: [unique, not_null]
+
+  - name: slv_session_analog_hours
+    description: For each scorable session, the matching hours (same clock time, date +/- 3 days) in every baseline year.
+    columns:
+      - name: session_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('slv_sessions')
+                field: session_id
+
+  - name: slv_venue_air_quality
+    description: Summer ozone and PM2.5 per venue, using the nearest reporting monitor each day.
+    columns:
+      - name: venue_id
+        data_tests: [unique, not_null]
+
+  - name: slv_venue_community
+    description: Population-weighted vulnerability of the tracts within 3 km of each California venue.
+    columns:
+      - name: venue_id
+        data_tests: [unique, not_null]
+
+  - name: slv_venue_surface_heat
+    description: Median summer land surface temperature and heat-island anomaly per venue (Landsat).
+    columns:
+      - name: venue_id
+        data_tests: [unique, not_null]
+
+  - name: slv_forecast_wbgt
+    description: Forecast WBGT per place and hour; sunlight estimated from the forecast's sky wording.
+    columns:
+      - name: wbgt_sun_c
+        data_tests:
+          - not_null
+          - in_range:
+              arguments: {min_value: -10, max_value: 45}
+
 seeds:
   - name: wbgt_flag_thresholds
     description: US Army TB MED 507 heat flags, WBGT bands in °C and °F.
