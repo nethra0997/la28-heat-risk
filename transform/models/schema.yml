@@ -36,6 +36,55 @@ models:
           - in_range:
               arguments: {min_value: 0, max_value: 100}
 
+  - name: stg_schedule_sessions
+    description: One row per session from the LA28 schedule PDF, with start/end as timestamps.
+    columns:
+      - name: session_id
+        data_tests: [unique, not_null]
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [scheduled, tbd, contingency]
+      - name: medal
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [gold, bronze]
+
+  - name: stg_nws_forecast
+    description: NWS hourly forecast converted to °C and m/s.
+    columns:
+      - name: temp_c
+        data_tests:
+          - not_null
+          - in_range:
+              arguments: {min_value: -30, max_value: 55}
+
+  - name: stg_aq_daily
+    description: One row per venue, monitor, pollutant and day (several readings per day collapsed to the max).
+    columns:
+      - name: aqi
+        data_tests:
+          - in_range:
+              arguments: {min_value: 0, max_value: 500}
+
+  - name: stg_tract_vulnerability
+    description: Census tracts near venues with CDC/ATSDR SVI 2022 scores and population shares.
+    columns:
+      - name: geoid
+        data_tests: [unique, not_null]
+      - name: svi_overall_pctile
+        data_tests:
+          - in_range:
+              arguments: {min_value: 0, max_value: 1}
+
+  - name: stg_landsat_lst
+    description: Landsat land surface temperature per venue and clear scene (partial scenes dropped).
+    columns:
+      - name: lst_mean_500m_c
+        data_tests: [not_null]
+
   - name: slv_weather_wbgt
     description: Hourly Liljegren WBGT (sun and shade) for every venue location and baseline hour.
     columns:

@@ -9,8 +9,22 @@ sources:
       external_location: "{{ env_var('LA28_BRONZE', '../data/bronze') }}/{name}.parquet"
     tables:
       - name: venues
-        description: venue_reference seed joined to Nominatim geocodes.
+        description: venue_reference seed joined to Nominatim geocodes (ingestion/venues.py).
       - name: weather_hourly_history
         description: Open-Meteo archive hourly weather, July 1 - Aug 15 of each baseline year.
       - name: weather_locations
         description: The unique places the weather was pulled for, with their loc_id.
+      - name: schedule_sessions
+        description: One row per session parsed from the LA28 schedule PDF (ingestion/schedule_pdf.py).
+      - name: nws_forecast_hourly
+        description: NWS hourly forecast snapshot, next ~7 days (ingestion/nws_forecast.py).
+      - name: aq_daily_history
+        description: EPA daily ozone / PM2.5 at monitors within 25 km of a venue, Jul-Aug (ingestion/air_quality.py).
+      - name: tracts
+        description: Census tract centroids and shapes in counties near venues (ingestion/community.py).
+      - name: svi_tracts
+        description: CDC/ATSDR SVI 2022, one row per California tract (ingestion/community.py).
+      - name: venue_tracts
+        description: Tracts overlapping a 3 km circle around each California venue (ingestion/community.py).
+      - name: landsat_lst
+        description: Landsat summer land surface temperature near each venue, one row per scene (ingestion/landsat_lst.py).
