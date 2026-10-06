@@ -16,7 +16,7 @@ project lives on the [`reference`](../../tree/reference) branch.
 - [x] **4. Warehouse:** DuckDB and SQL on Parquet
 - [x] **5. dbt (part 1):** staging models, WBGT as a silver model, seeds and data tests
 - [x] **6. Other data sources:** schedule PDF, NWS forecast, Landsat raster, EPA air quality, census/SVI
-- [ ] **7. dbt (part 2):** silver and gold models across all sources, session risk score
+- [x] **7. dbt (part 2):** silver and gold models across all sources, session risk score
 - [ ] **8. Airflow:** orchestrating the pipeline as a DAG
 - [ ] **9. AI:** LLM-written venue briefs with a grounding check
 - [ ] **10. Tableau dashboard**

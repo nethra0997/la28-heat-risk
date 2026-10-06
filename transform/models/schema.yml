@@ -139,6 +139,39 @@ models:
           - in_range:
               arguments: {min_value: -10, max_value: 45}
 
+  - name: gold_session_heat
+    description: Heat climatology per session across ~77 analog days (median, p90, max WBGT; flag probabilities).
+    columns:
+      - name: session_id
+        data_tests:
+          - unique
+          - relationships:
+              arguments:
+                to: ref('slv_sessions')
+                field: session_id
+
+  - name: gold_session_risk
+    description: >
+      The headline table. One row per session with a 0-100 risk score combining athlete heat,
+      spectator arrival heat, community vulnerability, surface heat and air quality, using the
+      weights in seeds/risk_weights.csv. Null when the session has no heat estimate.
+    columns:
+      - name: session_id
+        data_tests: [unique, not_null]
+      - name: risk_score
+        data_tests:
+          - in_range:
+              arguments: {min_value: 0, max_value: 100}
+
+  - name: gold_venue_summary
+    description: One row per venue for the map and the AI briefs.
+    columns:
+      - name: venue_id
+        data_tests: [unique, not_null]
+
+  - name: gold_venue_forecast
+    description: Daily forecast peak WBGT per venue for the next ~7 days, against its late-July baseline.
+
 seeds:
   - name: wbgt_flag_thresholds
     description: US Army TB MED 507 heat flags, WBGT bands in °C and °F.

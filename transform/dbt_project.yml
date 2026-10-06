@@ -28,6 +28,9 @@ models:
     silver:
       +materialized: table
       +schema: silver
+    gold:
+      +materialized: table
+      +schema: gold
 
 seeds:
   la28_heat_risk:
