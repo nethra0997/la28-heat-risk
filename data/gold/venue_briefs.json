@@ -1,0 +1,5042 @@
+{
+ "okc_softball": {
+  "venue_id": "okc_softball",
+  "brief": "**Devon Park (USA Softball Hall of Fame Stadium) Heat Safety Brief**\n\nThe Devon Park venue, located in the OKC Zone, will host 17 outdoor softball sessions from July 23rd to July 29th, 2028. The risk score for this venue is 86.4, indicating a high risk of heat-related illnesses. The worst-case scenario for athletes is a WBGT of 32.2\u00b0C (90.0\u00b0F) on July 27th, with 5 sessions classified as red or black flag days.\n\n**Actions:**\n\n\u2022 Ensure that all staff and spectators are aware of the heat risk and take necessary precautions, such as staying hydrated, seeking shade, and avoiding strenuous activities during peak heat hours.\n\n\u2022 Provide regular water breaks and encourage athletes to drink plenty of water throughout the day.\n\n\u2022 Monitor the weather forecast and adjust plans accordingly, taking into account the current forecast for this week, which indicates a peak WBGT of 26.9\u00b0C (80.4\u00b0F) on October 7th, with a flag of \"green\".",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Devon Park (USA Softball Hall of Fame Stadium)",
+   "zone": "OKC Zone",
+   "exposure": "outdoor",
+   "sports": "Softball",
+   "sessions": 17,
+   "games_dates": "2028-07-23 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 86.4,
+   "worst_session_athlete_wbgt_p90_c": 32.2,
+   "worst_session_athlete_wbgt_p90_f": 90.0,
+   "sessions_with_red_or_black_p90": 5,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Softball",
+     "date": "2028-07-27 00:00:00",
+     "time": "14:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 86.4,
+     "athlete_wbgt_p90_c": 32.2,
+     "athlete_wbgt_p90_f": 90.0,
+     "arrival_wbgt_p90_c": 31.9,
+     "arrival_wbgt_p90_f": 89.4,
+     "p90_flag": "red",
+     "pct_days_red_or_worse": 26.0,
+     "pct_days_black": 10.4
+    },
+    {
+     "sport": "Softball",
+     "date": "2028-07-26 00:00:00",
+     "time": "14:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 86.3,
+     "athlete_wbgt_p90_c": 32.2,
+     "athlete_wbgt_p90_f": 90.0,
+     "arrival_wbgt_p90_c": 31.9,
+     "arrival_wbgt_p90_f": 89.4,
+     "p90_flag": "red",
+     "pct_days_red_or_worse": 26.0,
+     "pct_days_black": 10.4
+    },
+    {
+     "sport": "Softball",
+     "date": "2028-07-25 00:00:00",
+     "time": "14:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 84.8,
+     "athlete_wbgt_p90_c": 31.9,
+     "athlete_wbgt_p90_f": 89.4,
+     "arrival_wbgt_p90_c": 31.7,
+     "arrival_wbgt_p90_f": 89.1,
+     "p90_flag": "red",
+     "pct_days_red_or_worse": 20.8,
+     "pct_days_black": 9.1
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 23.1,
+     "peak_wbgt_f": 73.6,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 20.1,
+     "peak_wbgt_f": 68.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 21.9,
+     "peak_wbgt_f": 71.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 24.7,
+     "peak_wbgt_f": 76.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 25.2,
+     "peak_wbgt_f": 77.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 26.0,
+     "peak_wbgt_f": 78.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:08:49.167902+00:00"
+ },
+ "rose_bowl": {
+  "venue_id": "rose_bowl",
+  "brief": "**Rose Bowl Stadium Heat Safety Brief**\n\nThe Rose Bowl Stadium will host the Football (Soccer) - Final Stages from July 21 to July 29, 2028. As outdoor venue operations staff, it's essential to prioritize heat safety for athletes and spectators.\n\n**Venue Conditions**\n\nThe surrounding neighbourhood ranks more vulnerable than 59.1% of California census tracts. The neighbourhood has a share of people aged 65+ at 16.7%, and households without a car at 10.4%. The surface temperature anomaly is 0.4\u00b0C above the surroundings.\n\n**Heat Risk**\n\nThe worst-case scenario for athletes is a WBGT of 29.9\u00b0C (85.8\u00b0F) on July 29, 2028, during the gold medal session. This is a yellow flag situation. There are no red or black flag sessions scheduled.\n\n**Actions**\n\nTo ensure heat safety:\n\n* Monitor the weather forecast and adjust operations accordingly.\n* Provide adequate shade, hydration, and cooling measures for athletes and spectators.\n* Ensure that spectators arriving outdoors are aware of the heat risk and take necessary precautions.\n* Maintain a safe and comfortable environment for athletes and spectators during the games.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Rose Bowl Stadium",
+   "zone": "Pasadena Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Final Stages",
+   "sessions": 5,
+   "games_dates": "2028-07-21 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 74.6,
+   "worst_session_athlete_wbgt_p90_c": 29.9,
+   "worst_session_athlete_wbgt_p90_f": 85.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 59.1,
+   "neighbourhood_share_age_65_plus_pct": 16.7,
+   "neighbourhood_share_households_no_car_pct": 10.4,
+   "surface_temp_anomaly_vs_surroundings_c": 0.4,
+   "ozone_days_over_aqi_100_pct": 22.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-29 00:00:00",
+     "time": "12:30-15:30",
+     "medal_session": "gold",
+     "risk_score": 74.6,
+     "athlete_wbgt_p90_c": 29.9,
+     "athlete_wbgt_p90_f": 85.8,
+     "arrival_wbgt_p90_c": 29.2,
+     "arrival_wbgt_p90_f": 84.6,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 2.6,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-28 00:00:00",
+     "time": "18:00-21:00",
+     "medal_session": "gold",
+     "risk_score": 64.6,
+     "athlete_wbgt_p90_c": 27.0,
+     "athlete_wbgt_p90_f": 80.6,
+     "arrival_wbgt_p90_c": 28.4,
+     "arrival_wbgt_p90_f": 83.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Final Stages",
+     "date": "2028-07-25 00:00:00",
+     "time": "20:30-23:30",
+     "medal_session": NaN,
+     "risk_score": 37.5,
+     "athlete_wbgt_p90_c": 21.3,
+     "athlete_wbgt_p90_f": 70.3,
+     "arrival_wbgt_p90_c": 23.2,
+     "arrival_wbgt_p90_f": 73.8,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.0,
+     "peak_wbgt_f": 78.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.8,
+     "peak_wbgt_f": 83.8,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "peak_wbgt_f": 90.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:09:05.580683+00:00"
+ },
+ "rose_bowl_aquatics": {
+  "venue_id": "rose_bowl_aquatics",
+  "brief": "**Rose Bowl Aquatics Center Heat Safety Brief**\n\nThe Rose Bowl Aquatics Center is an outdoor venue in Pasadena, California, hosting the diving events during the 2028 Olympic Games. The surrounding neighbourhood ranks more vulnerable than 52.4% of California census tracts, with 17.2% of the population aged 65+ and 11.2% of households without a car.\n\nThe venue's worst-case scenario for athlete WBGT (Wet Bulb Globe Temperature) is 30.2\u00b0C (86.4\u00b0F) on p90 days, with no sessions reaching red or black flag conditions. However, this week's forecast (not specific to the Games) indicates a peak WBGT of 26.0\u00b0C (78.8\u00b0F) on October 1st, with a flag of \"none\", and a peak WBGT of 31.6\u00b0C (88.9\u00b0F) on October 4th, with a flag of \"red\".\n\n**Actions:**\n\n* Ensure that spectators arriving at the venue are aware of the heat safety guidelines and take necessary precautions, such as seeking shade, wearing light and loose clothing, and staying hydrated.\n* Provide regular water breaks and shade areas for spectators and staff.\n* Monitor the weather forecast and adjust operations accordingly, especially during the riskiest sessions (14:00-15:00 on July 26th, 27th, and 28th).",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Rose Bowl Aquatics Center",
+   "zone": "Pasadena Zone",
+   "exposure": "outdoor",
+   "sports": "Diving",
+   "sessions": 16,
+   "games_dates": "2028-07-16 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 73.0,
+   "worst_session_athlete_wbgt_p90_c": 30.2,
+   "worst_session_athlete_wbgt_p90_f": 86.4,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 52.4,
+   "neighbourhood_share_age_65_plus_pct": 17.2,
+   "neighbourhood_share_households_no_car_pct": 11.2,
+   "surface_temp_anomaly_vs_surroundings_c": -2.6,
+   "ozone_days_over_aqi_100_pct": 22.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Diving",
+     "date": "2028-07-26 00:00:00",
+     "time": "14:00-15:00",
+     "medal_session": "gold",
+     "risk_score": 73.0,
+     "athlete_wbgt_p90_c": 30.2,
+     "athlete_wbgt_p90_f": 86.4,
+     "arrival_wbgt_p90_c": 30.1,
+     "arrival_wbgt_p90_f": 86.2,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 2.6,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Diving",
+     "date": "2028-07-27 00:00:00",
+     "time": "14:00-15:00",
+     "medal_session": "gold",
+     "risk_score": 72.7,
+     "athlete_wbgt_p90_c": 30.2,
+     "athlete_wbgt_p90_f": 86.4,
+     "arrival_wbgt_p90_c": 30.1,
+     "arrival_wbgt_p90_f": 86.2,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 3.9,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Diving",
+     "date": "2028-07-28 00:00:00",
+     "time": "16:00-17:00",
+     "medal_session": "gold",
+     "risk_score": 70.4,
+     "athlete_wbgt_p90_c": 29.5,
+     "athlete_wbgt_p90_f": 85.1,
+     "arrival_wbgt_p90_c": 29.9,
+     "arrival_wbgt_p90_f": 85.8,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.0,
+     "peak_wbgt_f": 78.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.8,
+     "peak_wbgt_f": 83.8,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "peak_wbgt_f": 90.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:09:24.232150+00:00"
+ },
+ "okc_whitewater": {
+  "venue_id": "okc_whitewater",
+  "brief": "Heat Safety Brief for Riversport OKC\n\nThe Riversport OKC venue will host the Canoe Slalom events from July 14th to July 22nd, 2028. As the outdoor exposure zone, we need to prioritize heat safety measures to ensure the well-being of athletes, spectators, and staff.\n\nThe worst-case scenario for athlete WBGT is 31.6\u00b0C (88.9\u00b0F) on July 15th, which falls under the red flag category. One session on July 15th is flagged as red, and another session on July 14th is flagged as yellow. It's essential to take precautions to prevent heat-related illnesses.\n\nThe surrounding neighbourhood ranks more vulnerable than 0% of California census tracts, and data is not available for age 65+ and households without cars.\n\nTo mitigate heat risks, please take the following actions:\n\n\u2022 Ensure adequate hydration and rest breaks for athletes and staff.\n\u2022 Provide shade and cooling measures for spectators and staff.\n\u2022 Monitor weather forecasts and adjust operations accordingly.\n\u2022 Implement heat safety protocols for athletes, including WBGT monitoring and heat illness prevention measures.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Riversport OKC",
+   "zone": "OKC Zone",
+   "exposure": "outdoor",
+   "sports": "Canoe Slalom",
+   "sessions": 9,
+   "games_dates": "2028-07-14 00:00:00 to 2028-07-22 00:00:00",
+   "max_session_risk_score_0_100": 68.9,
+   "worst_session_athlete_wbgt_p90_c": 31.6,
+   "worst_session_athlete_wbgt_p90_f": 88.9,
+   "sessions_with_red_or_black_p90": 1,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 1.9,
+   "riskiest_sessions": [
+    {
+     "sport": "Canoe Slalom",
+     "date": "2028-07-15 00:00:00",
+     "time": "08:00-11:10",
+     "medal_session": "gold",
+     "risk_score": 68.9,
+     "athlete_wbgt_p90_c": 31.6,
+     "athlete_wbgt_p90_f": 88.9,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "red",
+     "pct_days_red_or_worse": 13.0,
+     "pct_days_black": 3.9
+    },
+    {
+     "sport": "Canoe Slalom",
+     "date": "2028-07-14 00:00:00",
+     "time": "07:00-10:10",
+     "medal_session": NaN,
+     "risk_score": 61.8,
+     "athlete_wbgt_p90_c": 30.9,
+     "athlete_wbgt_p90_f": 87.6,
+     "arrival_wbgt_p90_c": 25.4,
+     "arrival_wbgt_p90_f": 77.7,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 7.8,
+     "pct_days_black": 2.6
+    },
+    {
+     "sport": "Canoe Slalom",
+     "date": "2028-07-16 00:00:00",
+     "time": "07:00-10:10",
+     "medal_session": "gold",
+     "risk_score": 61.8,
+     "athlete_wbgt_p90_c": 30.9,
+     "athlete_wbgt_p90_f": 87.6,
+     "arrival_wbgt_p90_c": 25.4,
+     "arrival_wbgt_p90_f": 77.7,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 6.5,
+     "pct_days_black": 2.6
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 23.1,
+     "peak_wbgt_f": 73.6,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 20.1,
+     "peak_wbgt_f": 68.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 22.3,
+     "peak_wbgt_f": 72.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 24.7,
+     "peak_wbgt_f": 76.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 26.1,
+     "peak_wbgt_f": 79.0,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:09:39.909382+00:00"
+ },
+ "fairplex_cricket": {
+  "venue_id": "fairplex_cricket",
+  "brief": "**Fairgrounds Cricket Stadium (Fairplex) Heat Safety Brief**\n\nThe Fairgrounds Cricket Stadium (Fairplex) is an outdoor venue in Pomona Zone, hosting 28 cricket sessions from July 12th to July 29th, 2028. The surrounding neighbourhood ranks more vulnerable than 73.1% of California census tracts. The area has a high share of households without a car (6.6%) and a significant proportion of people aged 65+ (14.4%).\n\nThe worst-case scenario for athletes is a WBGT temperature of 29.9\u00b0C (85.8\u00b0F) on p90 days. No sessions are flagged as red or black. The neighbourhood's social vulnerability rank is 73.1%, indicating a higher risk.\n\n**Actions:**\n\n* Ensure that spectators arriving outdoors are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Provide regular updates on the current forecast, which is not related to the 2028 Games. As of this week, the forecast is predicting peak WBGT temperatures ranging from 25.5\u00b0C (77.9\u00b0F) to 32.3\u00b0C (90.1\u00b0F) with flags indicating green, yellow, and black conditions.\n* Implement measures to ensure the comfort and safety of spectators, including providing shaded areas and encouraging hydration.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Fairgrounds Cricket Stadium (Fairplex)",
+   "zone": "Pomona Zone",
+   "exposure": "outdoor",
+   "sports": "Cricket",
+   "sessions": 28,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 66.4,
+   "worst_session_athlete_wbgt_p90_c": 29.9,
+   "worst_session_athlete_wbgt_p90_f": 85.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 73.1,
+   "neighbourhood_share_age_65_plus_pct": 14.4,
+   "neighbourhood_share_households_no_car_pct": 6.6,
+   "surface_temp_anomaly_vs_surroundings_c": 1.1,
+   "ozone_days_over_aqi_100_pct": 43.3,
+   "riskiest_sessions": [
+    {
+     "sport": "Cricket",
+     "date": "2028-07-26 00:00:00",
+     "time": "09:00-12:30",
+     "medal_session": NaN,
+     "risk_score": 66.4,
+     "athlete_wbgt_p90_c": 29.9,
+     "athlete_wbgt_p90_f": 85.8,
+     "arrival_wbgt_p90_c": 23.5,
+     "arrival_wbgt_p90_f": 74.3,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cricket",
+     "date": "2028-07-23 00:00:00",
+     "time": "09:00-12:30",
+     "medal_session": NaN,
+     "risk_score": 66.3,
+     "athlete_wbgt_p90_c": 29.9,
+     "athlete_wbgt_p90_f": 85.8,
+     "arrival_wbgt_p90_c": 23.5,
+     "arrival_wbgt_p90_f": 74.3,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cricket",
+     "date": "2028-07-24 00:00:00",
+     "time": "09:00-12:30",
+     "medal_session": NaN,
+     "risk_score": 66.3,
+     "athlete_wbgt_p90_c": 29.9,
+     "athlete_wbgt_p90_f": 85.8,
+     "arrival_wbgt_p90_c": 23.5,
+     "arrival_wbgt_p90_f": 74.3,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.5,
+     "peak_wbgt_f": 77.9,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.8,
+     "peak_wbgt_f": 87.4,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 30.4,
+     "peak_wbgt_f": 86.7,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "peak_wbgt_f": 90.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:09:58.205821+00:00"
+ },
+ "sepulveda_basin_3": {
+  "venue_id": "sepulveda_basin_3",
+  "brief": "Heat Safety Brief for Valley Complex 3 (Sepulveda Basin)\n\nThe Valley Complex 3 (Sepulveda Basin) will host 3x3 Basketball sessions from July 16th to July 22nd, 2028. As an outdoor venue, spectators will be exposed to heat during these sessions.\n\nThe worst-case scenario for athletes is a WBGT temperature of 29.2\u00b0C (84.6\u00b0F) on July 21st, 2028, during the 14:00-16:00 time slot. This is considered a p90 day, with a flag of green.\n\nThe surrounding neighbourhood ranks more vulnerable than 51.3% of California census tracts. The neighbourhood has a share of people aged 65+ of 14.2%, and 6.7% of households do not have a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT temperature of 29.4\u00b0C (84.9\u00b0F) on October 1st, with a flag of green. Please note that this is not the forecast for the 2028 Games.\n\nTo ensure heat safety, please take the following actions:\n\n\u2022 Monitor the weather forecast and WBGT temperatures during sessions.\n\u2022 Provide shade and hydration stations for spectators.\n\u2022 Encourage spectators to take regular breaks in shaded areas and drink plenty of water.\n\u2022 Ensure that all staff and volunteers are aware of the heat safety protocols and are equipped to respond to heat-related emergencies.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Valley Complex 3 (Sepulveda Basin)",
+   "zone": "Valley Zone",
+   "exposure": "outdoor",
+   "sports": "3x3 Basketball",
+   "sessions": 20,
+   "games_dates": "2028-07-16 00:00:00 to 2028-07-22 00:00:00",
+   "max_session_risk_score_0_100": 66.3,
+   "worst_session_athlete_wbgt_p90_c": 29.2,
+   "worst_session_athlete_wbgt_p90_f": 84.6,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 51.3,
+   "neighbourhood_share_age_65_plus_pct": 14.2,
+   "neighbourhood_share_households_no_car_pct": 6.7,
+   "surface_temp_anomaly_vs_surroundings_c": -6.8,
+   "ozone_days_over_aqi_100_pct": 29.8,
+   "riskiest_sessions": [
+    {
+     "sport": "3x3 Basketball",
+     "date": "2028-07-21 00:00:00",
+     "time": "14:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 66.3,
+     "athlete_wbgt_p90_c": 29.2,
+     "athlete_wbgt_p90_f": 84.6,
+     "arrival_wbgt_p90_c": 29.5,
+     "arrival_wbgt_p90_f": 85.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 1.3
+    },
+    {
+     "sport": "3x3 Basketball",
+     "date": "2028-07-20 00:00:00",
+     "time": "14:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 63.7,
+     "athlete_wbgt_p90_c": 28.7,
+     "athlete_wbgt_p90_f": 83.7,
+     "arrival_wbgt_p90_c": 29.0,
+     "arrival_wbgt_p90_f": 84.2,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 1.3
+    },
+    {
+     "sport": "3x3 Basketball",
+     "date": "2028-07-22 00:00:00",
+     "time": "17:00-19:00",
+     "medal_session": NaN,
+     "risk_score": 63.4,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 29.0,
+     "arrival_wbgt_p90_f": 84.2,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.9,
+     "peak_wbgt_f": 85.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.5,
+     "peak_wbgt_f": 92.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 33.3,
+     "peak_wbgt_f": 91.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:10:17.569925+00:00"
+ },
+ "santa_anita": {
+  "venue_id": "santa_anita",
+  "brief": "Heat Safety Brief for Santa Anita Park\n\nSanta Anita Park will host the Equestrian events from July 15th to July 29th, 2028. As an outdoor venue, it is essential to prioritize heat safety for athletes and spectators.\n\nThe surrounding neighbourhood ranks more vulnerable than 45.4% of California census tracts, with 18.3% of the population aged 65 and above. Additionally, 4.2% of households do not have access to a car.\n\nThe worst-case scenario for athlete WBGT is 29.8\u00b0C (85.6\u00b0F) on p90 days. There are no sessions with red or black flags.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 28.5\u00b0C (83.3\u00b0F) on October 1st, with a flag of \"green\". However, please note that this is not the forecast for the 2028 Games.\n\nActions:\n\n\u2022 Ensure that athletes and spectators are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade.\n\u2022 Monitor the weather forecast and adjust plans accordingly.\n\u2022 Provide shade and cooling measures for spectators arriving outdoors.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Santa Anita Park",
+   "zone": "Arcadia Zone",
+   "exposure": "outdoor",
+   "sports": "Equestrian",
+   "sessions": 16,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 66.1,
+   "worst_session_athlete_wbgt_p90_c": 29.8,
+   "worst_session_athlete_wbgt_p90_f": 85.6,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 45.4,
+   "neighbourhood_share_age_65_plus_pct": 18.3,
+   "neighbourhood_share_households_no_car_pct": 4.2,
+   "surface_temp_anomaly_vs_surroundings_c": 2.0,
+   "ozone_days_over_aqi_100_pct": 22.3,
+   "riskiest_sessions": [
+    {
+     "sport": "Equestrian",
+     "date": "2028-07-22 00:00:00",
+     "time": "16:15-19:00",
+     "medal_session": "gold",
+     "risk_score": 66.1,
+     "athlete_wbgt_p90_c": 27.8,
+     "athlete_wbgt_p90_f": 82.0,
+     "arrival_wbgt_p90_c": 28.6,
+     "arrival_wbgt_p90_f": 83.5,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Equestrian",
+     "date": "2028-07-21 00:00:00",
+     "time": "16:15-19:00",
+     "medal_session": NaN,
+     "risk_score": 65.1,
+     "athlete_wbgt_p90_c": 27.5,
+     "athlete_wbgt_p90_f": 81.5,
+     "arrival_wbgt_p90_c": 28.5,
+     "arrival_wbgt_p90_f": 83.3,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Equestrian",
+     "date": "2028-07-20 00:00:00",
+     "time": "16:15-19:00",
+     "medal_session": NaN,
+     "risk_score": 63.8,
+     "athlete_wbgt_p90_c": 27.3,
+     "athlete_wbgt_p90_f": 81.1,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 28.5,
+     "peak_wbgt_f": 83.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.4,
+     "peak_wbgt_f": 83.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.9,
+     "peak_wbgt_f": 82.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.4,
+     "peak_wbgt_f": 88.5,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:10:34.037152+00:00"
+ },
+ "sepulveda_basin_2": {
+  "venue_id": "sepulveda_basin_2",
+  "brief": "Heat Safety Brief for Valley Complex 2 (Sepulveda Basin)\n\nThe Valley Complex 2 (Sepulveda Basin) will host Modern Pentathlon and Skateboarding (Park) events during the 2028 Games. As an outdoor venue, it is essential to prioritize heat safety for athletes and spectators.\n\nThe worst-case scenario for athletes is a WBGT temperature of 30.0\u00b0C (86.0\u00b0F) on July 25, 2028, which is considered a yellow flag day. There are no sessions with red or black flag conditions.\n\nThe surrounding neighbourhood ranks more vulnerable than 51.3% of California census tracts, with 14.2% of the population aged 65+, and 6.7% of households without a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT temperature of 29.4\u00b0C (84.9\u00b0F) on October 1, with a green flag. However, the forecast worsens, with peak temperatures reaching 33.5\u00b0C (92.3\u00b0F) on October 4, and a black flag.\n\nTo ensure heat safety, please take the following actions:\n\n\u2022 Monitor the forecast and adjust operations accordingly.\n\u2022 Provide adequate shade and hydration stations for athletes and spectators.\n\u2022 Encourage athletes to take regular breaks and stay hydrated.\n\u2022 Ensure that spectators are aware of the heat risks and take necessary precautions.\n\u2022 Review and implement heat safety protocols for emergency situations.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Valley Complex 2 (Sepulveda Basin)",
+   "zone": "Valley Zone",
+   "exposure": "outdoor",
+   "sports": "Modern Pentathlon, Skateboarding (Park)",
+   "sessions": 8,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-27 00:00:00",
+   "max_session_risk_score_0_100": 65.1,
+   "worst_session_athlete_wbgt_p90_c": 30.0,
+   "worst_session_athlete_wbgt_p90_f": 86.0,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 51.3,
+   "neighbourhood_share_age_65_plus_pct": 14.2,
+   "neighbourhood_share_households_no_car_pct": 6.7,
+   "surface_temp_anomaly_vs_surroundings_c": -6.8,
+   "ozone_days_over_aqi_100_pct": 29.8,
+   "riskiest_sessions": [
+    {
+     "sport": "Skateboarding (Park)",
+     "date": "2028-07-25 00:00:00",
+     "time": "10:30-13:30",
+     "medal_session": NaN,
+     "risk_score": 65.1,
+     "athlete_wbgt_p90_c": 30.0,
+     "athlete_wbgt_p90_f": 86.0,
+     "arrival_wbgt_p90_c": 27.9,
+     "arrival_wbgt_p90_f": 82.2,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Modern Pentathlon",
+     "date": "2028-07-16 00:00:00",
+     "time": "09:00-13:30",
+     "medal_session": NaN,
+     "risk_score": 52.1,
+     "athlete_wbgt_p90_c": 28.9,
+     "athlete_wbgt_p90_f": 84.0,
+     "arrival_wbgt_p90_c": 23.1,
+     "arrival_wbgt_p90_f": 73.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Modern Pentathlon",
+     "date": "2028-07-15 00:00:00",
+     "time": "09:00-13:30",
+     "medal_session": NaN,
+     "risk_score": 51.9,
+     "athlete_wbgt_p90_c": 28.8,
+     "athlete_wbgt_p90_f": 83.8,
+     "arrival_wbgt_p90_c": 23.1,
+     "arrival_wbgt_p90_f": 73.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.9,
+     "peak_wbgt_f": 85.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.5,
+     "peak_wbgt_f": 92.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 33.3,
+     "peak_wbgt_f": 91.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:10:53.230984+00:00"
+ },
+ "bmo_stadium": {
+  "venue_id": "bmo_stadium",
+  "brief": "**Heat Safety Brief for BMO Stadium**\n\nBMO Stadium is an outdoor venue located in the Exposition Park Zone, hosting Flag Football and Lacrosse events from July 15th to July 29th, 2028. This week's forecast is not relevant to the 2028 Games, but it shows a peak WBGT of 32.8\u00b0C (91.0\u00b0F) on October 6th, with a flag indicating a black flag.\n\n**Venue Conditions**\n\nThe surrounding neighbourhood ranks more vulnerable than 89% of California census tracts. The neighbourhood has 8.2% of the population aged 65+, and 18.1% of households without a car.\n\n**Heat Risk**\n\nThe worst-case scenario for athletes is a WBGT of 28.6\u00b0C (83.5\u00b0F) on July 24th, 25th, and 26th. No sessions have a red or black flag, indicating a low to moderate risk of heat-related illnesses.\n\n**Actions**\n\nTo ensure a safe and healthy environment for athletes and spectators:\n\n* Monitor the forecast and adjust operations accordingly.\n* Provide adequate shade, hydration, and cooling measures for athletes and spectators.\n* Ensure that spectators are aware of the heat risks and take necessary precautions, such as seeking shade and staying hydrated.\n* Conduct regular checks on athletes and spectators for signs of heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "BMO Stadium",
+   "zone": "Exposition Park Zone",
+   "exposure": "outdoor",
+   "sports": "Flag Football, Lacrosse",
+   "sessions": 26,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 63.0,
+   "worst_session_athlete_wbgt_p90_c": 28.6,
+   "worst_session_athlete_wbgt_p90_f": 83.5,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 89.0,
+   "neighbourhood_share_age_65_plus_pct": 8.2,
+   "neighbourhood_share_households_no_car_pct": 18.1,
+   "surface_temp_anomaly_vs_surroundings_c": -2.3,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Lacrosse",
+     "date": "2028-07-24 00:00:00",
+     "time": "11:30-15:00",
+     "medal_session": NaN,
+     "risk_score": 63.0,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Lacrosse",
+     "date": "2028-07-25 00:00:00",
+     "time": "11:30-15:00",
+     "medal_session": NaN,
+     "risk_score": 63.0,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Lacrosse",
+     "date": "2028-07-26 00:00:00",
+     "time": "11:30-15:00",
+     "medal_session": NaN,
+     "risk_score": 62.6,
+     "athlete_wbgt_p90_c": 28.5,
+     "athlete_wbgt_p90_f": 83.3,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.1,
+     "peak_wbgt_f": 77.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.7,
+     "peak_wbgt_f": 83.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.6,
+     "peak_wbgt_f": 85.3,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:11:11.389247+00:00"
+ },
+ "sepulveda_basin_1": {
+  "venue_id": "sepulveda_basin_1",
+  "brief": "Heat Safety Brief for Valley Complex 1 (Sepulveda Basin)\n\nThis outdoor venue will host BMX Freestyle and Skateboarding (Street) events from July 18th to July 29th, 2028. The surrounding neighbourhood ranks more vulnerable than 51.3% of California census tracts. The area has a high share of people aged 65+ (14.2%) and households without a car (6.7%).\n\nThe worst-case scenario for athletes is a WBGT of 29.5\u00b0C (85.1\u00b0F) on July 28th, which is a yellow flag. There are no red or black flag days for athletes. For spectators, the arrival WBGT is expected to be around 27.5\u00b0C (81.5\u00b0F) on the same day.\n\nThis week's forecast (not specific to the 2028 Games) shows a peak WBGT of 29.4\u00b0C (84.9\u00b0F) on October 1st, with a green flag. However, the forecast worsens, with peak WBGT reaching 33.5\u00b0C (92.3\u00b0F) on October 4th, with a black flag.\n\nActions:\n\n* Ensure spectators are aware of the heat risks and take necessary precautions, such as seeking shade, staying hydrated, and avoiding strenuous activities during peak heat hours.\n* Provide regular water breaks and shaded areas for athletes and staff.\n* Monitor the weather forecast and adjust operations accordingly to minimize heat-related risks.\n* Educate staff and volunteers on heat safety protocols and provide training on recognizing and responding to heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Valley Complex 1 (Sepulveda Basin)",
+   "zone": "Valley Zone",
+   "exposure": "outdoor",
+   "sports": "BMX Freestyle, Skateboarding (Street)",
+   "sessions": 6,
+   "games_dates": "2028-07-18 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 62.9,
+   "worst_session_athlete_wbgt_p90_c": 29.5,
+   "worst_session_athlete_wbgt_p90_f": 85.1,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 51.3,
+   "neighbourhood_share_age_65_plus_pct": 14.2,
+   "neighbourhood_share_households_no_car_pct": 6.7,
+   "surface_temp_anomaly_vs_surroundings_c": -6.8,
+   "ozone_days_over_aqi_100_pct": 29.8,
+   "riskiest_sessions": [
+    {
+     "sport": "BMX Freestyle",
+     "date": "2028-07-28 00:00:00",
+     "time": "10:30-13:30",
+     "medal_session": NaN,
+     "risk_score": 62.9,
+     "athlete_wbgt_p90_c": 29.5,
+     "athlete_wbgt_p90_f": 85.1,
+     "arrival_wbgt_p90_c": 27.5,
+     "arrival_wbgt_p90_f": 81.5,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "BMX Freestyle",
+     "date": "2028-07-29 00:00:00",
+     "time": "10:30-13:50",
+     "medal_session": "gold",
+     "risk_score": 62.3,
+     "athlete_wbgt_p90_c": 29.4,
+     "athlete_wbgt_p90_f": 84.9,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Skateboarding (Street)",
+     "date": "2028-07-19 00:00:00",
+     "time": "10:30-13:40",
+     "medal_session": NaN,
+     "risk_score": 59.8,
+     "athlete_wbgt_p90_c": 28.8,
+     "athlete_wbgt_p90_f": 83.8,
+     "arrival_wbgt_p90_c": 27.0,
+     "arrival_wbgt_p90_f": 80.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.9,
+     "peak_wbgt_f": 85.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.5,
+     "peak_wbgt_f": 92.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 33.3,
+     "peak_wbgt_f": 91.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:11:27.568039+00:00"
+ },
+ "la_convention_center": {
+  "venue_id": "la_convention_center",
+  "brief": "**Heat Safety Brief for Los Angeles Convention Center**\n\nAs the venue for Fencing, Judo, Table Tennis, Taekwondo, and Wrestling events, it's essential to prioritize heat safety for spectators arriving outdoors. Although the venue is indoor, it's crucial to monitor the surrounding conditions.\n\n**Current Forecast:** As of this week, the forecast indicates a peak WBGT temperature of 29.0\u00b0C (84.2\u00b0F) with a flag of \"green\" on October 2nd. Please note that this is not related to the 2028 Games.\n\n**Neighbourhood Conditions:** The surrounding neighbourhood ranks more vulnerable than 84.3% of California census tracts. Additionally, 10.9% of the population is aged 65+, and 32.3% of households do not have a car.\n\n**Actions:**\n\n* Ensure that spectators are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade.\n* Monitor the surrounding weather conditions and adjust heat safety measures accordingly.\n* Provide adequate cooling measures, such as misting stations or shaded areas, for spectators arriving outdoors.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Los Angeles Convention Center",
+   "zone": "DTLA Zone",
+   "exposure": "indoor",
+   "sports": "Fencing, Judo, Table Tennis, Taekwondo, Wrestling",
+   "sessions": 96,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 62.3,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 84.3,
+   "neighbourhood_share_age_65_plus_pct": 10.9,
+   "neighbourhood_share_households_no_car_pct": 32.3,
+   "surface_temp_anomaly_vs_surroundings_c": -1.3,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Table Tennis",
+     "date": "2028-07-23 00:00:00",
+     "time": "14:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 62.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 29.2,
+     "arrival_wbgt_p90_f": 84.6,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Table Tennis",
+     "date": "2028-07-22 00:00:00",
+     "time": "14:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 61.8,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 29.1,
+     "arrival_wbgt_p90_f": 84.4,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Taekwondo",
+     "date": "2028-07-27 00:00:00",
+     "time": "15:00-18:00",
+     "medal_session": NaN,
+     "risk_score": 61.6,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 29.0,
+     "arrival_wbgt_p90_f": 84.2,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.7,
+     "peak_wbgt_f": 80.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.3,
+     "peak_wbgt_f": 84.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:11:43.271742+00:00"
+ },
+ "la_zoo": {
+  "venue_id": "la_zoo",
+  "brief": "Heat Safety Brief for Los Angeles Zoo (Time Trial Start)\n\nThe Los Angeles Zoo (Time Trial Start) venue will host the Cycling Road (Time Trial - Start) event on 2028-07-19. The forecast for this week is not available for this specific date, but the surrounding neighbourhood ranks more vulnerable than 63.8% of California census tracts.\n\nThe worst-case scenario for athletes is a WBGT of 29.1\u00b0C (84.4\u00b0F), which is considered a hot but not extreme day (p90). There are no sessions with red or black flag conditions.\n\nTo ensure the safety of spectators arriving outdoors, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust outdoor activities accordingly.\n\u2022 Provide shade and water stations for spectators.\n\u2022 Encourage spectators to wear light, loose-fitting clothing and to stay hydrated.\n\u2022 Consider providing cooling measures, such as misting stations or cooling tents, for spectators.\n\nRemember to prioritize heat safety and take necessary precautions to ensure a safe and enjoyable experience for all.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Los Angeles Zoo (time trial start)",
+   "zone": "Griffith Park Zone",
+   "exposure": "outdoor",
+   "sports": "Cycling Road (Time Trial - Start)",
+   "sessions": 1,
+   "games_dates": "2028-07-19 00:00:00 to 2028-07-19 00:00:00",
+   "max_session_risk_score_0_100": 60.9,
+   "worst_session_athlete_wbgt_p90_c": 29.1,
+   "worst_session_athlete_wbgt_p90_f": 84.4,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 63.8,
+   "neighbourhood_share_age_65_plus_pct": 16.9,
+   "neighbourhood_share_households_no_car_pct": 11.0,
+   "surface_temp_anomaly_vs_surroundings_c": -3.9,
+   "ozone_days_over_aqi_100_pct": 15.1,
+   "riskiest_sessions": [
+    {
+     "sport": "Cycling Road (Time Trial - Start)",
+     "date": "2028-07-19 00:00:00",
+     "time": "10:30-14:30",
+     "medal_session": "gold",
+     "risk_score": 60.9,
+     "athlete_wbgt_p90_c": 29.1,
+     "athlete_wbgt_p90_f": 84.4,
+     "arrival_wbgt_p90_c": 26.5,
+     "arrival_wbgt_p90_f": 79.7,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.1,
+     "peak_wbgt_f": 82.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.8,
+     "peak_wbgt_f": 89.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:11:56.663260+00:00"
+ },
+ "peacock_theater": {
+  "venue_id": "peacock_theater",
+  "brief": "**Heat Safety Brief for Peacock Theater**\n\nThe Peacock Theater is an indoor venue located in the DTLA Zone, hosting Boxing - Preliminary Stages and Weightlifting events from July 15th to July 29th, 2028. As an indoor venue, athletes will be in a climate-controlled environment, but spectators arriving outdoors may be exposed to heat.\n\nThe surrounding neighbourhood ranks more vulnerable than 83.6% of California census tracts, with 11.2% of the population aged 65+, and 32.1% of households without a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 29.0\u00b0C (84.2\u00b0F) on October 2nd, with a flag of \"green\". However, please note that this is not a forecast for the 2028 Games, but rather the current forecast.\n\n**Actions:**\n\n* Ensure that spectators are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Provide adequate shade and cooling measures for spectators arriving outdoors.\n* Monitor the weather forecast and adjust heat safety measures accordingly.\n* Educate staff and volunteers on heat safety protocols and provide regular breaks to ensure their well-being.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Peacock Theater",
+   "zone": "DTLA Zone",
+   "exposure": "indoor",
+   "sports": "Boxing - Preliminary Stages, Weightlifting",
+   "sessions": 27,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 60.3,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 83.6,
+   "neighbourhood_share_age_65_plus_pct": 11.2,
+   "neighbourhood_share_households_no_car_pct": 32.1,
+   "surface_temp_anomaly_vs_surroundings_c": -2.0,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Weightlifting",
+     "date": "2028-07-27 00:00:00",
+     "time": "14:10-19:00",
+     "medal_session": "gold",
+     "risk_score": 60.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 29.0,
+     "arrival_wbgt_p90_f": 84.2,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Weightlifting",
+     "date": "2028-07-26 00:00:00",
+     "time": "14:10-19:00",
+     "medal_session": "gold",
+     "risk_score": 60.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 29.0,
+     "arrival_wbgt_p90_f": 84.2,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Boxing - Preliminary Stages",
+     "date": "2028-07-23 00:00:00",
+     "time": "12:00-14:30",
+     "medal_session": NaN,
+     "risk_score": 57.7,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.7,
+     "peak_wbgt_f": 80.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.3,
+     "peak_wbgt_f": 84.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:12:13.618556+00:00"
+ },
+ "sepulveda_basin_4": {
+  "venue_id": "sepulveda_basin_4",
+  "brief": "**Valley Complex 4 (Sepulveda Basin) Heat Safety Brief**\n\nThe Valley Complex 4 (Sepulveda Basin) will host BMX Racing events from July 15 to 16, 2028. As the venue's operations staff, it's essential to prioritize heat safety for spectators arriving outdoors.\n\n**Weather Forecast:** The current forecast for this week (not specific to the 2028 Games) indicates a high risk of heat-related issues. From October 3 to 7, the peak WBGT temperature will reach 31.2\u00b0C (88.2\u00b0F) or higher, with a flag rating of \"red\" or \"black\" on multiple days.\n\n**Venue Conditions:** The surrounding neighbourhood ranks more vulnerable than 51.3% of California census tracts. The area has a significant share of people aged 65+ (14.2%) and households without a car (6.7%).\n\n**Heat Safety Reminders:**\n\n* Ensure adequate hydration and take regular breaks in shaded areas or air-conditioned spaces.\n* Monitor the WBGT flag and adjust activities accordingly. Green flag: low risk, yellow flag: moderate risk, red flag: high risk, black flag: extreme risk.\n* Be aware of the riskiest sessions, which are the gold medal sessions on July 16 from 10:30 to 13:00 and July 15 from 10:30 to 12:50.\n\n**Actions:**\n\n* Conduct regular checks on the WBGT flag and adjust operations accordingly.\n* Provide clear instructions to spectators on heat safety precautions and encourage them to take breaks in shaded areas or air-conditioned spaces.\n* Ensure that staff and volunteers are aware of the riskiest sessions and take necessary precautions to minimize heat-related risks.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Valley Complex 4 (Sepulveda Basin)",
+   "zone": "Valley Zone",
+   "exposure": "outdoor",
+   "sports": "BMX Racing",
+   "sessions": 2,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-16 00:00:00",
+   "max_session_risk_score_0_100": 60.0,
+   "worst_session_athlete_wbgt_p90_c": 28.8,
+   "worst_session_athlete_wbgt_p90_f": 83.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 51.3,
+   "neighbourhood_share_age_65_plus_pct": 14.2,
+   "neighbourhood_share_households_no_car_pct": 6.7,
+   "surface_temp_anomaly_vs_surroundings_c": -6.8,
+   "ozone_days_over_aqi_100_pct": 29.8,
+   "riskiest_sessions": [
+    {
+     "sport": "BMX Racing",
+     "date": "2028-07-16 00:00:00",
+     "time": "10:30-13:00",
+     "medal_session": "gold",
+     "risk_score": 60.0,
+     "athlete_wbgt_p90_c": 28.8,
+     "athlete_wbgt_p90_f": 83.8,
+     "arrival_wbgt_p90_c": 27.1,
+     "arrival_wbgt_p90_f": 80.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "BMX Racing",
+     "date": "2028-07-15 00:00:00",
+     "time": "10:30-12:50",
+     "medal_session": NaN,
+     "risk_score": 58.7,
+     "athlete_wbgt_p90_c": 28.4,
+     "athlete_wbgt_p90_f": 83.1,
+     "arrival_wbgt_p90_c": 27.0,
+     "arrival_wbgt_p90_f": 80.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.9,
+     "peak_wbgt_f": 85.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.5,
+     "peak_wbgt_f": 92.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 33.3,
+     "peak_wbgt_f": 91.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:12:34.607136+00:00"
+ },
+ "crypto_arena": {
+  "venue_id": "crypto_arena",
+  "brief": "**Crypto.com Arena Heat Safety Brief**\n\nThe Crypto.com Arena is an indoor venue located in the DTLA Zone, hosting Artistic Gymnastics, Boxing - Final Stages, and Trampoline Gymnastics sessions from July 15th to 30th, 2028. As an indoor venue, athletes will be in a climate-controlled environment, but spectators arriving outdoors should be aware of the heat risks.\n\nThe surrounding neighbourhood ranks more vulnerable than 83.9% of California census tracts, with 11.0% of the population aged 65+, and 32.3% of households without a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a mix of green, yellow, and red flag days, with peak temperatures ranging from 26.7\u00b0C (80.1\u00b0F) to 32.8\u00b0C (91.0\u00b0F).\n\n**Actions:**\n\n* Ensure spectators are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Monitor the forecast and adjust operations accordingly.\n* Provide education on heat safety to staff and volunteers, emphasizing the importance of staying cool and alert during sessions.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Crypto.com Arena",
+   "zone": "DTLA Zone",
+   "exposure": "indoor",
+   "sports": "Artistic Gymnastics, Boxing - Final Stages, Trampoline Gymnastics",
+   "sessions": 24,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 59.7,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 83.9,
+   "neighbourhood_share_age_65_plus_pct": 11.0,
+   "neighbourhood_share_households_no_car_pct": 32.3,
+   "surface_temp_anomaly_vs_surroundings_c": -1.8,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Trampoline Gymnastics",
+     "date": "2028-07-21 00:00:00",
+     "time": "12:30-15:15",
+     "medal_session": "gold",
+     "risk_score": 59.7,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.7,
+     "arrival_wbgt_p90_f": 83.7,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Artistic Gymnastics",
+     "date": "2028-07-25 00:00:00",
+     "time": "16:00-18:30",
+     "medal_session": "gold",
+     "risk_score": 58.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Boxing - Final Stages",
+     "date": "2028-07-27 00:00:00",
+     "time": "12:00-14:00",
+     "medal_session": "gold",
+     "risk_score": 58.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.7,
+     "peak_wbgt_f": 80.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.3,
+     "peak_wbgt_f": 84.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:12:50.919955+00:00"
+ },
+ "whittier_narrows": {
+  "venue_id": "whittier_narrows",
+  "brief": "Heat Safety Brief for Whittier Narrows Clay Shooting Center:\n\nThe Whittier Narrows Clay Shooting Center will host the Shooting (Shotgun) events from July 17 to July 24, 2028. As the venue is outdoor, athletes and spectators will be exposed to heat. The worst-case scenario for athletes is a WBGT temperature of 30.0\u00b0C (86.0\u00b0F) on July 24, 2028, which is a p90 day. No sessions are expected to reach red or black flag conditions.\n\nThe surrounding neighbourhood ranks more vulnerable than 73.8% of California census tracts, with 15.0% of the population aged 65+, and 6.6% of households without a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT temperature of 29.6\u00b0C (85.3\u00b0F) on October 3, 2026, with a flag of \"yellow\".\n\nActions:\n\n* Ensure that athletes and spectators take regular breaks in shaded areas or air-conditioned spaces to avoid heat exhaustion.\n* Provide adequate hydration and encourage the use of cooling measures such as hats, sunglasses, and light-colored clothing.\n* Monitor the weather forecast and adjust operations accordingly to minimize the risk of heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Whittier Narrows Clay Shooting Center",
+   "zone": "Whittier Narrows Zone",
+   "exposure": "outdoor",
+   "sports": "Shooting (Shotgun)",
+   "sessions": 5,
+   "games_dates": "2028-07-17 00:00:00 to 2028-07-24 00:00:00",
+   "max_session_risk_score_0_100": 59.2,
+   "worst_session_athlete_wbgt_p90_c": 30.0,
+   "worst_session_athlete_wbgt_p90_f": 86.0,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 73.8,
+   "neighbourhood_share_age_65_plus_pct": 15.0,
+   "neighbourhood_share_households_no_car_pct": 6.6,
+   "surface_temp_anomaly_vs_surroundings_c": -3.1,
+   "ozone_days_over_aqi_100_pct": 4.6,
+   "riskiest_sessions": [
+    {
+     "sport": "Shooting (Shotgun)",
+     "date": "2028-07-24 00:00:00",
+     "time": "09:30-16:45",
+     "medal_session": "gold",
+     "risk_score": 59.2,
+     "athlete_wbgt_p90_c": 30.0,
+     "athlete_wbgt_p90_f": 86.0,
+     "arrival_wbgt_p90_c": 25.6,
+     "arrival_wbgt_p90_f": 78.1,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 2.6,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Shooting (Shotgun)",
+     "date": "2028-07-22 00:00:00",
+     "time": "09:30-17:15",
+     "medal_session": "gold",
+     "risk_score": 58.3,
+     "athlete_wbgt_p90_c": 29.8,
+     "athlete_wbgt_p90_f": 85.6,
+     "arrival_wbgt_p90_c": 25.5,
+     "arrival_wbgt_p90_f": 77.9,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 2.6,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Shooting (Shotgun)",
+     "date": "2028-07-21 00:00:00",
+     "time": "09:30-14:30",
+     "medal_session": NaN,
+     "risk_score": 57.3,
+     "athlete_wbgt_p90_c": 29.4,
+     "athlete_wbgt_p90_f": 84.9,
+     "arrival_wbgt_p90_c": 25.6,
+     "arrival_wbgt_p90_f": 78.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 1.3,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.6,
+     "peak_wbgt_f": 76.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.2,
+     "peak_wbgt_f": 84.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.6,
+     "peak_wbgt_f": 85.3,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.9,
+     "peak_wbgt_f": 89.4,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.9,
+     "peak_wbgt_f": 91.2,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.9,
+     "peak_wbgt_f": 91.2,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:13:08.462116+00:00"
+ },
+ "galen_center": {
+  "venue_id": "galen_center",
+  "brief": "Heat Safety Brief for Galen Center\n\nThe Galen Center, located in the Exposition Park Zone, will host Badminton and Rhythmic Gymnastics events from July 15th to July 29th, 2028. As an indoor venue, athletes will be protected from heat exposure. However, spectators arriving outdoors may be affected by heat.\n\nThe surrounding neighbourhood ranks more vulnerable than 88.1% of California census tracts, with 8.4% of the population aged 65+, and 20.0% of households without a car.\n\nThe riskiest sessions are scheduled for Rhythmic Gymnastics on July 27th, July 28th, and July 29th. These sessions have a risk score of 59.0, indicating a moderate risk of heat-related illnesses.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 29.2\u00b0C (84.6\u00b0F) on October 3rd, with a flag of \"green\". However, please note that this is not a forecast for the 2028 Games.\n\nActions:\n\n\u2022 Ensure that spectators are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n\u2022 Provide adequate shade and cooling measures for spectators arriving outdoors.\n\u2022 Monitor weather forecasts and adjust operations as necessary to minimize heat-related risks.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Galen Center",
+   "zone": "Exposition Park Zone",
+   "exposure": "indoor",
+   "sports": "Badminton, Rhythmic Gymnastics",
+   "sessions": 31,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 59.0,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 88.1,
+   "neighbourhood_share_age_65_plus_pct": 8.4,
+   "neighbourhood_share_households_no_car_pct": 20.0,
+   "surface_temp_anomaly_vs_surroundings_c": -2.1,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Rhythmic Gymnastics",
+     "date": "2028-07-28 00:00:00",
+     "time": "13:00-15:45",
+     "medal_session": NaN,
+     "risk_score": 59.0,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Rhythmic Gymnastics",
+     "date": "2028-07-27 00:00:00",
+     "time": "12:30-15:45",
+     "medal_session": NaN,
+     "risk_score": 59.0,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Rhythmic Gymnastics",
+     "date": "2028-07-29 00:00:00",
+     "time": "13:00-14:45",
+     "medal_session": "gold",
+     "risk_score": 58.8,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.1,
+     "arrival_wbgt_p90_f": 82.6,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.1,
+     "peak_wbgt_f": 84.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.2,
+     "peak_wbgt_f": 84.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.1,
+     "peak_wbgt_f": 89.8,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:13:26.594889+00:00"
+ },
+ "la_coliseum": {
+  "venue_id": "la_coliseum",
+  "brief": "Heat Safety Brief for Los Angeles Memorial Coliseum\n\nThe Los Angeles Memorial Coliseum is an outdoor venue located in the Exposition Park Zone. As an outdoor venue, spectators will be exposed to heat during the 2028 Games. The venue will host Athletics (Track & Field) events, as well as the Opening and Closing Ceremonies.\n\nThe worst-case scenario for athlete WBGT is 28.0\u00b0C (82.4\u00b0F) on a p90 day, which is a hot but not extreme day. There are no sessions with a red or black flag.\n\nThe surrounding neighbourhood ranks more vulnerable than 88.4% of California census tracts. The neighbourhood has a share of people aged 65+ of 8.6% and a share of households without a car of 18.1%.\n\nThis week's real forecast is not available for this venue.\n\nActions:\n\n\u2022 Ensure that spectators take regular breaks in shaded areas or air-conditioned spaces to avoid heat exhaustion.\n\u2022 Encourage spectators to stay hydrated by drinking plenty of water and other fluids.\n\u2022 Provide heat-related safety information and guidelines to spectators, particularly those who may be more vulnerable to heat-related illnesses, such as older adults and young children.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Los Angeles Memorial Coliseum",
+   "zone": "Exposition Park Zone",
+   "exposure": "outdoor",
+   "sports": "Athletics (Track & Field), Closing Ceremony, Opening Ceremony - Celebration",
+   "sessions": 19,
+   "games_dates": "2028-07-14 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 57.5,
+   "worst_session_athlete_wbgt_p90_c": 28.0,
+   "worst_session_athlete_wbgt_p90_f": 82.4,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 88.4,
+   "neighbourhood_share_age_65_plus_pct": 8.6,
+   "neighbourhood_share_households_no_car_pct": 18.1,
+   "surface_temp_anomaly_vs_surroundings_c": -3.1,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-22 00:00:00",
+     "time": "14:05-18:15",
+     "medal_session": "gold",
+     "risk_score": 57.5,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.6,
+     "arrival_wbgt_p90_f": 81.7,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-23 00:00:00",
+     "time": "15:30-18:10",
+     "medal_session": "gold",
+     "risk_score": 55.8,
+     "athlete_wbgt_p90_c": 26.9,
+     "athlete_wbgt_p90_f": 80.4,
+     "arrival_wbgt_p90_c": 27.4,
+     "arrival_wbgt_p90_f": 81.3,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Athletics (Track & Field)",
+     "date": "2028-07-21 00:00:00",
+     "time": "09:35-12:25",
+     "medal_session": "gold",
+     "risk_score": 54.9,
+     "athlete_wbgt_p90_c": 28.0,
+     "athlete_wbgt_p90_f": 82.4,
+     "arrival_wbgt_p90_c": 25.5,
+     "arrival_wbgt_p90_f": 77.9,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.0,
+     "peak_wbgt_f": 78.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.9,
+     "peak_wbgt_f": 84.0,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.6,
+     "peak_wbgt_f": 85.3,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.9,
+     "peak_wbgt_f": 89.4,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:13:43.190700+00:00"
+ },
+ "intuit_dome": {
+  "venue_id": "intuit_dome",
+  "brief": "Heat Safety Brief for Intuit Dome\n\nThe Intuit Dome, located in the Inglewood Zone, will host 43 sessions of basketball from July 12th to July 30th, 2028. As an indoor venue, athletes will be protected from the heat, but spectators arriving outdoors should take necessary precautions.\n\nThe surrounding neighbourhood ranks more vulnerable than 78.7% of California census tracts, with 12.1% of the population aged 65 and above and 8.8% of households without a car.\n\nThe current forecast for this week is not available for the 2028 Games, but the this week's real forecast (2026-10-01 to 2026-10-07) shows a peak WBGT of 32.0\u00b0C (90.6\u00b0F) on October 6th and 7th, with a flag of \"red\".\n\nTo ensure a safe and healthy environment for all, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust outdoor activities accordingly.\n\u2022 Provide shade and hydration stations for spectators arriving outdoors.\n\u2022 Encourage spectators to wear lightweight, light-colored clothing and to seek shade when possible.\n\u2022 Ensure that all staff and volunteers are aware of the heat safety guidelines and are equipped to respond to heat-related emergencies.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Intuit Dome",
+   "zone": "Inglewood Zone",
+   "exposure": "indoor",
+   "sports": "Basketball",
+   "sessions": 43,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 57.3,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 78.7,
+   "neighbourhood_share_age_65_plus_pct": 12.1,
+   "neighbourhood_share_households_no_car_pct": 8.8,
+   "surface_temp_anomaly_vs_surroundings_c": -0.7,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Basketball",
+     "date": "2028-07-25 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 57.3,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.4,
+     "arrival_wbgt_p90_f": 83.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Basketball",
+     "date": "2028-07-24 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 57.2,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.4,
+     "arrival_wbgt_p90_f": 83.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Basketball",
+     "date": "2028-07-22 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 56.8,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.2,
+     "arrival_wbgt_p90_f": 82.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.7,
+     "peak_wbgt_f": 76.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.0,
+     "peak_wbgt_f": 82.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.6,
+     "peak_wbgt_f": 92.5,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.1,
+     "peak_wbgt_f": 89.8,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.0,
+     "peak_wbgt_f": 89.6,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:13:56.320451+00:00"
+ },
+ "industry_hills": {
+  "venue_id": "industry_hills",
+  "brief": "Heat Safety Brief for Industry Hills MTB Course\n\nThe Industry Hills MTB Course will host Mountain Bike events on July 17-18, 2028. As the venue is outdoor, athletes and spectators will be exposed to heat. The worst-case scenario for athletes is a WBGT of 29.1\u00b0C (84.4\u00b0F) on both days, which is considered a hot but not extreme day (p90).\n\nThe surrounding neighbourhood ranks more vulnerable than 64.3% of California census tracts. The neighbourhood has 13.9% of the population aged 65+, and 3.7% of households do not have a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 29.4\u00b0C (84.9\u00b0F) on October 2, which is currently considered a green flag. However, please note that this is not a forecast for the 2028 Games.\n\nTo ensure heat safety, please take the following actions:\n\n\u2022 Ensure that spectators arriving at the venue are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n\u2022 Provide adequate shade and hydration stations for spectators and athletes.\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Ensure that athletes are aware of the heat risks and take necessary precautions, such as staying hydrated and taking regular breaks.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Industry Hills MTB Course",
+   "zone": "City of Industry Zone",
+   "exposure": "outdoor",
+   "sports": "Mountain Bike",
+   "sessions": 2,
+   "games_dates": "2028-07-17 00:00:00 to 2028-07-18 00:00:00",
+   "max_session_risk_score_0_100": 56.0,
+   "worst_session_athlete_wbgt_p90_c": 29.1,
+   "worst_session_athlete_wbgt_p90_f": 84.4,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 64.3,
+   "neighbourhood_share_age_65_plus_pct": 13.9,
+   "neighbourhood_share_households_no_car_pct": 3.7,
+   "surface_temp_anomaly_vs_surroundings_c": -3.7,
+   "ozone_days_over_aqi_100_pct": 3.5,
+   "riskiest_sessions": [
+    {
+     "sport": "Mountain Bike",
+     "date": "2028-07-17 00:00:00",
+     "time": "11:00-13:30",
+     "medal_session": "gold",
+     "risk_score": 56.0,
+     "athlete_wbgt_p90_c": 29.1,
+     "athlete_wbgt_p90_f": 84.4,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Mountain Bike",
+     "date": "2028-07-18 00:00:00",
+     "time": "11:00-13:30",
+     "medal_session": "gold",
+     "risk_score": 56.0,
+     "athlete_wbgt_p90_c": 29.1,
+     "athlete_wbgt_p90_f": 84.4,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.6,
+     "peak_wbgt_f": 85.3,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:14:13.553292+00:00"
+ },
+ "dodger_stadium": {
+  "venue_id": "dodger_stadium",
+  "brief": "Heat Safety Brief for Dodger Stadium\n\n**Venue Information**\n\n* Venue: Dodger Stadium\n* Zone: DTLA Zone\n* Exposure: Outdoor\n* Sports: Baseball\n* Sessions: 12\n* Games Dates: 2028-07-13 to 2028-07-19\n\n**Heat Risk Assessment**\n\n* The worst session WBGT temperature is 28.2\u00b0C (82.8\u00b0F), which is considered a hot but not extreme day (p90).\n* There are no sessions with red or black flag conditions.\n* The surrounding neighbourhood ranks more vulnerable than 71.6% of California census tracts.\n\n**This Week's Forecast (not Games Time)**\n\n* The current forecast for this week shows a mix of green, yellow, and red flag conditions, with peak temperatures ranging from 26.9\u00b0C to 32.4\u00b0C (80.4\u00b0F to 90.3\u00b0F).\n\n**Actions**\n\n* Ensure that outdoor spectators take regular breaks in shaded or air-conditioned areas to cool down.\n* Provide water and encourage frequent hydration among spectators.\n* Monitor the weather forecast and adjust operations accordingly to minimize heat-related risks.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Dodger Stadium",
+   "zone": "DTLA Zone",
+   "exposure": "outdoor",
+   "sports": "Baseball",
+   "sessions": 12,
+   "games_dates": "2028-07-13 00:00:00 to 2028-07-19 00:00:00",
+   "max_session_risk_score_0_100": 55.8,
+   "worst_session_athlete_wbgt_p90_c": 28.2,
+   "worst_session_athlete_wbgt_p90_f": 82.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 71.6,
+   "neighbourhood_share_age_65_plus_pct": 12.8,
+   "neighbourhood_share_households_no_car_pct": 17.5,
+   "surface_temp_anomaly_vs_surroundings_c": 0.3,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Baseball",
+     "date": "2028-07-19 00:00:00",
+     "time": "11:00-14:00",
+     "medal_session": "bronze",
+     "risk_score": 55.8,
+     "athlete_wbgt_p90_c": 28.2,
+     "athlete_wbgt_p90_f": 82.8,
+     "arrival_wbgt_p90_c": 25.7,
+     "arrival_wbgt_p90_f": 78.3,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Baseball",
+     "date": "2028-07-18 00:00:00",
+     "time": "11:00-14:00",
+     "medal_session": NaN,
+     "risk_score": 55.3,
+     "athlete_wbgt_p90_c": 28.1,
+     "athlete_wbgt_p90_f": 82.6,
+     "arrival_wbgt_p90_c": 25.5,
+     "arrival_wbgt_p90_f": 77.9,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Baseball",
+     "date": "2028-07-13 00:00:00",
+     "time": "11:00-14:00",
+     "medal_session": NaN,
+     "risk_score": 55.0,
+     "athlete_wbgt_p90_c": 27.8,
+     "athlete_wbgt_p90_f": 82.0,
+     "arrival_wbgt_p90_c": 25.9,
+     "arrival_wbgt_p90_f": 78.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.6,
+     "peak_wbgt_f": 85.3,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.3,
+     "peak_wbgt_f": 84.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "peak_wbgt_f": 90.0,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.1,
+     "peak_wbgt_f": 89.8,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:14:29.622681+00:00"
+ },
+ "honda_center": {
+  "venue_id": "honda_center",
+  "brief": "**Honda Center Heat Safety Brief**\n\nThe Honda Center, located in the Anaheim Zone, will host Volleyball sessions from July 15th to July 30th, 2028. As an indoor venue, athletes will be in a climate-controlled environment. However, spectators arriving outdoors should be aware of the heat risks.\n\nThe surrounding neighborhood ranks more vulnerable than 64.9% of California census tracts, with 10.4% of the population aged 65+ and 4.0% of households without a car.\n\nThis week's forecast (not specific to the 2028 Games) indicates a mix of heat conditions, with peak temperatures ranging from 27.9\u00b0C (82.2\u00b0F) to 32.5\u00b0C (90.5\u00b0F) and flags ranging from green to black.\n\n**Actions:**\n\n* Ensure spectators are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Monitor weather forecasts and adjust operations accordingly.\n* Provide heat-related information and guidance to staff, athletes, and spectators.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Honda Center",
+   "zone": "Anaheim Zone",
+   "exposure": "indoor",
+   "sports": "Volleyball",
+   "sessions": 52,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 55.5,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 64.9,
+   "neighbourhood_share_age_65_plus_pct": 10.4,
+   "neighbourhood_share_households_no_car_pct": 4.0,
+   "surface_temp_anomaly_vs_surroundings_c": 0.5,
+   "ozone_days_over_aqi_100_pct": 0.8,
+   "riskiest_sessions": [
+    {
+     "sport": "Volleyball",
+     "date": "2028-07-24 00:00:00",
+     "time": "13:00-15:30",
+     "medal_session": NaN,
+     "risk_score": 55.5,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.4,
+     "arrival_wbgt_p90_f": 83.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Volleyball",
+     "date": "2028-07-25 00:00:00",
+     "time": "13:00-15:30",
+     "medal_session": NaN,
+     "risk_score": 55.5,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.4,
+     "arrival_wbgt_p90_f": 83.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Volleyball",
+     "date": "2028-07-23 00:00:00",
+     "time": "13:00-15:30",
+     "medal_session": NaN,
+     "risk_score": 55.2,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.3,
+     "arrival_wbgt_p90_f": 82.9,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 27.9,
+     "peak_wbgt_f": 82.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 31.6,
+     "peak_wbgt_f": 88.9,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 31.1,
+     "peak_wbgt_f": 88.0,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.5,
+     "peak_wbgt_f": 90.5,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.5,
+     "peak_wbgt_f": 90.5,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:14:44.629776+00:00"
+ },
+ "griffith_observatory": {
+  "venue_id": "griffith_observatory",
+  "brief": "Heat Safety Brief for Griffith Observatory (road cycling finish)\n\nThe Griffith Observatory will host the road cycling finish for the 2028 Games. As an outdoor venue, athletes and spectators will be exposed to heat stress. The surrounding neighbourhood ranks more vulnerable than 51.6% of California census tracts.\n\nThe worst-case scenario for athlete WBGT is 29.5\u00b0C (85.1\u00b0F) on July 22, which is a yellow flag day. There are no red or black flag days for the sessions.\n\nTo ensure a safe and healthy environment, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Provide adequate hydration and shade for athletes and spectators.\n\u2022 Ensure that athletes have access to cooling measures, such as misting stations or cooling towels.\n\u2022 Educate staff and spectators on heat safety precautions, such as seeking shade, wearing light-colored clothing, and staying hydrated.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Griffith Observatory (road cycling finish)",
+   "zone": "Griffith Park Zone",
+   "exposure": "outdoor",
+   "sports": "Cycling Road (Road Race - Finish), Cycling Road (Time Trial - Finish)",
+   "sessions": 3,
+   "games_dates": "2028-07-19 00:00:00 to 2028-07-23 00:00:00",
+   "max_session_risk_score_0_100": 54.5,
+   "worst_session_athlete_wbgt_p90_c": 29.5,
+   "worst_session_athlete_wbgt_p90_f": 85.1,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 51.6,
+   "neighbourhood_share_age_65_plus_pct": 14.9,
+   "neighbourhood_share_households_no_car_pct": 16.9,
+   "surface_temp_anomaly_vs_surroundings_c": -5.0,
+   "ozone_days_over_aqi_100_pct": 2.2,
+   "riskiest_sessions": [
+    {
+     "sport": "Cycling Road (Road Race - Finish)",
+     "date": "2028-07-22 00:00:00",
+     "time": "11:30-16:15",
+     "medal_session": "gold",
+     "risk_score": 54.5,
+     "athlete_wbgt_p90_c": 29.5,
+     "athlete_wbgt_p90_f": 85.1,
+     "arrival_wbgt_p90_c": 27.8,
+     "arrival_wbgt_p90_f": 82.0,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cycling Road (Time Trial - Finish)",
+     "date": "2028-07-19 00:00:00",
+     "time": "10:30-14:30",
+     "medal_session": "gold",
+     "risk_score": 48.6,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 26.1,
+     "arrival_wbgt_p90_f": 79.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cycling Road (Road Race - Finish)",
+     "date": "2028-07-23 00:00:00",
+     "time": "09:00-16:15",
+     "medal_session": "gold",
+     "risk_score": 47.0,
+     "athlete_wbgt_p90_c": 29.5,
+     "athlete_wbgt_p90_f": 85.1,
+     "arrival_wbgt_p90_c": 24.0,
+     "arrival_wbgt_p90_f": 75.2,
+     "p90_flag": "yellow",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.5,
+     "peak_wbgt_f": 79.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.5,
+     "peak_wbgt_f": 83.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.1,
+     "peak_wbgt_f": 89.8,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:14:58.583183+00:00"
+ },
+ "carson_tennis": {
+  "venue_id": "carson_tennis",
+  "brief": "**Carson Tennis Center (Dignity Health Sports Park) Heat Safety Brief**\n\nThe Carson Tennis Center (Dignity Health Sports Park) will host tennis events from July 19th to July 28th, 2028. As outdoor events are scheduled, it is essential to prioritize heat safety for athletes and spectators.\n\n**Venue Conditions**\n\nThe surrounding neighborhood ranks more vulnerable than 60.2% of California census tracts. The area has a high percentage of households without a car (3.6%). The surface temperature anomaly is -2.3\u00b0C compared to the surroundings.\n\n**Heat Forecast**\n\nThis week's real forecast (not Games time) indicates a mix of green, yellow, and black flag conditions. Please refer to the forecast for specific dates and peak WBGT temperatures.\n\n**Heat Safety Recommendations**\n\nTo ensure a safe and healthy environment for athletes and spectators, please take the following actions:\n\n* Monitor the heat forecast and adjust operations accordingly.\n* Ensure adequate hydration and rest breaks for athletes and staff.\n* Provide shade and cooling options for spectators, especially those vulnerable to heat (e.g., people aged 65+).\n* Implement heat safety protocols for athletes, including monitoring WBGT temperatures and adjusting schedules as needed.\n* Educate staff and spectators on heat safety precautions, such as seeking shade, wearing light-colored clothing, and staying hydrated.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Carson Tennis Center (Dignity Health Sports Park)",
+   "zone": "Carson Zone",
+   "exposure": "outdoor",
+   "sports": "Tennis",
+   "sessions": 41,
+   "games_dates": "2028-07-19 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 54.2,
+   "worst_session_athlete_wbgt_p90_c": 28.6,
+   "worst_session_athlete_wbgt_p90_f": 83.5,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 60.2,
+   "neighbourhood_share_age_65_plus_pct": 18.4,
+   "neighbourhood_share_households_no_car_pct": 3.6,
+   "surface_temp_anomaly_vs_surroundings_c": -2.3,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Tennis",
+     "date": "2028-07-26 00:00:00",
+     "time": "11:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 54.2,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Tennis",
+     "date": "2028-07-23 00:00:00",
+     "time": "11:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 53.8,
+     "athlete_wbgt_p90_c": 28.5,
+     "athlete_wbgt_p90_f": 83.3,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Tennis",
+     "date": "2028-07-23 00:00:00",
+     "time": "11:00-20:00",
+     "medal_session": NaN,
+     "risk_score": 53.8,
+     "athlete_wbgt_p90_c": 28.5,
+     "athlete_wbgt_p90_f": 83.3,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:15:16.617773+00:00"
+ },
+ "carson_stadium": {
+  "venue_id": "carson_stadium",
+  "brief": "Heat Safety Brief for Carson Stadium (Dignity Health Sports Park)\n\nThe Carson Stadium, located in the Carson Zone, will host Archery and Rugby Sevens events from July 12th to July 28th, 2028. As an outdoor venue, spectators arriving at the stadium will be exposed to heat. The worst-case scenario for athletes is a WBGT temperature of 28.6\u00b0C (83.5\u00b0F) on July 26th, 2028, which is considered a hot but not extreme day (p90).\n\nThe surrounding neighbourhood ranks more vulnerable than 60.2% of California census tracts, with 18.4% of the population aged 65+, and 3.6% of households without a car. The surface temperature anomaly is -2.3\u00b0C, indicating cooler temperatures than the surrounding area. There are no ozone days with AQI above 100%.\n\nThe riskiest sessions are scheduled on July 24th, 25th, and 26th, 2028, with risk scores ranging from 53.1 to 54.2. These sessions will have a p90 flag of \"green\", indicating a hot but not extreme day.\n\nTo ensure heat safety, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Provide shade and hydration stations for spectators.\n\u2022 Encourage spectators to take regular breaks in shaded areas and drink plenty of water.\n\u2022 Ensure that all staff and volunteers are aware of the heat safety protocols and take necessary precautions.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Carson Stadium (Dignity Health Sports Park)",
+   "zone": "Carson Zone",
+   "exposure": "outdoor",
+   "sports": "Archery, Rugby Sevens",
+   "sessions": 29,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 54.2,
+   "worst_session_athlete_wbgt_p90_c": 28.6,
+   "worst_session_athlete_wbgt_p90_f": 83.5,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 60.2,
+   "neighbourhood_share_age_65_plus_pct": 18.4,
+   "neighbourhood_share_households_no_car_pct": 3.6,
+   "surface_temp_anomaly_vs_surroundings_c": -2.3,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Archery",
+     "date": "2028-07-26 00:00:00",
+     "time": "10:30-13:05",
+     "medal_session": NaN,
+     "risk_score": 54.2,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Archery",
+     "date": "2028-07-25 00:00:00",
+     "time": "10:30-12:40",
+     "medal_session": NaN,
+     "risk_score": 53.1,
+     "athlete_wbgt_p90_c": 28.3,
+     "athlete_wbgt_p90_f": 82.9,
+     "arrival_wbgt_p90_c": 27.1,
+     "arrival_wbgt_p90_f": 80.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Archery",
+     "date": "2028-07-24 00:00:00",
+     "time": "10:30-12:40",
+     "medal_session": NaN,
+     "risk_score": 53.1,
+     "athlete_wbgt_p90_c": 28.3,
+     "athlete_wbgt_p90_f": 82.9,
+     "arrival_wbgt_p90_c": 27.1,
+     "arrival_wbgt_p90_f": 80.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:15:36.351727+00:00"
+ },
+ "lb_climbing": {
+  "venue_id": "lb_climbing",
+  "brief": "**Heat Safety Brief for Long Beach Climbing Theater**\n\nThe Long Beach Climbing Theater will host the Climbing events from July 24th to July 29th, 2028. As the outdoor venue is exposed to the elements, it is essential to prioritize heat safety for athletes and spectators.\n\n**Current Forecast:** As of this week, the forecast indicates a peak WBGT temperature of 27.4\u00b0C (81.3\u00b0F) on July 24th, with a flag of \"green\". This is a hot but not extreme day, with only 1 in 10 comparable historical days being hotter.\n\n**Venue Conditions:** The surrounding neighbourhood ranks more vulnerable than 78% of California census tracts. The neighbourhood has a share of people aged 65+ of 9.4% and households without a car of 16.3%. The surface temperature anomaly is -2.5\u00b0C, indicating a slightly cooler environment than the surrounding area.\n\n**Action Plan:**\n\n* Ensure that athletes and spectators are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade when possible.\n* Provide regular water breaks and cooling stations for athletes and spectators.\n* Monitor the weather forecast and adjust plans accordingly to ensure the safety of all involved.\n\nRemember, heat safety is a top priority for the success of the event. Let's work together to ensure a safe and enjoyable experience for all.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Long Beach Climbing Theater",
+   "zone": "Long Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Climbing",
+   "sessions": 10,
+   "games_dates": "2028-07-24 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 54.1,
+   "worst_session_athlete_wbgt_p90_c": 27.3,
+   "worst_session_athlete_wbgt_p90_f": 81.1,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 78.0,
+   "neighbourhood_share_age_65_plus_pct": 9.4,
+   "neighbourhood_share_households_no_car_pct": 16.3,
+   "surface_temp_anomaly_vs_surroundings_c": -2.5,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Climbing",
+     "date": "2028-07-24 00:00:00",
+     "time": "13:45-15:25",
+     "medal_session": NaN,
+     "risk_score": 54.1,
+     "athlete_wbgt_p90_c": 27.3,
+     "athlete_wbgt_p90_f": 81.1,
+     "arrival_wbgt_p90_c": 27.4,
+     "arrival_wbgt_p90_f": 81.3,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Climbing",
+     "date": "2028-07-28 00:00:00",
+     "time": "13:45-15:00",
+     "medal_session": "gold",
+     "risk_score": 52.1,
+     "athlete_wbgt_p90_c": 26.9,
+     "athlete_wbgt_p90_f": 80.4,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Climbing",
+     "date": "2028-07-24 00:00:00",
+     "time": "09:30-11:40",
+     "medal_session": NaN,
+     "risk_score": 47.3,
+     "athlete_wbgt_p90_c": 26.8,
+     "athlete_wbgt_p90_f": 80.2,
+     "arrival_wbgt_p90_c": 24.8,
+     "arrival_wbgt_p90_f": 76.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:15:54.819269+00:00"
+ },
+ "lb_aquatics": {
+  "venue_id": "lb_aquatics",
+  "brief": "Heat Safety Brief for the Long Beach Aquatics Center\n\nThe Long Beach Aquatics Center will host Artistic Swimming and Water Polo events from July 12th to July 29th, 2028. As the venue is outdoor, spectators arriving to watch the events will be exposed to heat. The worst-case scenario for athlete WBGT is 27.4\u00b0C (81.3\u00b0F) on p90 days, with no sessions flagged as red or black.\n\nThe surrounding neighbourhood ranks more vulnerable than 78% of California census tracts, with 9.4% of the population aged 65+, and 16.3% of households without a car. The surface temperature anomaly is -2.5\u00b0C compared to the surroundings, and there are no ozone days with AQI above 100%.\n\nThis week's forecast (not specific to the 2028 Games) shows a peak WBGT of 27.4\u00b0C (81.3\u00b0F) on October 3rd, with a flag of \"green\". The forecast for the rest of the week is available below.\n\nTo ensure a safe and enjoyable experience for spectators, please take the following precautions:\n\n\u2022 Stay hydrated by drinking plenty of water before, during, and after the events.\n\u2022 Wear light, loose-fitting clothing and a hat to protect yourself from the sun.\n\u2022 Avoid strenuous activities during the hottest part of the day (usually between 11 am and 3 pm).\n\u2022 Seek shade or air-conditioned spaces if you start to feel overheated.\n\u2022 Monitor the weather forecast and adjust your plans accordingly.\n\nRemember, heat safety is everyone's responsibility. Let's work together to ensure a safe and enjoyable experience for all.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Long Beach Aquatics Center",
+   "zone": "Long Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Artistic Swimming, Water Polo",
+   "sessions": 33,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 53.8,
+   "worst_session_athlete_wbgt_p90_c": 27.4,
+   "worst_session_athlete_wbgt_p90_f": 81.3,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 78.0,
+   "neighbourhood_share_age_65_plus_pct": 9.4,
+   "neighbourhood_share_households_no_car_pct": 16.3,
+   "surface_temp_anomaly_vs_surroundings_c": -2.5,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Water Polo",
+     "date": "2028-07-22 00:00:00",
+     "time": "11:30-13:00",
+     "medal_session": "bronze",
+     "risk_score": 53.8,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.0,
+     "arrival_wbgt_p90_f": 80.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Water Polo",
+     "date": "2028-07-21 00:00:00",
+     "time": "11:30-14:30",
+     "medal_session": NaN,
+     "risk_score": 53.2,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 26.8,
+     "arrival_wbgt_p90_f": 80.2,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Water Polo",
+     "date": "2028-07-23 00:00:00",
+     "time": "11:30-13:00",
+     "medal_session": "bronze",
+     "risk_score": 53.2,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 26.8,
+     "arrival_wbgt_p90_f": 80.2,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:16:16.063882+00:00"
+ },
+ "sd_stadium": {
+  "venue_id": "sd_stadium",
+  "brief": "**Snapdragon Stadium Heat Safety Brief**\n\nSnapdragon Stadium is an outdoor venue in the San Diego Zone, hosting Football (Soccer) - Group & Knockout Stages from July 11th to July 28th, 2028. With 11 sessions, the venue will experience varying heat conditions.\n\n**Current Forecast:**\nThe current forecast for this week (not specific to the 2028 Games) indicates a peak WBGT temperature of 26.2\u00b0C (79.2\u00b0F) on October 1st, with a flag of \"none\". However, from October 2nd to 7th, the peak WBGT temperature will reach 32.8\u00b0C (91.0\u00b0F) or higher, with a flag of \"black\" or \"red\".\n\n**Venue Conditions:**\nThe worst-case athlete WBGT temperature is expected to reach 27.6\u00b0C (81.7\u00b0F) on p90 days. No sessions with red or black flag conditions are expected.\n\n**Neighbourhood Conditions:**\nData is not available for the surrounding neighbourhood's social vulnerability rank or demographics.\n\n**Actions:**\n\n* Ensure that spectators arriving at the venue are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade.\n* Provide regular updates on the current forecast and heat conditions to ensure that staff and spectators are prepared.\n* Implement heat safety measures, such as providing water and shade, to ensure the comfort and safety of all attendees.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Snapdragon Stadium",
+   "zone": "San Diego Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 11,
+   "games_dates": "2028-07-11 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 53.2,
+   "worst_session_athlete_wbgt_p90_c": 27.6,
+   "worst_session_athlete_wbgt_p90_f": 81.7,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Football (Soccer) - Group & Knockout Stages",
+     "date": "2028-07-24 00:00:00",
+     "time": "13:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 53.2,
+     "athlete_wbgt_p90_c": 27.6,
+     "athlete_wbgt_p90_f": 81.7,
+     "arrival_wbgt_p90_c": 27.5,
+     "arrival_wbgt_p90_f": 81.5,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Group & Knockout Stages",
+     "date": "2028-07-28 00:00:00",
+     "time": "13:00-16:00",
+     "medal_session": NaN,
+     "risk_score": 50.3,
+     "athlete_wbgt_p90_c": 27.2,
+     "athlete_wbgt_p90_f": 81.0,
+     "arrival_wbgt_p90_c": 27.1,
+     "arrival_wbgt_p90_f": 80.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Football (Soccer) - Group & Knockout Stages",
+     "date": "2028-07-25 00:00:00",
+     "time": "17:30-20:30",
+     "medal_session": NaN,
+     "risk_score": 36.1,
+     "athlete_wbgt_p90_c": 24.7,
+     "athlete_wbgt_p90_f": 76.5,
+     "arrival_wbgt_p90_c": 25.7,
+     "arrival_wbgt_p90_f": 78.3,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.2,
+     "peak_wbgt_f": 79.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 33.1,
+     "peak_wbgt_f": 91.6,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.2,
+     "peak_wbgt_f": 91.8,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.7,
+     "peak_wbgt_f": 90.9,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:16:35.223790+00:00"
+ },
+ "carson_field": {
+  "venue_id": "carson_field",
+  "brief": "**Carson Field (Hockey) Heat Safety Brief**\n\n**Venue Information**\n\n* Venue: Carson Field (hockey)\n* Zone: Carson Zone\n* Exposure: Outdoor\n* Sports: Hockey\n* Sessions: 34\n* Games Dates: 2028-07-12 to 2028-07-29\n\n**Heat Risk Assessment**\n\n* The worst session WBGT temperature is 28.6\u00b0C (83.5\u00b0F), which is considered a hot but not extreme day (p90).\n* There are no sessions with red or black flag conditions.\n* The surrounding neighbourhood ranks more vulnerable than 60.2% of California census tracts.\n\n**This Week's Forecast (Not Games Time)**\n\n* The current forecast for the week is not available for this venue.\n\n**Actions**\n\n* Ensure that spectators arriving outdoors are aware of the heat risk and take necessary precautions, such as seeking shade, wearing light-colored clothing, and staying hydrated.\n* Provide regular water breaks and encourage athletes to drink plenty of water to stay hydrated.\n* Monitor the weather forecast and adjust operations as necessary to minimize the risk of heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Carson Field (hockey)",
+   "zone": "Carson Zone",
+   "exposure": "outdoor",
+   "sports": "Hockey",
+   "sessions": 34,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 52.1,
+   "worst_session_athlete_wbgt_p90_c": 28.6,
+   "worst_session_athlete_wbgt_p90_f": 83.5,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 60.2,
+   "neighbourhood_share_age_65_plus_pct": 18.4,
+   "neighbourhood_share_households_no_car_pct": 3.6,
+   "surface_temp_anomaly_vs_surroundings_c": -2.3,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Hockey",
+     "date": "2028-07-28 00:00:00",
+     "time": "10:30-12:30",
+     "medal_session": "bronze",
+     "risk_score": 52.1,
+     "athlete_wbgt_p90_c": 28.0,
+     "athlete_wbgt_p90_f": 82.4,
+     "arrival_wbgt_p90_c": 27.0,
+     "arrival_wbgt_p90_f": 80.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Hockey",
+     "date": "2028-07-29 00:00:00",
+     "time": "10:30-12:30",
+     "medal_session": "bronze",
+     "risk_score": 51.5,
+     "athlete_wbgt_p90_c": 28.0,
+     "athlete_wbgt_p90_f": 82.4,
+     "arrival_wbgt_p90_c": 26.8,
+     "arrival_wbgt_p90_f": 80.2,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Hockey",
+     "date": "2028-07-22 00:00:00",
+     "time": "17:00-22:00",
+     "medal_session": NaN,
+     "risk_score": 46.1,
+     "athlete_wbgt_p90_c": 26.2,
+     "athlete_wbgt_p90_f": 79.2,
+     "arrival_wbgt_p90_c": 26.7,
+     "arrival_wbgt_p90_f": 80.1,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:16:51.097882+00:00"
+ },
+ "alamitos_beach": {
+  "venue_id": "alamitos_beach",
+  "brief": "Heat Safety Brief for Alamitos Beach Stadium:\n\nThe Alamitos Beach Stadium is an outdoor venue for Beach Volleyball events during the 2028 Games. The surrounding neighbourhood ranks more vulnerable than 72.2% of California census tracts. The stadium will host 39 sessions, with the riskiest sessions being those on July 24, 23, and 26, all with a risk score of 51.7.\n\nThe worst-case scenario for athletes is a WBGT temperature of 27.4\u00b0C (81.3\u00b0F) on all three riskiest sessions. The current forecast for this week is not related to the Games, but it shows a peak WBGT temperature of 27.3\u00b0C (81.1\u00b0F) on October 2, with a flag indicating a green flag.\n\nAs the venue is outdoor, spectators arriving at the stadium should take necessary precautions to avoid heat-related illnesses. This includes staying hydrated, taking regular breaks in shaded areas, and wearing lightweight, light-colored clothing.\n\nActions:\n\n\u2022 Ensure that all staff and spectators are aware of the heat safety guidelines and take necessary precautions.\n\u2022 Provide shaded areas and water stations for spectators to take breaks and stay hydrated.\n\u2022 Monitor the weather forecast and adjust plans accordingly to minimize the risk of heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Alamitos Beach Stadium",
+   "zone": "Long Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Beach Volleyball",
+   "sessions": 39,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 51.7,
+   "worst_session_athlete_wbgt_p90_c": 27.4,
+   "worst_session_athlete_wbgt_p90_f": 81.3,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 72.2,
+   "neighbourhood_share_age_65_plus_pct": 9.9,
+   "neighbourhood_share_households_no_car_pct": 14.5,
+   "surface_temp_anomaly_vs_surroundings_c": -3.9,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Beach Volleyball",
+     "date": "2028-07-24 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 51.7,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Beach Volleyball",
+     "date": "2028-07-23 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 51.7,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Beach Volleyball",
+     "date": "2028-07-26 00:00:00",
+     "time": "13:00-15:00",
+     "medal_session": NaN,
+     "risk_score": 51.6,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:17:08.431649+00:00"
+ },
+ "lb_arena": {
+  "venue_id": "lb_arena",
+  "brief": "**Heat Safety Brief for Long Beach Arena**\n\nThe Long Beach Arena will host Handball sessions from July 12th to July 28th, 2028. As an indoor venue, athletes will be in a climate-controlled environment. However, spectators arriving outdoors should be aware of the heat risks.\n\nThe surrounding neighbourhood ranks more vulnerable than 77.4% of California census tracts. The neighbourhood has a high share of people aged 65+ (9.6%) and households without a car (16.0%).\n\nThe current forecast for this week (not specific to the 2028 Games) indicates a peak WBGT of 27.4\u00b0C (81.3\u00b0F) on October 2nd, with a flag of \"green\". This is a hot but not extreme day.\n\n**Actions:**\n\n* Ensure spectators are aware of the heat risks and take necessary precautions, such as staying hydrated and seeking shade.\n* Monitor the weather forecast and adjust operations accordingly.\n* Provide education on heat safety to staff and volunteers.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Long Beach Arena",
+   "zone": "Long Beach Zone",
+   "exposure": "indoor",
+   "sports": "Handball",
+   "sessions": 46,
+   "games_dates": "2028-07-12 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 51.2,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 77.4,
+   "neighbourhood_share_age_65_plus_pct": 9.6,
+   "neighbourhood_share_households_no_car_pct": 16.0,
+   "surface_temp_anomaly_vs_surroundings_c": -2.3,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Handball",
+     "date": "2028-07-22 00:00:00",
+     "time": "14:00-17:30",
+     "medal_session": NaN,
+     "risk_score": 51.2,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 27.4,
+     "arrival_wbgt_p90_f": 81.3,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Handball",
+     "date": "2028-07-21 00:00:00",
+     "time": "14:00-17:30",
+     "medal_session": NaN,
+     "risk_score": 51.1,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Handball",
+     "date": "2028-07-23 00:00:00",
+     "time": "12:30-14:30",
+     "medal_session": NaN,
+     "risk_score": 50.8,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:17:18.880869+00:00"
+ },
+ "carson_velodrome": {
+  "venue_id": "carson_velodrome",
+  "brief": "**Heat Safety Brief for VELO Sports Center**\n\nThe VELO Sports Center, located in the Carson Zone, will host the Cycling Track events during the 2028 Games. As an indoor venue, athletes will be protected from the heat, but spectators arriving outdoors may be exposed to hot conditions.\n\n**This Week's Forecast (not Games Time)**\n\nAs of the current forecast, the peak WBGT temperature for this week is expected to reach 32.8\u00b0C (91.0\u00b0F) on October 4th and 5th, with a flag indicating a black flag. This is a p90 day, meaning that 1 in 10 comparable historical days were hotter.\n\n**Neighbourhood Social Vulnerability**\n\nThe surrounding neighbourhood ranks more vulnerable than 58.1% of California census tracts. This is due to a higher share of people aged 65+ (18.4%) and households without a car (3.5%).\n\n**Actions**\n\nTo ensure the safety of spectators and staff:\n\n* Monitor the weather forecast and adjust operations accordingly.\n* Provide shade and hydration stations for spectators arriving outdoors.\n* Encourage staff and spectators to take regular breaks in air-conditioned areas.\n* Distribute heat safety information and guidelines to all staff and spectators.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "VELO Sports Center",
+   "zone": "Carson Zone",
+   "exposure": "indoor",
+   "sports": "Cycling Track",
+   "sessions": 9,
+   "games_dates": "2028-07-25 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 51.0,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 58.1,
+   "neighbourhood_share_age_65_plus_pct": 18.4,
+   "neighbourhood_share_households_no_car_pct": 3.5,
+   "surface_temp_anomaly_vs_surroundings_c": -0.9,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Cycling Track",
+     "date": "2028-07-26 00:00:00",
+     "time": "13:45-16:45",
+     "medal_session": "gold",
+     "risk_score": 51.0,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.5,
+     "arrival_wbgt_p90_f": 83.3,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cycling Track",
+     "date": "2028-07-28 00:00:00",
+     "time": "13:00-15:15",
+     "medal_session": "gold",
+     "risk_score": 49.4,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 28.0,
+     "arrival_wbgt_p90_f": 82.4,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cycling Track",
+     "date": "2028-07-25 00:00:00",
+     "time": "12:00-15:00",
+     "medal_session": "gold",
+     "risk_score": 48.9,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 27.8,
+     "arrival_wbgt_p90_f": 82.0,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.9,
+     "peak_wbgt_f": 76.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 26.9,
+     "peak_wbgt_f": 80.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.8,
+     "peak_wbgt_f": 91.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:17:32.032242+00:00"
+ },
+ "port_of_la": {
+  "venue_id": "port_of_la",
+  "brief": "Heat Safety Brief for Port of Los Angeles (Sailing) Venue\n\nThe Port of Los Angeles (Sailing) venue will host sailing events from July 23 to July 28, 2028. As an outdoor venue, it is essential to prioritize heat safety for athletes, spectators, and staff.\n\nThe surrounding neighbourhood ranks more vulnerable than 62.4% of California census tracts. The neighbourhood has a share of people aged 65+ at 13.9% and households without a car at 10.0%.\n\nThe worst-case scenario for athlete WBGT is 26.8\u00b0C (80.2\u00b0F) on p90 days. There are no sessions with red or black flags.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 27.0\u00b0C (80.6\u00b0F) on October 3, with a flag of \"green\". The forecast is available from October 1 to October 7.\n\nTo ensure a safe and healthy environment, please take the following actions:\n\n\u2022 Provide regular water breaks and encourage athletes to stay hydrated.\n\u2022 Ensure that spectators are aware of the heat risks and take necessary precautions.\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Ensure that staff are trained to recognize and respond to heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Port of Los Angeles (sailing)",
+   "zone": "Port of Los Angeles Zone",
+   "exposure": "outdoor",
+   "sports": "Sailing (Dinghy, Skiff & Multihull)",
+   "sessions": 6,
+   "games_dates": "2028-07-23 00:00:00 to 2028-07-28 00:00:00",
+   "max_session_risk_score_0_100": 50.3,
+   "worst_session_athlete_wbgt_p90_c": 26.8,
+   "worst_session_athlete_wbgt_p90_f": 80.2,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 62.4,
+   "neighbourhood_share_age_65_plus_pct": 13.9,
+   "neighbourhood_share_households_no_car_pct": 10.0,
+   "surface_temp_anomaly_vs_surroundings_c": -0.9,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Sailing (Dinghy, Skiff & Multihull)",
+     "date": "2028-07-23 00:00:00",
+     "time": "14:00-20:00",
+     "medal_session": NaN,
+     "risk_score": 50.3,
+     "athlete_wbgt_p90_c": 26.8,
+     "athlete_wbgt_p90_f": 80.2,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Sailing (Dinghy, Skiff & Multihull)",
+     "date": "2028-07-27 00:00:00",
+     "time": "14:00-20:00",
+     "medal_session": "gold",
+     "risk_score": 50.2,
+     "athlete_wbgt_p90_c": 26.8,
+     "athlete_wbgt_p90_f": 80.2,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Sailing (Dinghy, Skiff & Multihull)",
+     "date": "2028-07-24 00:00:00",
+     "time": "14:00-20:00",
+     "medal_session": NaN,
+     "risk_score": 50.1,
+     "athlete_wbgt_p90_c": 26.7,
+     "athlete_wbgt_p90_f": 80.1,
+     "arrival_wbgt_p90_c": 26.9,
+     "arrival_wbgt_p90_f": 80.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.5,
+     "peak_wbgt_f": 76.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 25.9,
+     "peak_wbgt_f": 78.6,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.0,
+     "peak_wbgt_f": 80.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.2,
+     "peak_wbgt_f": 86.4,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:17:49.839881+00:00"
+ },
+ "venice_boardwalk": {
+  "venue_id": "venice_boardwalk",
+  "brief": "**Heat Safety Brief for Venice Beach Boardwalk**\n\nThe Venice Beach Boardwalk will host Athletics (Marathon - Start) and Cycling Road (Road Race - Start) events from July 22 to July 30, 2028. As an outdoor venue, it's essential to prioritize heat safety for athletes and spectators alike.\n\n**Risk Assessment:**\nThe worst-case scenario for athletes is a WBGT of 27.9\u00b0C (82.2\u00b0F) on July 23, 2028, which is considered a hot but not extreme day (p90). There are no sessions with red or black flag conditions.\n\n**Neighbourhood Information:**\nThe surrounding neighbourhood ranks more vulnerable than 28.8% of California census tracts. The neighbourhood has a share of people aged 65+ of 15.6% and a share of households without a car of 9.6%.\n\n**This Week's Forecast (not Games time):**\nAs of the current forecast, the peak WBGT temperature is expected to be around 26.6\u00b0C (79.9\u00b0F) on October 1, 2026, with a flag of \"none\". Please note that this is not the forecast for the 2028 Games.\n\n**Actions:**\n\n* Ensure that athletes and spectators take regular breaks in shaded areas and stay hydrated.\n* Provide cooling measures, such as misting stations or cooling towels, for athletes and spectators.\n* Monitor the weather forecast and adjust heat safety measures accordingly.\n* Educate staff and volunteers on heat safety protocols and provide training on recognizing heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Venice Beach Boardwalk",
+   "zone": "Venice Zone",
+   "exposure": "outdoor",
+   "sports": "Athletics (Marathon - Start), Cycling Road (Road Race - Start)",
+   "sessions": 4,
+   "games_dates": "2028-07-22 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 47.5,
+   "worst_session_athlete_wbgt_p90_c": 27.9,
+   "worst_session_athlete_wbgt_p90_f": 82.2,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 28.8,
+   "neighbourhood_share_age_65_plus_pct": 15.6,
+   "neighbourhood_share_households_no_car_pct": 9.6,
+   "surface_temp_anomaly_vs_surroundings_c": -0.5,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Cycling Road (Road Race - Start)",
+     "date": "2028-07-22 00:00:00",
+     "time": "11:30-16:15",
+     "medal_session": "gold",
+     "risk_score": 47.5,
+     "athlete_wbgt_p90_c": 27.8,
+     "athlete_wbgt_p90_f": 82.0,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Cycling Road (Road Race - Start)",
+     "date": "2028-07-23 00:00:00",
+     "time": "09:00-16:15",
+     "medal_session": "gold",
+     "risk_score": 39.2,
+     "athlete_wbgt_p90_c": 27.9,
+     "athlete_wbgt_p90_f": 82.2,
+     "arrival_wbgt_p90_c": 23.1,
+     "arrival_wbgt_p90_f": 73.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Athletics (Marathon - Start)",
+     "date": "2028-07-29 00:00:00",
+     "time": "07:15-10:15",
+     "medal_session": "gold",
+     "risk_score": 29.6,
+     "athlete_wbgt_p90_c": 26.2,
+     "athlete_wbgt_p90_f": 79.2,
+     "arrival_wbgt_p90_c": 20.8,
+     "arrival_wbgt_p90_f": 69.4,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.6,
+     "peak_wbgt_f": 79.9,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.3,
+     "peak_wbgt_f": 82.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 30.8,
+     "peak_wbgt_f": 87.4,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 30.6,
+     "peak_wbgt_f": 87.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:18:12.157653+00:00"
+ },
+ "lb_shooting_hall": {
+  "venue_id": "lb_shooting_hall",
+  "brief": "**Heat Safety Brief for Long Beach Target Shooting Hall**\n\nAs the venue for the Shooting (Rifle & Pistol) events, it's essential to prioritize heat safety for spectators arriving outdoors. Although the exposure is indoor, it's crucial to consider the conditions outside, as athletes and spectators may still be affected.\n\nThe surrounding neighbourhood ranks more vulnerable than 78% of California census tracts, with 9.4% of the population aged 65+ and 16.3% of households without a car. This week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 27.4\u00b0C (81.3\u00b0F) on October 3rd, with a flag of \"green\". However, please note that this is not the forecast for the 2028 Games.\n\n**Actions:**\n\n* Ensure that spectators are aware of the importance of heat safety and take necessary precautions, such as staying hydrated and seeking shade.\n* Provide adequate shade and seating areas for spectators to rest and cool down.\n* Encourage spectators to arrive early and avoid peak sun hours to minimize exposure to extreme temperatures.\n* Monitor the weather forecast and adjust heat safety measures accordingly.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Long Beach Target Shooting Hall",
+   "zone": "Long Beach Zone",
+   "exposure": "indoor",
+   "sports": "Shooting (Rifle & Pistol)",
+   "sessions": 7,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-23 00:00:00",
+   "max_session_risk_score_0_100": 45.9,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 78.0,
+   "neighbourhood_share_age_65_plus_pct": 9.4,
+   "neighbourhood_share_households_no_car_pct": 16.3,
+   "surface_temp_anomaly_vs_surroundings_c": -2.5,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Shooting (Rifle & Pistol)",
+     "date": "2028-07-17 00:00:00",
+     "time": "15:00-21:00",
+     "medal_session": "gold",
+     "risk_score": 45.9,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 25.7,
+     "arrival_wbgt_p90_f": 78.3,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Shooting (Rifle & Pistol)",
+     "date": "2028-07-15 00:00:00",
+     "time": "13:45-21:00",
+     "medal_session": "gold",
+     "risk_score": 45.6,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 25.6,
+     "arrival_wbgt_p90_f": 78.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Shooting (Rifle & Pistol)",
+     "date": "2028-07-16 00:00:00",
+     "time": "13:45-21:00",
+     "medal_session": "gold",
+     "risk_score": 45.4,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 25.6,
+     "arrival_wbgt_p90_f": 78.1,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.3,
+     "peak_wbgt_f": 77.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 30.5,
+     "peak_wbgt_f": 86.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:18:30.647204+00:00"
+ },
+ "belmont_shore": {
+  "venue_id": "belmont_shore",
+  "brief": "**Belmont Shore Heat Safety Brief**\n\nThe Belmont Shore venue is an outdoor location for Open Water Swimming, Rowing Coastal Beach Sprints, and Sailing (Windsurfing & Kite) events. The surrounding neighbourhood ranks more vulnerable than 25.7% of California census tracts. The area has a share of people aged 65+ at 16.6% and households without a car at 4.4%.\n\nThe worst-case scenario for athlete WBGT is 27.4\u00b0C (81.3\u00b0F) on p90 days. There are no sessions with red or black flag conditions. The riskiest sessions are scheduled on July 24 and 25, with a risk score of 45.1.\n\n**Actions:**\n\n* Ensure that all staff and spectators are aware of the heat safety guidelines and take necessary precautions to stay cool and hydrated.\n* Provide shaded areas and misting stations for spectators and staff to take breaks and cool down.\n* Encourage athletes to drink plenty of water and take regular breaks in shaded areas during sessions.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Belmont Shore",
+   "zone": "Long Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Open Water Swimming, Rowing Coastal Beach Sprints, Sailing (Windsurfing & Kite)",
+   "sessions": 11,
+   "games_dates": "2028-07-16 00:00:00 to 2028-07-25 00:00:00",
+   "max_session_risk_score_0_100": 45.1,
+   "worst_session_athlete_wbgt_p90_c": 27.4,
+   "worst_session_athlete_wbgt_p90_f": 81.3,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 25.7,
+   "neighbourhood_share_age_65_plus_pct": 16.6,
+   "neighbourhood_share_households_no_car_pct": 4.4,
+   "surface_temp_anomaly_vs_surroundings_c": -0.8,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Rowing Coastal Beach Sprints",
+     "date": "2028-07-24 00:00:00",
+     "time": "14:30-16:50",
+     "medal_session": "gold",
+     "risk_score": 45.1,
+     "athlete_wbgt_p90_c": 27.3,
+     "athlete_wbgt_p90_f": 81.1,
+     "arrival_wbgt_p90_c": 27.2,
+     "arrival_wbgt_p90_f": 81.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Rowing Coastal Beach Sprints",
+     "date": "2028-07-25 00:00:00",
+     "time": "14:00-15:20",
+     "medal_session": "gold",
+     "risk_score": 45.1,
+     "athlete_wbgt_p90_c": 27.4,
+     "athlete_wbgt_p90_f": 81.3,
+     "arrival_wbgt_p90_c": 27.1,
+     "arrival_wbgt_p90_f": 80.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Sailing (Windsurfing & Kite)",
+     "date": "2028-07-20 00:00:00",
+     "time": "14:00-17:00",
+     "medal_session": "gold",
+     "risk_score": 43.4,
+     "athlete_wbgt_p90_c": 26.9,
+     "athlete_wbgt_p90_f": 80.4,
+     "arrival_wbgt_p90_c": 27.0,
+     "arrival_wbgt_p90_f": 80.6,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 26.0,
+     "peak_wbgt_f": 78.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.4,
+     "peak_wbgt_f": 81.3,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.5,
+     "peak_wbgt_f": 81.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 29.4,
+     "peak_wbgt_f": 84.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 28.8,
+     "peak_wbgt_f": 83.8,
+     "flag": "green"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:18:49.159328+00:00"
+ },
+ "sofi_stadium": {
+  "venue_id": "sofi_stadium",
+  "brief": "Heat Safety Brief for SoFi Stadium\n\nSoFi Stadium, located in the Inglewood Zone, will host the Opening Ceremony and Swimming events during the 2028 Games. The venue will have 18 sessions, with the riskiest sessions being the Swimming events on July 26, 27, and 30.\n\nThe surrounding neighbourhood ranks more vulnerable than 79.5% of California census tracts, with 12.8% of the population aged 65+, and 9.9% of households without a car.\n\nThe worst-case scenario for athlete WBGT is 23.5\u00b0C (74.3\u00b0F) on July 30, with no sessions reaching red or black flag levels. The neighbourhood social vulnerability rank is 79.5%, indicating a higher vulnerability.\n\nThis week's forecast (not specific to the 2028 Games) shows a peak WBGT of 24.7\u00b0C (76.5\u00b0F) on October 1, with a flag of \"none\". The forecast then transitions to yellow, red, and black flags, indicating increasing heat risk.\n\nActions:\n\n* Ensure that all staff and spectators take regular breaks in shaded or air-conditioned areas, especially during the hottest parts of the day.\n* Provide water and electrolyte-rich drinks to all staff and spectators, and encourage frequent hydration.\n* Monitor the weather forecast and adjust operations accordingly, taking into account the increasing heat risk as the week progresses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "SoFi Stadium",
+   "zone": "Inglewood Zone",
+   "exposure": "covered",
+   "sports": "Opening Ceremony, Swimming",
+   "sessions": 18,
+   "games_dates": "2028-07-14 00:00:00 to 2028-07-30 00:00:00",
+   "max_session_risk_score_0_100": 43.5,
+   "worst_session_athlete_wbgt_p90_c": 23.5,
+   "worst_session_athlete_wbgt_p90_f": 74.3,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 79.5,
+   "neighbourhood_share_age_65_plus_pct": 12.8,
+   "neighbourhood_share_households_no_car_pct": 9.9,
+   "surface_temp_anomaly_vs_surroundings_c": -2.7,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Swimming",
+     "date": "2028-07-30 00:00:00",
+     "time": "15:00-16:30",
+     "medal_session": "gold",
+     "risk_score": 43.5,
+     "athlete_wbgt_p90_c": 23.5,
+     "athlete_wbgt_p90_f": 74.3,
+     "arrival_wbgt_p90_c": 27.3,
+     "arrival_wbgt_p90_f": 81.1,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Swimming",
+     "date": "2028-07-26 00:00:00",
+     "time": "09:30-11:30",
+     "medal_session": NaN,
+     "risk_score": 39.6,
+     "athlete_wbgt_p90_c": 23.4,
+     "athlete_wbgt_p90_f": 74.1,
+     "arrival_wbgt_p90_c": 25.7,
+     "arrival_wbgt_p90_f": 78.3,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Swimming",
+     "date": "2028-07-27 00:00:00",
+     "time": "09:30-11:30",
+     "medal_session": NaN,
+     "risk_score": 39.4,
+     "athlete_wbgt_p90_c": 23.4,
+     "athlete_wbgt_p90_f": 74.1,
+     "arrival_wbgt_p90_c": 25.6,
+     "arrival_wbgt_p90_f": 78.1,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.7,
+     "peak_wbgt_f": 76.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.0,
+     "peak_wbgt_f": 82.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 29.5,
+     "peak_wbgt_f": 85.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 33.6,
+     "peak_wbgt_f": 92.5,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.3,
+     "peak_wbgt_f": 90.1,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.1,
+     "peak_wbgt_f": 89.8,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.0,
+     "peak_wbgt_f": 89.6,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:19:09.773069+00:00"
+ },
+ "riviera_cc": {
+  "venue_id": "riviera_cc",
+  "brief": "Heat Safety Brief for Riviera Country Club\n\nThe Riviera Country Club will host golf sessions from July 19th to July 29th, 2028. The venue is outdoor, and the surrounding neighbourhood ranks more vulnerable than 23.5% of California census tracts. The neighbourhood has a share of people aged 65+ at 21.8% and households without a car at 5.7%.\n\nThe worst-case scenario for athlete WBGT is 28.8\u00b0C (83.8\u00b0F) on p90 days. No sessions are expected to reach red or black flag conditions.\n\nThis week's forecast (not specific to the 2028 Games) indicates a peak WBGT of 24.1\u00b0C (75.4\u00b0F) on October 1st, with a flag of \"none\". The forecast remains green for the rest of the week.\n\nTo ensure a safe and healthy environment for spectators and athletes, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Provide shade and hydration stations for spectators.\n\u2022 Ensure that athletes have access to cooling measures and hydration during sessions.\n\u2022 Educate staff and spectators on heat safety precautions, such as seeking shade, wearing light-colored clothing, and drinking plenty of water.\n\nRemember, heat safety is a top priority for the success of the 2028 Games. Let's work together to ensure a safe and enjoyable experience for all.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Riviera Country Club",
+   "zone": "Riviera Zone",
+   "exposure": "outdoor",
+   "sports": "Golf",
+   "sessions": 10,
+   "games_dates": "2028-07-19 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 43.1,
+   "worst_session_athlete_wbgt_p90_c": 28.8,
+   "worst_session_athlete_wbgt_p90_f": 83.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 23.5,
+   "neighbourhood_share_age_65_plus_pct": 21.8,
+   "neighbourhood_share_households_no_car_pct": 5.7,
+   "surface_temp_anomaly_vs_surroundings_c": -3.5,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Golf",
+     "date": "2028-07-23 00:00:00",
+     "time": "10:00-16:55",
+     "medal_session": NaN,
+     "risk_score": 43.1,
+     "athlete_wbgt_p90_c": 28.6,
+     "athlete_wbgt_p90_f": 83.5,
+     "arrival_wbgt_p90_c": 26.1,
+     "arrival_wbgt_p90_f": 79.0,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Golf",
+     "date": "2028-07-27 00:00:00",
+     "time": "09:00-18:00",
+     "medal_session": NaN,
+     "risk_score": 38.9,
+     "athlete_wbgt_p90_c": 28.8,
+     "athlete_wbgt_p90_f": 83.8,
+     "arrival_wbgt_p90_c": 23.7,
+     "arrival_wbgt_p90_f": 74.7,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Golf",
+     "date": "2028-07-26 00:00:00",
+     "time": "09:00-18:00",
+     "medal_session": NaN,
+     "risk_score": 38.8,
+     "athlete_wbgt_p90_c": 28.8,
+     "athlete_wbgt_p90_f": 83.8,
+     "arrival_wbgt_p90_c": 23.6,
+     "arrival_wbgt_p90_f": 74.5,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.1,
+     "peak_wbgt_f": 75.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.0,
+     "peak_wbgt_f": 80.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.2,
+     "peak_wbgt_f": 82.8,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 30.6,
+     "peak_wbgt_f": 87.1,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 31.2,
+     "peak_wbgt_f": 88.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 31.1,
+     "peak_wbgt_f": 88.0,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:19:29.565168+00:00"
+ },
+ "universal_squash": {
+  "venue_id": "universal_squash",
+  "brief": "**Heat Safety Brief for Comcast Squash Center at Universal Studios**\n\nThe Comcast Squash Center at Universal Studios is an indoor venue, hosting squash events from July 15 to July 24, 2028. As the surrounding neighbourhood ranks more vulnerable than 27.3% of California census tracts, it's essential to prioritize heat safety.\n\n**Key Facts:**\n\n* The venue's exposure is indoor, with no outdoor activities.\n* The riskiest sessions are scheduled on July 20, 19, and 18, with risk scores ranging from 38.4 to 40.1.\n* The neighbourhood has a high share of people aged 65+ (13.5%) and households without a car (6.0%).\n\n**Actions:**\n\n* Ensure that all staff and spectators are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade or air-conditioned spaces when needed.\n* Monitor the current forecast, which indicates a peak WBGT of 25.1\u00b0C (77.2\u00b0F) on October 1, 2026, with a flag of \"none\". This week's forecast is not related to the 2028 Games.\n* Review and update heat safety procedures to account for the venue's indoor conditions and the surrounding neighbourhood's social vulnerability.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Comcast Squash Center at Universal Studios",
+   "zone": "Universal City Zone",
+   "exposure": "indoor",
+   "sports": "Squash",
+   "sessions": 10,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-24 00:00:00",
+   "max_session_risk_score_0_100": 40.1,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 27.3,
+   "neighbourhood_share_age_65_plus_pct": 13.5,
+   "neighbourhood_share_households_no_car_pct": 6.0,
+   "surface_temp_anomaly_vs_surroundings_c": -0.5,
+   "ozone_days_over_aqi_100_pct": 15.1,
+   "riskiest_sessions": [
+    {
+     "sport": "Squash",
+     "date": "2028-07-20 00:00:00",
+     "time": "19:30-23:15",
+     "medal_session": NaN,
+     "risk_score": 40.1,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 24.2,
+     "arrival_wbgt_p90_f": 75.6,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Squash",
+     "date": "2028-07-19 00:00:00",
+     "time": "19:30-23:15",
+     "medal_session": NaN,
+     "risk_score": 38.8,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 23.8,
+     "arrival_wbgt_p90_f": 74.8,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Squash",
+     "date": "2028-07-18 00:00:00",
+     "time": "19:30-23:15",
+     "medal_session": NaN,
+     "risk_score": 38.4,
+     "athlete_wbgt_p90_c": null,
+     "athlete_wbgt_p90_f": null,
+     "arrival_wbgt_p90_c": 23.7,
+     "arrival_wbgt_p90_f": 74.7,
+     "p90_flag": "indoor",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.1,
+     "peak_wbgt_f": 77.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.8,
+     "peak_wbgt_f": 83.8,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.3,
+     "peak_wbgt_f": 82.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 31.8,
+     "peak_wbgt_f": 89.2,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 32.4,
+     "peak_wbgt_f": 90.3,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 32.6,
+     "peak_wbgt_f": 90.7,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 32.0,
+     "peak_wbgt_f": 89.6,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:19:48.577794+00:00"
+ },
+ "marine_stadium": {
+  "venue_id": "marine_stadium",
+  "brief": "Heat Safety Brief for Marine Stadium:\n\nThe Marine Stadium is an outdoor venue for the Canoe Sprint and Rowing events. The surrounding neighbourhood ranks more vulnerable than 23.9% of California census tracts. The area has a high share of people aged 65+ (16.6%) and households without a car (3.8%). The surface temperature anomaly is -3.9\u00b0C compared to the surroundings.\n\nThe worst-case scenario for athletes is a WBGT of 27.1\u00b0C (80.8\u00b0F) on p90 days. There are no sessions with a red or black flag. The riskiest sessions are all Rowing medal sessions, with the highest risk score being 38.6.\n\nThis week's forecast (not specific to the 2028 Games) shows a peak WBGT of 32.2\u00b0C (90.0\u00b0F) on October 4, with a black flag. On October 5 and 6, the peak WBGT is 31.5\u00b0C (88.7\u00b0F) and 31.7\u00b0C (89.1\u00b0F), respectively, with red flags.\n\nActions:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Ensure adequate hydration and rest breaks for athletes and spectators.\n\u2022 Provide shade and cooling measures for spectators arriving outdoors.\n\u2022 Conduct regular checks on athletes and spectators for signs of heat-related illnesses.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Marine Stadium",
+   "zone": "Long Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Canoe Sprint, Rowing",
+   "sessions": 13,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-29 00:00:00",
+   "max_session_risk_score_0_100": 38.6,
+   "worst_session_athlete_wbgt_p90_c": 27.1,
+   "worst_session_athlete_wbgt_p90_f": 80.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 23.9,
+   "neighbourhood_share_age_65_plus_pct": 16.6,
+   "neighbourhood_share_households_no_car_pct": 3.8,
+   "surface_temp_anomaly_vs_surroundings_c": -3.9,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Rowing",
+     "date": "2028-07-22 00:00:00",
+     "time": "10:30-11:50",
+     "medal_session": "gold",
+     "risk_score": 38.6,
+     "athlete_wbgt_p90_c": 26.8,
+     "athlete_wbgt_p90_f": 80.2,
+     "arrival_wbgt_p90_c": 26.4,
+     "arrival_wbgt_p90_f": 79.5,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Rowing",
+     "date": "2028-07-21 00:00:00",
+     "time": "10:00-11:30",
+     "medal_session": "gold",
+     "risk_score": 35.4,
+     "athlete_wbgt_p90_c": 26.8,
+     "athlete_wbgt_p90_f": 80.2,
+     "arrival_wbgt_p90_c": 24.9,
+     "arrival_wbgt_p90_f": 76.8,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Rowing",
+     "date": "2028-07-18 00:00:00",
+     "time": "13:30-16:00",
+     "medal_session": "gold",
+     "risk_score": 35.2,
+     "athlete_wbgt_p90_c": 26.0,
+     "athlete_wbgt_p90_f": 78.8,
+     "arrival_wbgt_p90_c": 25.9,
+     "arrival_wbgt_p90_f": 78.6,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.8,
+     "peak_wbgt_f": 78.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.3,
+     "peak_wbgt_f": 81.1,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.0,
+     "peak_wbgt_f": 82.4,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 32.2,
+     "peak_wbgt_f": 90.0,
+     "flag": "black"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 31.5,
+     "peak_wbgt_f": 88.7,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 31.7,
+     "peak_wbgt_f": 89.1,
+     "flag": "red"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 31.4,
+     "peak_wbgt_f": 88.5,
+     "flag": "red"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:20:08.583744+00:00"
+ },
+ "venice_beach": {
+  "venue_id": "venice_beach",
+  "brief": "Heat Safety Brief for Venice Beach Venue\n\nThe Venice Beach venue will host the Triathlon events from July 15 to 20, 2028. As an outdoor venue, it is essential to prioritize heat safety for athletes and spectators.\n\nThe worst-case scenario for athlete WBGT is 26.7\u00b0C (80.1\u00b0F), which is considered a hot but not extreme day (p90). There are no sessions with red or black flag conditions.\n\nThe surrounding neighbourhood ranks more vulnerable than 24.9% of California census tracts. The neighbourhood has a share of people aged 65+ at 14.9% and households without a car at 8.5%.\n\nThis week's real forecast (not Games time) shows a peak WBGT of 27.2\u00b0C (81.0\u00b0F) on October 3, with a flag of \"green\". On other days, the peak WBGT ranges from 24.6\u00b0C (76.3\u00b0F) to 30.4\u00b0C (86.7\u00b0F) with flags of \"none\" to \"yellow\".\n\nTo ensure heat safety, please take the following actions:\n\n\u2022 Monitor the forecast and adjust operations accordingly.\n\u2022 Provide adequate shade and hydration stations for athletes and spectators.\n\u2022 Encourage athletes to take regular breaks and stay hydrated.\n\u2022 Ensure that spectators are aware of the heat risks and take necessary precautions.\n\u2022 Consider providing cooling measures for athletes and spectators, such as misting stations or cooling tents.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Venice Beach",
+   "zone": "Venice Zone",
+   "exposure": "outdoor",
+   "sports": "Triathlon",
+   "sessions": 3,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-20 00:00:00",
+   "max_session_risk_score_0_100": 27.5,
+   "worst_session_athlete_wbgt_p90_c": 26.7,
+   "worst_session_athlete_wbgt_p90_f": 80.1,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 24.9,
+   "neighbourhood_share_age_65_plus_pct": 14.9,
+   "neighbourhood_share_households_no_car_pct": 8.5,
+   "surface_temp_anomaly_vs_surroundings_c": -2.1,
+   "ozone_days_over_aqi_100_pct": 0.0,
+   "riskiest_sessions": [
+    {
+     "sport": "Triathlon",
+     "date": "2028-07-20 00:00:00",
+     "time": "08:00-10:00",
+     "medal_session": "gold",
+     "risk_score": 27.5,
+     "athlete_wbgt_p90_c": 26.7,
+     "athlete_wbgt_p90_f": 80.1,
+     "arrival_wbgt_p90_c": 20.2,
+     "arrival_wbgt_p90_f": 68.4,
+     "p90_flag": "green",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Triathlon",
+     "date": "2028-07-16 00:00:00",
+     "time": "07:30-10:00",
+     "medal_session": "gold",
+     "risk_score": 23.6,
+     "athlete_wbgt_p90_c": 25.5,
+     "athlete_wbgt_p90_f": 77.9,
+     "arrival_wbgt_p90_c": 19.7,
+     "arrival_wbgt_p90_f": 67.5,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Triathlon",
+     "date": "2028-07-15 00:00:00",
+     "time": "07:30-10:10",
+     "medal_session": "gold",
+     "risk_score": 22.8,
+     "athlete_wbgt_p90_c": 25.2,
+     "athlete_wbgt_p90_f": 77.4,
+     "arrival_wbgt_p90_c": 19.6,
+     "arrival_wbgt_p90_f": 67.3,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.6,
+     "peak_wbgt_f": 76.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 25.8,
+     "peak_wbgt_f": 78.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 27.2,
+     "peak_wbgt_f": 81.0,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 29.9,
+     "peak_wbgt_f": 85.8,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 30.2,
+     "peak_wbgt_f": 86.4,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 30.4,
+     "peak_wbgt_f": 86.7,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 30.3,
+     "peak_wbgt_f": 86.5,
+     "flag": "yellow"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:20:28.865909+00:00"
+ },
+ "trestles": {
+  "venue_id": "trestles",
+  "brief": "**Heat Safety Brief for Trestles State Beach**\n\nAs we prepare for the 2028 Olympic Games, it's essential to prioritize heat safety for our venue operations staff. Trestles State Beach will host Surfing events from July 15th to July 18th.\n\n**Current Forecast:** As of this week, the forecast indicates a peak WBGT temperature of 28.3\u00b0C (82.9\u00b0F) on October 2nd, with a flag of \"green\". This suggests a hot but not extreme day.\n\n**Venue Conditions:** Our venue is outdoor, with a surface temperature anomaly of -5.3\u00b0C compared to the surroundings. The surrounding neighbourhood ranks more vulnerable than 19.8% of California census tracts, with 19.5% of the population aged 65+ and 1.1% of households without a car.\n\n**Actions:**\n\n* Ensure all staff are aware of the heat safety guidelines and take regular breaks in shaded areas or air-conditioned spaces.\n* Monitor the forecast and adjust operations accordingly to minimize exposure during peak heat hours.\n* Provide adequate hydration and encourage staff to drink plenty of water throughout the day.\n\nRemember, heat safety is a top priority for our staff and athletes. Let's work together to ensure a safe and successful event.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Trestles State Beach",
+   "zone": "Trestles Beach Zone",
+   "exposure": "outdoor",
+   "sports": "Surfing",
+   "sessions": 4,
+   "games_dates": "2028-07-15 00:00:00 to 2028-07-18 00:00:00",
+   "max_session_risk_score_0_100": 23.7,
+   "worst_session_athlete_wbgt_p90_c": 26.0,
+   "worst_session_athlete_wbgt_p90_f": 78.8,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": 19.8,
+   "neighbourhood_share_age_65_plus_pct": 19.5,
+   "neighbourhood_share_households_no_car_pct": 1.1,
+   "surface_temp_anomaly_vs_surroundings_c": -5.3,
+   "ozone_days_over_aqi_100_pct": null,
+   "riskiest_sessions": [
+    {
+     "sport": "Surfing",
+     "date": "2028-07-18 00:00:00",
+     "time": "07:00-17:30",
+     "medal_session": "gold",
+     "risk_score": 23.7,
+     "athlete_wbgt_p90_c": 26.0,
+     "athlete_wbgt_p90_f": 78.8,
+     "arrival_wbgt_p90_c": 19.4,
+     "arrival_wbgt_p90_f": 66.9,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Surfing",
+     "date": "2028-07-17 00:00:00",
+     "time": "07:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 23.7,
+     "athlete_wbgt_p90_c": 26.0,
+     "athlete_wbgt_p90_f": 78.8,
+     "arrival_wbgt_p90_c": 19.3,
+     "arrival_wbgt_p90_f": 66.7,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    },
+    {
+     "sport": "Surfing",
+     "date": "2028-07-15 00:00:00",
+     "time": "07:00-16:30",
+     "medal_session": NaN,
+     "risk_score": 23.3,
+     "athlete_wbgt_p90_c": 25.9,
+     "athlete_wbgt_p90_f": 78.6,
+     "arrival_wbgt_p90_c": 19.0,
+     "arrival_wbgt_p90_f": 66.2,
+     "p90_flag": "none",
+     "pct_days_red_or_worse": 0,
+     "pct_days_black": 0
+    }
+   ],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 24.8,
+     "peak_wbgt_f": 76.6,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 28.3,
+     "peak_wbgt_f": 82.9,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 28.7,
+     "peak_wbgt_f": 83.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 29.3,
+     "peak_wbgt_f": 84.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 28.9,
+     "peak_wbgt_f": 84.0,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 28.9,
+     "peak_wbgt_f": 84.0,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:20:47.466162+00:00"
+ },
+ "sj_stadium": {
+  "venue_id": "sj_stadium",
+  "brief": "Heat Safety Brief for PayPal Park\n\nPayPal Park, located in the San Jos\\u00e9 Zone, will host the Football (Soccer) - Group & Knockout Stages from 2028-07-11 to 2028-07-21. As an outdoor venue, athletes and spectators will be exposed to heat and sun.\n\nThis week's forecast (not specific to the 2028 Games) indicates a moderate heat risk. From October 1 to 7, the peak WBGT temperatures will range from 25.4\u00b0C (77.7\u00b0F) to 29.0\u00b0C (84.2\u00b0F), with flags ranging from \"none\" to \"green\". While the risk is not extreme, it's essential to take precautions to ensure a safe and healthy environment for all.\n\nActions:\n\n\u2022 Ensure adequate hydration and shade availability for athletes and spectators.\n\u2022 Monitor weather forecasts and adjust operations accordingly.\n\u2022 Provide heat-related guidance and education to staff, athletes, and spectators.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "PayPal Park",
+   "zone": "San Jos\u00e9 Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 7,
+   "games_dates": "2028-07-11 00:00:00 to 2028-07-21 00:00:00",
+   "max_session_risk_score_0_100": null,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 0.6,
+   "riskiest_sessions": [],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.4,
+     "peak_wbgt_f": 77.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.0,
+     "peak_wbgt_f": 80.6,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 30.1,
+     "peak_wbgt_f": 86.2,
+     "flag": "yellow"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 28.6,
+     "peak_wbgt_f": 83.5,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 28.9,
+     "peak_wbgt_f": 84.0,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 29.0,
+     "peak_wbgt_f": 84.2,
+     "flag": "green"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:21:00.592387+00:00"
+ },
+ "stl_stadium": {
+  "venue_id": "stl_stadium",
+  "brief": "Heat Safety Brief for Energizer Park\n\nAs we prepare for the 2028 Football (Soccer) - Group & Knockout Stages at Energizer Park, it's essential to prioritize heat safety for all staff and spectators. The surrounding neighbourhood ranks more vulnerable than 0% of California census tracts, making it crucial to take proactive measures.\n\nThe current forecast for this week (not specific to the 2028 Games) indicates a moderate risk, with peak temperatures ranging from 20.9\u00b0C to 23.8\u00b0C (69.6\u00b0F to 74.8\u00b0F). While there are no extreme heat events predicted, it's vital to be prepared for hot conditions.\n\nAs outdoor operations staff, your role is critical in ensuring the safety of athletes, spectators, and fellow staff. Here are three key actions to take:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly. Keep an eye on the current forecast and be prepared to respond to any changes.\n\u2022 Ensure adequate hydration and shade provision for staff and spectators. Make sure there are sufficient water stations and shaded areas to minimize exposure to direct sunlight.\n\u2022 Conduct regular checks on the venue's surface temperature and humidity levels. This will help you identify any potential hotspots and take corrective action to mitigate the risk.\n\nRemember, heat safety is a collective responsibility. Let's work together to ensure a safe and enjoyable experience for everyone at Energizer Park.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Energizer Park",
+   "zone": "St. Louis Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 8,
+   "games_dates": "2028-07-10 00:00:00 to 2028-07-20 00:00:00",
+   "max_session_risk_score_0_100": null,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 1.6,
+   "riskiest_sessions": [],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 23.3,
+     "peak_wbgt_f": 73.9,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 20.9,
+     "peak_wbgt_f": 69.6,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 22.3,
+     "peak_wbgt_f": 72.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 23.6,
+     "peak_wbgt_f": 74.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 21.0,
+     "peak_wbgt_f": 69.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 21.3,
+     "peak_wbgt_f": 70.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 23.8,
+     "peak_wbgt_f": 74.8,
+     "flag": "none"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:21:17.453481+00:00"
+ },
+ "ny_stadium": {
+  "venue_id": "ny_stadium",
+  "brief": "Heat Safety Brief for Etihad Park\n\nEtihad Park, located in the New York Zone, will host the Football (Soccer) - Group & Knockout Stages from 2028-07-10 to 2028-07-20. As an outdoor venue, it's essential to prioritize heat safety for spectators.\n\nThis week's forecast (not specific to the 2028 Games) indicates a moderate risk of heat-related issues, with peak temperatures reaching up to 20.7\u00b0C (69.3\u00b0F) on some days. While the forecast is not extreme, it's crucial to take precautions to ensure everyone's safety.\n\nThe surrounding neighbourhood ranks more vulnerable than 0% of California census tracts, indicating a relatively low social vulnerability. However, it's essential to monitor the situation and take necessary measures to protect spectators, especially those who may be more susceptible to heat-related illnesses.\n\nActions:\n\n\u2022 Ensure adequate hydration and shade availability for spectators.\n\u2022 Provide regular updates on the forecast and heat index to spectators.\n\u2022 Encourage spectators to take regular breaks in shaded areas and stay hydrated.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "Etihad Park",
+   "zone": "New York Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 9,
+   "games_dates": "2028-07-10 00:00:00 to 2028-07-20 00:00:00",
+   "max_session_risk_score_0_100": null,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 5.1,
+   "riskiest_sessions": [],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 20.7,
+     "peak_wbgt_f": 69.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 26.3,
+     "peak_wbgt_f": 79.3,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 20.0,
+     "peak_wbgt_f": 68.0,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 17.3,
+     "peak_wbgt_f": 63.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 19.1,
+     "peak_wbgt_f": 66.4,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 14.3,
+     "peak_wbgt_f": 57.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 16.2,
+     "peak_wbgt_f": 61.2,
+     "flag": "none"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:21:31.485268+00:00"
+ },
+ "columbus_stadium": {
+  "venue_id": "columbus_stadium",
+  "brief": "Heat Safety Brief for ScottsMiracle-Gro Field\n\nThe ScottsMiracle-Gro Field will host the Football (Soccer) - Group & Knockout Stages from 2028-07-10 to 2028-07-20. As an outdoor venue, it is essential to prioritize heat safety for spectators.\n\nAccording to this week's forecast, which is not specific to the 2028 Games, the peak WBGT temperature is expected to be around 22.8\u00b0C (73.0\u00b0F) with a flag of \"none\". While this is not a hot day, it is still important to take precautions to ensure the safety and comfort of spectators.\n\nThe surrounding neighbourhood ranks more vulnerable than 0% of California census tracts, indicating a relatively low social vulnerability. However, it is crucial to provide heat safety information and precautions to all visitors.\n\nActions:\n\n\u2022 Ensure that spectators are aware of the heat safety guidelines and take necessary precautions, such as staying hydrated and seeking shade when possible.\n\u2022 Provide adequate shade and seating areas for spectators to rest and cool down.\n\u2022 Encourage spectators to wear light, loose-fitting clothing and to avoid strenuous activities during peak heat hours.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "ScottsMiracle-Gro Field",
+   "zone": "Columbus Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 9,
+   "games_dates": "2028-07-10 00:00:00 to 2028-07-20 00:00:00",
+   "max_session_risk_score_0_100": null,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 0.3,
+   "riskiest_sessions": [],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 22.8,
+     "peak_wbgt_f": 73.0,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 20.3,
+     "peak_wbgt_f": 68.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 18.8,
+     "peak_wbgt_f": 65.8,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 22.3,
+     "peak_wbgt_f": 72.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 17.7,
+     "peak_wbgt_f": 63.9,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 17.5,
+     "peak_wbgt_f": 63.5,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 20.3,
+     "peak_wbgt_f": 68.5,
+     "flag": "none"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:21:46.445563+00:00"
+ },
+ "nashville_stadium": {
+  "venue_id": "nashville_stadium",
+  "brief": "Heat Safety Brief for GEODIS Park\n\nAs we prepare for the 2028 Football (Soccer) - Group & Knockout Stages at GEODIS Park, it's essential to prioritize heat safety for both athletes and spectators. The venue is located in the Nashville Zone, with outdoor exposure.\n\nAccording to this week's forecast, which is not specific to the 2028 Games, the peak WBGT temperature is expected to be 24.3\u00b0C (75.7\u00b0F) with a flag of \"none\" on October 7th. This indicates a p90 day, which means that on average, only 1 in 10 comparable historical days were hotter.\n\nThe surrounding neighbourhood ranks more vulnerable than 0% of California census tracts, with no available data on the share of people aged 65+ or households without a car.\n\nTo ensure a safe and healthy environment for all, please take the following actions:\n\n\u2022 Monitor the weather forecast and adjust operations accordingly.\n\u2022 Ensure adequate hydration and rest breaks for athletes and staff.\n\u2022 Provide shade and cooling measures for spectators, especially those most vulnerable to heat stress.\n\nRemember, heat safety is a top priority. Let's work together to ensure a successful and safe event at GEODIS Park.",
+  "model": "ollama:llama3:instruct",
+  "ungrounded_numbers": [],
+  "grounded": true,
+  "facts": {
+   "venue": "GEODIS Park",
+   "zone": "Nashville Zone",
+   "exposure": "outdoor",
+   "sports": "Football (Soccer) - Group & Knockout Stages",
+   "sessions": 9,
+   "games_dates": "2028-07-10 00:00:00 to 2028-07-21 00:00:00",
+   "max_session_risk_score_0_100": null,
+   "worst_session_athlete_wbgt_p90_c": null,
+   "worst_session_athlete_wbgt_p90_f": null,
+   "sessions_with_red_or_black_p90": 0,
+   "neighbourhood_social_vulnerability_rank_pctile_vs_california_tracts": null,
+   "neighbourhood_share_age_65_plus_pct": null,
+   "neighbourhood_share_households_no_car_pct": null,
+   "surface_temp_anomaly_vs_surroundings_c": null,
+   "ozone_days_over_aqi_100_pct": 1.1,
+   "riskiest_sessions": [],
+   "this_week_forecast_not_games_time": [
+    {
+     "date": "2026-10-01 00:00:00",
+     "peak_wbgt_c": 25.4,
+     "peak_wbgt_f": 77.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-02 00:00:00",
+     "peak_wbgt_c": 27.6,
+     "peak_wbgt_f": 81.7,
+     "flag": "green"
+    },
+    {
+     "date": "2026-10-03 00:00:00",
+     "peak_wbgt_c": 24.3,
+     "peak_wbgt_f": 75.7,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-04 00:00:00",
+     "peak_wbgt_c": 22.9,
+     "peak_wbgt_f": 73.2,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-05 00:00:00",
+     "peak_wbgt_c": 22.8,
+     "peak_wbgt_f": 73.0,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-06 00:00:00",
+     "peak_wbgt_c": 23.4,
+     "peak_wbgt_f": 74.1,
+     "flag": "none"
+    },
+    {
+     "date": "2026-10-07 00:00:00",
+     "peak_wbgt_c": 24.3,
+     "peak_wbgt_f": 75.7,
+     "flag": "none"
+    }
+   ]
+  },
+  "generated_at": "2026-10-06T21:22:01.858378+00:00"
+ }
+}

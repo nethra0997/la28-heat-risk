@@ -10,7 +10,7 @@ AIRFLOW_ENV := PATH=$(CURDIR)/orchestration/.venv/bin:$$PATH \
                AIRFLOW__CORE__LOAD_EXAMPLES=False
 AIRFLOW := $(AIRFLOW_ENV) orchestration/.venv/bin/airflow
 
-.PHONY: setup airflow-setup extract dbt export all forecast test airflow airflow-test
+.PHONY: setup airflow-setup extract dbt export briefs all forecast test airflow airflow-test
 
 setup:            ## project env (pipeline, dbt)
 	uv sync
@@ -36,7 +36,10 @@ dbt:              ## build and test every dbt model
 export:           ## gold tables -> data/gold/*.csv
 	$(UV) python -m heatrisk.export
 
-all: extract dbt export
+briefs:           ## AI venue briefs (local Ollama by default; see .env.example)
+	$(UV) python -m ai.briefs
+
+all: extract dbt export briefs
 
 forecast:         ## refresh just the 7-day forecast
 	$(UV) python -m ingestion.nws_forecast

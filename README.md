@@ -18,7 +18,7 @@ project lives on the [`reference`](../../tree/reference) branch.
 - [x] **6. Other data sources:** schedule PDF, NWS forecast, Landsat raster, EPA air quality, census/SVI
 - [x] **7. dbt (part 2):** silver and gold models across all sources, session risk score
 - [x] **8. Airflow:** orchestrating the pipeline as a DAG
-- [ ] **9. AI:** LLM-written venue briefs with a grounding check
+- [x] **9. AI:** LLM-written venue briefs with a grounding check
 - [ ] **10. Tableau dashboard**
 
 ## Run it

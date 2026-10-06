@@ -6,7 +6,7 @@ dbt / geopandas / rasterio. Each task is idempotent: extractors overwrite their
 bronze parquet file, dbt rebuilds tables.
 
   la28_baseline   monthly  schedule PDF, venues, 11 summers of weather, Landsat,
-                           air quality, community data -> dbt -> exports
+                           air quality, community data -> dbt -> exports -> AI briefs
   la28_forecast   daily    NWS 7-day forecast -> forecast models -> exports.
                            Also triggered whenever the baseline asset updates.
 """
@@ -79,8 +79,9 @@ def la28_baseline():
     build = dbt("dbt_build", "build --exclude slv_forecast_wbgt+",
                 outlets=[WAREHOUSE, BASELINE_BUILT])
     export = py("export_gold", "heatrisk.export", outlets=[GOLD_EXPORTS])
+    briefs = py("generate_briefs", "ai.briefs", execution_timeout=timedelta(hours=1))
 
-    schedule >> venues >> extract() >> seed >> build >> export
+    schedule >> venues >> extract() >> seed >> build >> export >> briefs
 
 
 @dag(
