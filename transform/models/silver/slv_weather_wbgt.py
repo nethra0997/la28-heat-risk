@@ -24,7 +24,7 @@ def model(dbt, session):
     shade = wbgt(df["temp_c"], df["rh_pct"], df["pressure_hpa"], u2, np.zeros(n), np.zeros(n))
 
     out = df[["loc_id", "time_utc", "time_local", "year_local", "temp_c", "rh_pct",
-              "wind_10m_ms", "ghi_wm2"]].copy()
+              "wind_10m_ms", "ghi_wm2", "precip_mm"]].copy()
     out["cos_zenith"] = cza
     out["wind_2m_ms"] = u2
     out["globe_temp_c"] = sun["globe_temp_c"].to_numpy()

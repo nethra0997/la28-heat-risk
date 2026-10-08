@@ -16,6 +16,7 @@ select
     w.shortwave_radiation       as ghi_wm2,
     w.direct_radiation          as direct_wm2,
     w.diffuse_radiation         as diffuse_wm2,
+    w.precipitation             as precip_mm,
     w.grid_elevation_m
 from {{ source('bronze', 'weather_hourly_history') }} w
 join {{ source('bronze', 'weather_locations') }} l using (loc_id)

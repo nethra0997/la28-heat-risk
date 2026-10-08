@@ -32,6 +32,7 @@ HOURLY = [
     "direct_radiation",          # ...split into the straight-from-the-sun part
     "diffuse_radiation",         # ...and the scattered-by-the-sky part
     "direct_normal_irradiance",  # W/m², direct sun on a surface facing the sun
+    "precipitation",             # mm of rain in the preceding hour (for the fan guide)
 ]
 
 BRONZE = Path("data/bronze")

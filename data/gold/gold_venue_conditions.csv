@@ -1,0 +1,48 @@
+venue_id,venue_name,region,exposure,lat,lon,local_time_zone,n_afternoons,typical_afternoon_temp_f,hot_afternoon_temp_f,p_rainy_afternoon
+lb_shooting_hall,Long Beach Target Shooting Hall,la_metro,indoor,33.7647297,-118.1906881,America/Los_Angeles,231,79.0,85.0,0.012987012987012988
+peacock_theater,Peacock Theater,la_metro,indoor,34.0445026,-118.2670716,America/Los_Angeles,231,88.0,94.0,0.017316017316017316
+columbus_stadium,ScottsMiracle-Gro Field,remote,outdoor,39.968362,-83.0166582,America/New_York,231,85.0,90.0,0.3463203463203463
+nashville_stadium,GEODIS Park,remote,outdoor,36.130025,-86.7659442,America/Chicago,231,90.0,95.0,0.39826839826839827
+crypto_arena,Crypto.com Arena,la_metro,indoor,34.0429979,-118.2671352,America/Los_Angeles,231,88.0,94.0,0.017316017316017316
+universal_squash,Comcast Squash Center at Universal Studios,la_metro,indoor,34.1392322,-118.3543834,America/Los_Angeles,231,88.0,95.0,0.017316017316017316
+carson_velodrome,VELO Sports Center,la_metro,indoor,33.8590663,-118.259801,America/Los_Angeles,231,83.0,89.0,0.012987012987012988
+belmont_shore,Belmont Shore,la_metro,outdoor,33.7572435,-118.1370107,America/Los_Angeles,231,80.0,86.0,0.012987012987012988
+riviera_cc,Riviera Country Club,la_metro,outdoor,34.0451645,-118.5024932,America/Los_Angeles,231,82.0,89.0,0.008658008658008658
+honda_center,Honda Center,la_metro,indoor,33.8078316,-117.876534,America/Los_Angeles,231,84.0,91.0,0.012987012987012988
+la_convention_center,Los Angeles Convention Center,la_metro,indoor,34.0414677,-118.2689803,America/Los_Angeles,231,88.0,94.0,0.017316017316017316
+intuit_dome,Intuit Dome,la_metro,indoor,33.9442586,-118.3421719,America/Los_Angeles,231,83.0,89.0,0.017316017316017316
+marine_stadium,Marine Stadium,la_metro,outdoor,33.7658713,-118.1268662,America/Los_Angeles,231,80.0,86.0,0.012987012987012988
+industry_hills,Industry Hills MTB Course,la_metro,outdoor,34.0261706,-117.9385379,America/Los_Angeles,231,92.0,98.0,0.012987012987012988
+lb_aquatics,Long Beach Aquatics Center,la_metro,outdoor,33.7647297,-118.1906881,America/Los_Angeles,231,79.0,85.0,0.012987012987012988
+carson_field,Carson Field (hockey),la_metro,outdoor,33.8623767,-118.2629113,America/Los_Angeles,231,83.0,89.0,0.012987012987012988
+sepulveda_basin_4,Valley Complex 4 (Sepulveda Basin),la_metro,outdoor,34.1733026,-118.4868622,America/Los_Angeles,231,88.0,96.0,0.012987012987012988
+ny_stadium,Etihad Park,remote,outdoor,40.7583415,-73.8433618,America/New_York,231,84.0,92.0,0.3203463203463203
+sofi_stadium,SoFi Stadium,la_metro,covered,33.9534074,-118.3390098,America/Los_Angeles,231,84.0,90.0,0.017316017316017316
+trestles,Trestles State Beach,socal,outdoor,33.3883865,-117.5945414,America/Los_Angeles,231,76.0,81.0,0.012987012987012988
+okc_softball,Devon Park (USA Softball Hall of Fame Stadium),remote,outdoor,35.5247119,-97.4642798,America/Chicago,231,95.0,100.0,0.12121212121212122
+sj_stadium,PayPal Park,remote,outdoor,37.3513087,-121.924672,America/Los_Angeles,231,84.0,91.0,0.008658008658008658
+rose_bowl,Rose Bowl Stadium,la_metro,outdoor,34.1613492,-118.1676674,America/Los_Angeles,231,90.0,96.0,0.017316017316017316
+la_zoo,Los Angeles Zoo (time trial start),la_metro,outdoor,34.1482513,-118.2892689,America/Los_Angeles,231,89.0,95.0,0.017316017316017316
+lb_climbing,Long Beach Climbing Theater,la_metro,outdoor,33.7647297,-118.1906881,America/Los_Angeles,231,79.0,85.0,0.012987012987012988
+port_of_la,Port of Los Angeles (sailing),la_metro,outdoor,33.7239147,-118.2825205,America/Los_Angeles,231,78.0,82.0,0.008658008658008658
+venice_beach,Venice Beach,la_metro,outdoor,33.9799601,-118.468771,America/Los_Angeles,231,77.0,85.0,0.008658008658008658
+lb_arena,Long Beach Arena,la_metro,indoor,33.7640942,-118.1883741,America/Los_Angeles,231,79.0,85.0,0.012987012987012988
+sepulveda_basin_2,Valley Complex 2 (Sepulveda Basin),la_metro,outdoor,34.1733026,-118.4868622,America/Los_Angeles,231,88.0,96.0,0.012987012987012988
+stl_stadium,Energizer Park,remote,outdoor,38.6313184,-90.2103075,America/Chicago,231,89.0,96.0,0.29004329004329005
+carson_tennis,Carson Tennis Center (Dignity Health Sports Park),la_metro,outdoor,33.8623767,-118.2629113,America/Los_Angeles,231,83.0,89.0,0.012987012987012988
+bmo_stadium,BMO Stadium,la_metro,outdoor,34.012814,-118.2840892,America/Los_Angeles,231,84.0,90.0,0.017316017316017316
+griffith_observatory,Griffith Observatory (road cycling finish),la_metro,outdoor,34.1182187,-118.3002933,America/Los_Angeles,231,89.0,95.0,0.012987012987012988
+carson_stadium,Carson Stadium (Dignity Health Sports Park),la_metro,outdoor,33.8623767,-118.2629113,America/Los_Angeles,231,83.0,89.0,0.012987012987012988
+sepulveda_basin_1,Valley Complex 1 (Sepulveda Basin),la_metro,outdoor,34.1733026,-118.4868622,America/Los_Angeles,231,88.0,96.0,0.012987012987012988
+santa_anita,Santa Anita Park,la_metro,outdoor,34.1389561,-118.0458874,America/Los_Angeles,231,90.0,97.0,0.012987012987012988
+alamitos_beach,Alamitos Beach Stadium,la_metro,outdoor,33.7622,-118.178,America/Los_Angeles,231,79.0,85.0,0.012987012987012988
+sepulveda_basin_3,Valley Complex 3 (Sepulveda Basin),la_metro,outdoor,34.1733026,-118.4868622,America/Los_Angeles,231,88.0,96.0,0.012987012987012988
+rose_bowl_aquatics,Rose Bowl Aquatics Center,la_metro,outdoor,34.1512722,-118.1643208,America/Los_Angeles,231,90.0,96.0,0.017316017316017316
+whittier_narrows,Whittier Narrows Clay Shooting Center,la_metro,outdoor,34.03502,-118.0510434,America/Los_Angeles,231,90.0,97.0,0.012987012987012988
+venice_boardwalk,Venice Beach Boardwalk,la_metro,outdoor,33.9867133,-118.4741048,America/Los_Angeles,231,77.0,85.0,0.008658008658008658
+okc_whitewater,Riversport OKC,remote,outdoor,35.453,-97.506,America/Chicago,231,94.0,100.0,0.12987012987012986
+la_coliseum,Los Angeles Memorial Coliseum,la_metro,outdoor,34.0139159,-118.2877996,America/Los_Angeles,231,84.0,90.0,0.017316017316017316
+dodger_stadium,Dodger Stadium,la_metro,outdoor,34.0736255,-118.2398452,America/Los_Angeles,231,87.0,94.0,0.017316017316017316
+sd_stadium,Snapdragon Stadium,remote,outdoor,32.7842418,-117.1223904,America/Los_Angeles,231,77.0,82.0,0.017316017316017316
+galen_center,Galen Center,la_metro,indoor,34.020753,-118.2797965,America/Los_Angeles,231,84.0,90.0,0.017316017316017316
+fairplex_cricket,Fairgrounds Cricket Stadium (Fairplex),la_metro,outdoor,34.0870515,-117.7668542,America/Los_Angeles,231,92.0,98.0,0.012987012987012988

@@ -45,6 +45,8 @@ select
     h.rh_pct,
     h.wbgt_sun_c,
     h.wbgt_shade_c,
+    h.ghi_wm2,
+    h.precip_mm,
     -- Hour the spectators arrive: the hour before the session starts
     (h.time_local < w.analog_start)                                    as is_arrival_hour
 from windows w

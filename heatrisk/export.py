@@ -12,7 +12,8 @@ import duckdb
 
 WAREHOUSE = Path("data/warehouse.duckdb")
 GOLD_DIR = Path("data/gold")
-TABLES = ["gold_session_risk", "gold_venue_summary", "gold_session_heat", "gold_venue_forecast"]
+TABLES = ["gold_session_risk", "gold_session_conditions", "gold_venue_conditions", "gold_venue_summary", "gold_session_heat",
+          "gold_venue_forecast"]
 
 
 def main() -> None:

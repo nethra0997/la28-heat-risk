@@ -163,6 +163,38 @@ models:
           - in_range:
               arguments: {min_value: 0, max_value: 100}
 
+  - name: gold_session_conditions
+    description: >
+      Fan's guide, one row per session: typical and hot-day temperature in °F, a comfort level,
+      chance of rain, sun and smog, and rule-based advice on what to bring. Patterns from
+      2015-2025, not a forecast.
+    columns:
+      - name: session_id
+        data_tests: [unique, not_null]
+      - name: comfort
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [Comfortable, Warm, Hot, Very hot, Indoors, Not yet scheduled]
+      - name: p_rain
+        data_tests:
+          - in_range:
+              arguments: {min_value: 0, max_value: 1}
+
+  - name: gold_venue_conditions
+    description: >
+      Fan's guide, one row per venue: a typical and a hot afternoon (noon-6 pm local time) in °F
+      and the chance of a rainy afternoon, July 10-30 of 2015-2025.
+    columns:
+      - name: venue_id
+        data_tests: [unique, not_null]
+      - name: p_rainy_afternoon
+        data_tests:
+          - not_null
+          - in_range:
+              arguments: {min_value: 0, max_value: 1}
+
   - name: gold_venue_summary
     description: One row per venue for the map and the AI briefs.
     columns:
