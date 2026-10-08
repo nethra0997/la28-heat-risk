@@ -36,6 +36,8 @@ select
     any_value(v.lat)                                            as lat,
     any_value(v.lon)                                            as lon,
     any_value(v.tz)                                             as local_time_zone,
+    any_value(vs.sports)                                        as sports,
+    any_value(vs.n_sessions)                                    as n_sessions,
     count(*)                                                    as n_afternoons,
     round(median(a.peak_temp_c) * 9 / 5 + 32)                   as typical_afternoon_temp_f,
     round(quantile_cont(a.peak_temp_c, 0.9) * 9 / 5 + 32)       as hot_afternoon_temp_f,
@@ -43,4 +45,5 @@ select
     avg(case when a.rain_mm >= 0.5 then 1.0 else 0.0 end)       as p_rainy_afternoon
 from venues v
 join afternoons a using (venue_id)
+left join {{ ref('gold_venue_summary') }} vs using (venue_id)  -- sports played there, for tooltips
 group by v.venue_id
