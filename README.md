@@ -75,7 +75,9 @@ make airflow    # Airflow UI at http://localhost:8080
 
 ## How this repo was built
 
-The `main` branch was built in stages, one commit per stage, from a first API call to orchestration
-and AI. The `reference` branch holds the first complete version for comparison.
+In stages, one commit per stage: a first API call for one venue and one week, then all venues and
+11 summers, the heat model and its tests, a hand-built DuckDB warehouse, dbt, the remaining data
+sources, the risk and conditions models, Airflow, and the AI briefs. The commit history follows
+that path.
 
 *Independent project, not affiliated with LA28, the IOC or the USOPC.*

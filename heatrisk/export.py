@@ -1,4 +1,4 @@
-"""Export the gold tables from the warehouse to data/gold/ as CSV (for Tableau) and Parquet.
+"""Export the gold tables from the warehouse to data/gold/ as CSV files for Tableau.
 
 Tableau Public can't connect to a DuckDB file, so the dashboard reads these flat files.
 Run after `dbt build`.
@@ -27,7 +27,6 @@ def main() -> None:
             print(f"skip {t} (not built; run dbt build first)")
             continue
         rel = con.sql(f"select * from gold.{t}")
-        rel.write_parquet(str(GOLD_DIR / f"{t}.parquet"))
         rel.write_csv(str(GOLD_DIR / f"{t}.csv"))
         print(f"{t}: {rel.count('*').fetchone()[0]:,} rows")
 

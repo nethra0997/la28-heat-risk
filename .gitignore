@@ -1,33 +1,30 @@
-# data lake + warehouse (rebuilt by the pipeline)
+# data rebuilt by the pipeline
 data/bronze/
-data/silver/
 data/warehouse.duckdb*
 data/*.log
-# gold CSV/parquet exports are small and power the Streamlit app + Tableau; keep them
-!data/gold/
+data/gold/*.parquet
 
-# environments / secrets
+# environments and secrets
 .venv/
 orchestration/.venv/
 .env
 
-# airflow runtime
+# airflow runtime (created by `make airflow-setup`)
 orchestration/airflow_home/
-!orchestration/airflow_home/.gitkeep
 
 # dbt
 transform/target/
 transform/dbt_packages/
 transform/logs/
+transform/.user.yml
 logs/
 
-# python / tooling
+# python and tooling
 __pycache__/
 *.pyc
 .pytest_cache/
 .ruff_cache/
-.ipynb_checkpoints/
 .DS_Store
 
-# dbt anonymous user id
-transform/.user.yml
+# personal reference documents (kept locally, not published)
+docs/
