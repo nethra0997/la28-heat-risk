@@ -6,7 +6,7 @@ An end-to-end data pipeline that combines 11 summers of hourly weather, the offi
 schedule, satellite surface temperature, air quality and census data into a plain-language
 guide to conditions at every venue and session of the LA28 Games (July 10–30, 2028).
 
-- **Dashboard:** [Tableau Public](DASHBOARD_LINK) (2 pages: *At a glance* and *Plan your visit*)
+- **Dashboard:** [Tableau Public](https://public.tableau.com/views/LA28HeatRiskAFansGuidetoConditionsatthe2028Olympics/LA28-At-A-Glance) (2 pages: *At a glance* and *Plan your visit*)
 - **Full report:** [docs/LA28_Heat_Risk_Project_Report.pdf](docs/LA28_Heat_Risk_Project_Report.pdf)
 
 ## Findings
